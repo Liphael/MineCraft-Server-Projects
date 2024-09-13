@@ -1,8 +1,9 @@
-# MineCraft-Server-Projects
+# MC服务器项目总目录 & 指南文件
 包含运行中/构思中的MC服务器项目。Containing ongoing/upcoming MineCraft server projects.
 #### 声明 Statements
-开发指南见下使用教程部分，结构部分为文档收录结构分层使用。<br>
+开发指南见下使用教程部分，结构、定义部分为文档收录结构分层使用。<br>
 The development guide can be found in the tutorial section below, and the structure section is the hierarchical use of the document collection structure.<br>
+
 本文档结构基于"Compass 0.1.0-alpha"撰写。<br>
 the structure of this doc is following "Compass 0.1.0-alpha".<br><br>
 
@@ -28,14 +29,12 @@ the structure of this doc is following "Compass 0.1.0-alpha".<br><br>
   belongling: null(tentative)<br>
 
 ## 定义 Definition
-知识库构建指导：“Compass”架构
-
-> Repository construction guidance: “Compass” Structure
+ImagEMappeR.org的我的世界服务器项目总目录、指南文件<br>
+Minecraft Server projects' directory and guide files, for ImagEMappeR.org
 
 ## 用途 Usage
-指南针架构的意图，是在依据更高普遍性(蕴含抽象性)的逻辑基础上，建立起易抽象性更好的知识库体系。其中，更高普遍性的意义在于：同样的对象和符号，能在不同的使用者手中同样地解读，并且所有人都能理解其编辑规则，共同进行库的丰富和整理；易抽象性的意义在于：对于高度统一、高度抽象的概念，库读者可以迅速找到其具象化的方法，或对应的案例，以此与自身使用需求对接。
-
-从此出发，指南针架构的发展方向应当是：逻辑（结构）层次严谨而简明的，抽象具象两极化且内容和谐相生的，以相对固定流程为基础、开源可个性化为延展的。
+ImagEMappeR.org的我的世界服务器项目总目录、指南文件，在使用教程部分规定本项目文件总的结构、开发模板，以便于不同开发人员基于统一规则的修改和自定义更新。<br>
+ImagEMappeR.org原版权所有，以MIT.License为开源协议；您可以在[License文件夹]()<br>
 
 > The intention of the compass architecture is to establish a knowledge base system that is easier to abstract based on a logical foundation of higher universality (containing abstraction). The significance of higher universality lies in the fact that the same objects and symbols can be interpreted equally by different users, and everyone can understand their editing rules to enrich and organize the library together; The significance of abstractness lies in the fact that for highly unified and abstract concepts, library readers can quickly find ways to concretize them or corresponding cases to match their own usage needs.
 
