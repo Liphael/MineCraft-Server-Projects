@@ -17,13 +17,13 @@ the structure of this doc is following "Compass 0.1.0-alpha".<br><br>
   
 - **模块属性** **modulization**
   
-  前置：[Forge官方](https://files.minecraftforge.net/net/minecraftforge/forge/);[CurseForge官方](https://www.curseforge.com/);等。
-  同类：任意我的世界整合包、包组
-  附属：暂无
+  前置：[Forge官方](https://files.minecraftforge.net/net/minecraftforge/forge/);[CurseForge官方](https://www.curseforge.com/);等。<br>
+  同类：任意我的世界整合包、包组<br>
+  附属：暂无<br>
   
-  Prerequisite: [Forge Official](https://files.minecraftforge.net/net/minecraftforge/forge/);[CurseForge Official](https://www.curseforge.com/);
-  Homotype: Any MineCraft Integration Packages, or Package Groups
-  belongling: null(tentative)
+  Prerequisite: [Forge Official](https://files.minecraftforge.net/net/minecraftforge/forge/);[CurseForge Official](https://www.curseforge.com/);<br>
+  Homotype: Any MineCraft Integration Packages, or Package Groups<br>
+  belongling: null(tentative)<br>
 
 ## 定义 Definition
 知识库构建指导：“Compass”架构
