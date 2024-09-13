@@ -34,7 +34,7 @@ Minecraft Server projects' directory and guide files, for ImagEMappeR.org
 
 ## 用途 Usage
 ImagEMappeR.org的我的世界服务器项目总目录、指南文件，在使用教程部分规定本项目文件总的结构、开发模板，以便于不同开发人员基于统一规则的修改和自定义更新。<br>
-ImagEMappeR.org原版权所有，以MIT.License为开源协议；您可以在[License文件夹]()<br>
+ImagEMappeR.org原版权所有，以MIT.License为开源许可协议；您可以在[License文件夹](https://github.com/Liphael/MineCraft-Server-Projects/tree/main/License)中查看开源许可的所有内容。<br>
 
 > The intention of the compass architecture is to establish a knowledge base system that is easier to abstract based on a logical foundation of higher universality (containing abstraction). The significance of higher universality lies in the fact that the same objects and symbols can be interpreted equally by different users, and everyone can understand their editing rules to enrich and organize the library together; The significance of abstractness lies in the fact that for highly unified and abstract concepts, library readers can quickly find ways to concretize them or corresponding cases to match their own usage needs.
 
