@@ -1,6 +1,8 @@
 # MineCraft-Server-Projects
 包含运行中/构思中的MC服务器项目。Containing ongoing/upcoming MineCraft server projects.
-### 声明 Statement
+#### 声明 Statements
+开发指南见下使用教程部分，结构部分为文档收录结构分层使用。<br>
+The development guide can be found in the tutorial section below, and the structure section is the hierarchical use of the document collection structure.<br>
 本文档结构基于"Compass 0.1.0-alpha"撰写。<br>
 the structure of this doc is following "Compass 0.1.0-alpha".<br><br>
 
