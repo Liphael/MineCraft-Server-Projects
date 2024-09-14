@@ -33,84 +33,32 @@ ImagEMappeR.org的我的世界服务器项目总目录、指南文件<br>
 Minecraft Server projects' directory and guide files, for ImagEMappeR.org
 
 ## 用途 Usage
-ImagEMappeR.org的我的世界服务器项目总目录、指南文件，在使用教程部分规定本项目文件总的结构、开发模板，以便于不同开发人员基于统一规则的修改和自定义更新。<br>
+ImagEMappeR.org的我的世界服务器项目总目录、指南文件，在使用教程部分规定本项目文件总的结构、开发模板，以便于不同开发人员基于统一规则的修改和自定义更新，以及为不同mod进行整合优化服务。<br>
 ImagEMappeR.org原版权所有，以MIT.License为开源许可协议；您可以在[License文件夹](https://github.com/Liphael/MineCraft-Server-Projects/tree/main/License)中查看开源许可的所有内容。<br>
 
-> The intention of the compass architecture is to establish a knowledge base system that is easier to abstract based on a logical foundation of higher universality (containing abstraction). The significance of higher universality lies in the fact that the same objects and symbols can be interpreted equally by different users, and everyone can understand their editing rules to enrich and organize the library together; The significance of abstractness lies in the fact that for highly unified and abstract concepts, library readers can quickly find ways to concretize them or corresponding cases to match their own usage needs.
-
-> From this point on, the development direction of the compass architecture should be: a logical (structural) hierarchy that is rigorous and concise, abstract and concrete that is polarized and harmonious in content, based on relatively fixed processes, and open source and customizable as extensions.
-
 ## 使用教程 Tutorial
-### 申明必要概念 Declaration of necessary concepts
+### 立项 
+#### 立项基本流程：
+1. 在此目录下建立一个**唯一的**仅属于该项目的子文件夹，文件夹将包含项目所有历史内容；并以服务器项目的正式或暂定名称命名。<br>
+2. 在该子文件夹中，建立以****规则命名的发行(release)版本号子文件夹，对应每个发行版本的内容。<br>
+3. 在该子文件夹中，建立名为**README.md**的markdown文件，文件内容为下述**项目基本结构**部分中的**项目总规划**所述部分。<br>
+4. 在该子文件夹中，建立名为**PUSH_ADVICE.md**的markdown文件，文件内容为对**项目总规划**的修缮提议，内容格式无规则，自由记录想法。<br>
+#### 其他注意事项：
+* 开发人员对项目总规划的内容发生分歧时，若不能达成一致，应对分歧内容重新立项。<br><br>
 
-为了避免产生不必要的疑惑，在此申明一些必要的概念，以提供使用者在首次尝试使用Compass撰写知识单位页面时、可能所需的参照。
+### 项目基本结构 Basic projects structure
+#### 项目总规划
+项目总规划的内容暂定为下述几个部分，为选取整合用mod、资源包以及自编源码等提供目的性指南：<br>
+注：游戏中未作修改的部分空置不写即可；<br>
+1. 总描述部分：以相对简洁的文字描述服务器整合包游戏体验的特征，玩法风格等。
+2. 宏观重制部分：(暂定)包括**地图生成**、**制作系统**、**魔法系统**、**交互系统**四个子部分。宏观重制中陈列的内容要求对游戏中原生的机制作出较大修改，否则可以简单列在体验优化部分中。
+3. 体验优化部分：(暂定)包括**物品方块**、**行为机制**、**动画&插件**、**交互机制**四个子部分。此处列出的优化为主要面向客户端资源包的、可选的优化，或者对游戏内容本身改动较小的部分。<br><br>
 
-> To avoid unnecessary confusion, some necessary concepts are hereby declared to provide users with references they may need when attempting to write a knowledge unit page using Compass for the first time.
-
-单位：一个物件对象，或事件对象，或方法对象。这也是库结构中，每个子项的标题，是所记录知识对象的总标题。
-
-> **Unit**: an object, or event, or method. This is also the title of each sub-item among the repository, and the overall title of the knowledge object u want to record.
-
-单位页面：这个对象的详细信息页面。这是在库中对该对象展开详细描述和知识记录的页面，是指南针架构的应用处。
-
-> **Unit Page**: Detailed description page of the unit. This is a page that provides a detailed description and knowledge record of the object in the library, where **Compass Structure** about to be applied.
-
-两个主要要素：意义和合理性。
-
-确保每个单元的副标题，都是单元的高级抽象部分；解释意义，并诠释其合理性。
-
-副标题的内容，建议分为两类：一类是高度抽象的、象征性的；另一种是对抽象事物的实际描述和解释。
-
-> two main elements: **meaning** & **rationality**.
-
-> ensure every subtitle of the unit, is a high level abstract part of the unit; explaining the meaning, providing rationality.
-
-> the content of the subtitle, is recommended to be two types of parts: one highly abstract, symbolized; another is practical description, explaination of the abstract things.<br><br>
-
-### 基本结构 Basic structure
-
-以下为**Compass**架构下，单位页面的基本内容：
-1. 结构<br>
-   结构部分应当由两个系列组成，即**纯粹分类**与**模块属性**。
-   1. **纯粹分类**：纯粹分类为你的总目录分级服务，应当严格服从总目录的分级分类；这是为了自下而上的顺序、以及追根溯源夯实知识基础的需要准备的。
-   2. **模块属性**：模块属性中将展示学习和理解该单位（对象）可能所需的前置要求，同类替代以及可选的拓展等；这是为了自上而下学习顺序、以及实际应用产生的灵活需求准备的。<br>
-2. （官方/公认）指导文件（或链接）<br>
-   当单位页面不值得花费更多精力来陈列不必要的信息，指导文件的链接可以方便提供额外的参考。<br>
-3. 抽象定义<br>
-   此为**抽象具象两极**（以下简称**两级**）中抽象的极端；<br>
-   应当追求逻辑严密和统一化下，最精炼的符号表达。<br>
-   它的意义在于：能熟练运用该抽象定义时，用于简化描述实际问题，寻找同质性和提高处理问题效率。<br>
-4. 抽象性质<br>
-   是基于上述抽象定义，对该对象的性质进行的符号化描述。<br>
-5. 辅以实际案例的详细说明<br>
-   是**两极**中具象的一极。事实上，抽象定义和抽象性质均来自于人对实际案例的总结过程（抽象过程）；<br>
-   这通常会是一个循环上升、依靠量来逐步优化的过程，很少能一蹴而就。<br>
-   因此，附录一些实际案例来辅助说明是必要的；<br>
-   此外，抽象定义和性质通常为作者所熟悉、对读者来说很陌生，辅以实际案例的说明才能优化读者的理解。<br>
-6. 辅以实际案例的应用<br>
-   辅以实际案例的详细说明用实际案例佐证该对象的性质，这里则给出应用的实际案例。<br><br>
-
-The following is the basic content of the **Unit Page** under the Compass architecture:
-1. structure<br>
-   The structural part should consist of two series, namely **pure classification** & **modulization**.
-   1. **Pure classification**: **pure classification** service for the general directory classification, it should strictly comply with the classification of the general directory. This is prepared for the bottom-up learning sequence, and the need to trace back and solidify the knowledge foundation.
-   2. **modulization**: **modulization** displays the prerequisite requirements, similar substitutions, and optional extensions that may be needed to grasp the unit (object). This is prepared for the top-down learning sequence, and flexible requirements generated by practical applications.<br>
-2. (Official/Recognized) Guidance Doc(or links)<br>
-   when the **Unit Page** is not worth investing in displaying unnecessary information, the links to other Tutorial can provide additional references conveniently.
-3. Abstract Definition(**Def**)<br>
-   this is the abstract pole of the two poles of abstraction and concreteness(**poles**);<br>
-   the most refined symbol expression, under logical rigor and uniformity, is what should be pursued.<br>
-   significance lies in: able to proficiently apply this **Def** to simplify the description of cases, find homogeneity among cases, thus improve efficiency.<br>
-4. Abstract Properties<br>
-   symbolic descriptions of the properties of the object, based on **Def** above.<br>
-5. Detailed explanation supplemented by practical cases<br>
-   the concrete pole of the **poles**. In fact, **Def** and abstract properties both come from summarization of actual cases(abstraction);<br>
-   this is usually a cyclical process that relies on quantity to gradually optimize, rarely can be accomplished at one stroke.<br>
-   thus necessary to provide some practical cases for explaination supplement;<br>
-   **Def** and abstract properties are often familiar to authors, but unfamiliar to readers. Just enhance the readers' understanding through practical case studies.
-6. Application supplemented by practical cases<br>
-   here u can present a practical application case as a exemplary role.<br><br>
+#### 包管理结构
+本部分规定各发行版本文件夹内，整合包的统一结构；便于开发人员修改和优化整合包源码。
+(Null)
 
 ## 开源许可 License
 
-The MIT License (MIT): https://opensource.org/license/mit/
+[MIT开源许可](https://opensource.org/license/mit/)<br>
+The MIT License (MIT): https://opensource.org/license/mit/<br>
