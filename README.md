@@ -37,6 +37,7 @@ ImagEMappeR.org的我的世界服务器项目总目录、指南文件，在使�
 ImagEMappeR.org原版权所有，以MIT.License为开源许可协议；您可以在[License文件夹](https://github.com/Liphael/MineCraft-Server-Projects/tree/main/License)中查看开源许可的所有内容。<br>
 
 ## 使用教程 Tutorial
+如果您没有过多精力、时间来详细研究教程内容，请参阅[快速开始]()部分。
 ### 立项 
 #### 立项基本流程：
 1. 在此目录下的[Projects]()文件夹目录下，建立一个**唯一的**仅属于该项目的子文件夹，文件夹将包含项目所有历史内容；以“server_”开头，加上服务器项目的正式或暂定名称，来命名。<br>
@@ -57,6 +58,9 @@ ImagEMappeR.org原版权所有，以MIT.License为开源许可协议；您可以
 #### 包管理结构
 本部分规定各发行版本文件夹内，整合包的统一结构；便于开发人员修改和优化整合包源码。
 (Null)
+
+## 快速开始 QuickStart
+
 
 ## 开源许可 License
 [开源许可模板](https://github.com/Liphael/MineCraft-Server-Projects/blob/main/License/MIT-%E8%AE%B8%E5%8F%AF-%E7%AE%80%E4%B8%AD%E7%BF%BB%E8%AF%91.txt)<br>
