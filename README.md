@@ -37,15 +37,17 @@ ImagEMappeR.org的我的世界服务器项目总目录、指南文件，在使�
 ImagEMappeR.org原版权所有，以MIT.License为开源许可协议；您可以在[License文件夹](https://github.com/Liphael/MineCraft-Server-Projects/tree/main/License)中查看开源许可的所有内容。<br>
 
 ## 使用教程 Tutorial
-如果您没有过多精力、时间来详细研究教程内容，请参阅[快速开始](https://github.com/Liphael/MineCraft-Server-Projects/blob/main/README.md#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B-quickstart)部分。
+如果没有过多精力、时间来详细研究教程内容，请参阅[快速开始](https://github.com/Liphael/MineCraft-Server-Projects/blob/main/README.md#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B-quickstart)部分。
 ### 立项 
 #### 立项基本流程：
-1. 在此目录下的[Projects]()文件夹目录下，建立一个**唯一的**仅属于该项目的子文件夹，文件夹将包含项目所有历史内容；以“server_”开头，加上服务器项目的正式或暂定名称，来命名。<br>
-2. 在该子文件夹中，建立以[Semantic Versioning 2.0.0](https://semver.org/lang/zh-CN/)规则命名的发行(release)版本号子文件夹，对应每个发行版本的内容。<br>
-3. 在该子文件夹中，建立名为**README.md**的markdown文件，文件内容为下述**项目基本结构**部分中的**项目总规划**所述部分。<br>
-4. 在该子文件夹中，建立名为**PUSH_ADVICE.md**的markdown文件，文件内容为对**项目总规划**的修缮提议，内容格式无规则，自由记录想法。<br>
+1. 在此目录下的[Projects]()文件夹目录下，建立一个**唯一的**仅属于该项目的子文件夹(下文简称**文件夹A**)，文件夹将包含项目所有历史内容；以“server_”开头，加上服务器项目的正式或暂定名称，来命名。<br>
+2. 在**文件夹A**中，建立以[Semantic Versioning 2.0.0](https://semver.org/lang/zh-CN/)规则命名的发行(release)版本号子文件夹，对应每个发行版本的内容。<br>
+3. 在**文件夹A**中，建立名为**README.md**的markdown文件，文件内容为下述**项目基本结构**部分中的**项目总规划**所述部分。<br>
+4. 在**文件夹A**中，建立名为**PUSH_ADVICE.md**的markdown文件，文件内容为对**项目总规划**的修缮提议，内容格式无规则，自由记录想法。<br>
+5. （预留，暂不实施）在**文件夹A**中，建立以该项目**哈希值编号**为名称的txt文件，用于识别和定位搜索项目。
+6. 在发行(release)版本号子文件夹中，分别建立名为：**0-workbench**，**1-serverpack**，**2-clientpack**三个子文件夹；此三个文件夹从前到后的内容分别为：开发中源文件、服务器用整合包、客户端用整合包。
 #### 其他注意事项：
-* 开发人员对项目总规划的内容发生分歧时，若不能达成一致，应对分歧内容重新立项。<br><br>
+* 开发人员对项目总规划的内容发生分歧时，若不能达成一致，应对分歧内容重新立项、命名。<br><br>
 
 ### 项目基本结构 Basic projects structure
 #### 项目总规划
