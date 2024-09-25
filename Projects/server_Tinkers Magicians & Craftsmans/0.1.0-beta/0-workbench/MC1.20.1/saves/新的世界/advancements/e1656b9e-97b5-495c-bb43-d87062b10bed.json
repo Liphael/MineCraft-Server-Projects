@@ -1,0 +1,39 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2024-09-07 12:19:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-09-07 12:18:13 +0800"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-09-07 12:18:13 +0800"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-09-07 12:19:09 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-09-07 12:19:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2024-09-07 12:18:14 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
