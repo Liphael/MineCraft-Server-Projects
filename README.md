@@ -59,6 +59,6 @@ ImagEMappeR.org原版权所有，以MIT.License为开源许可协议；您可以
 (Null)
 
 ## 开源许可 License
-
-[MIT开源许可](https://opensource.org/license/mit/)<br>
+[开源许可模板](https://github.com/Liphael/MineCraft-Server-Projects/blob/main/License/MIT-%E8%AE%B8%E5%8F%AF-%E7%AE%80%E4%B8%AD%E7%BF%BB%E8%AF%91.txt)<br>
+本项目许可基于[MIT开源许可](https://opensource.org/license/mit/)撰写。<br>
 The MIT License (MIT): https://opensource.org/license/mit/<br>
