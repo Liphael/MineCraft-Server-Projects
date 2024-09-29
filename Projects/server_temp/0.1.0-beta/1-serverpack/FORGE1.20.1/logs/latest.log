@@ -1116,3 +1116,16 @@ Caused by: java.net.ConnectException: HTTP connect timed out
 	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:899) ~[java.net.http:?]
 [299月2024 18:32:41.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
 [299月2024 18:32:42.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.14 Target: null
+[299月2024 18:42:05.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[299月2024 18:42:06.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[299月2024 18:42:06.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[299月2024 18:42:06.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[299月2024 18:42:06.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[299月2024 18:42:06.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[299月2024 18:42:06.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[299月2024 18:42:06.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[299月2024 18:42:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[299月2024 18:42:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[299月2024 18:42:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[299月2024 18:42:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[299月2024 18:42:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
