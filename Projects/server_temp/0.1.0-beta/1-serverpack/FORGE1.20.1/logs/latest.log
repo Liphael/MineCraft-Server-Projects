@@ -1,18 +1,18 @@
-[299月2024 18:30:55.282] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[299月2024 18:30:55.286] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.11 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
-[299月2024 18:30:55.677] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[299月2024 18:30:55.725] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/14545/Documents/GitHub/MineCraft-Server-Projects/Projects/server_temp/0.1.0-beta/1-serverpack/FORGE1.20.1/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[299月2024 18:30:55.923] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\14545\Documents\GitHub\MineCraft-Server-Projects\Projects\server_temp\0.1.0-beta\1-serverpack\FORGE1.20.1\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.0\fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
-[299月2024 18:30:55.924] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\14545\Documents\GitHub\MineCraft-Server-Projects\Projects\server_temp\0.1.0-beta\1-serverpack\FORGE1.20.1\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.0\javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[299月2024 18:30:55.926] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\14545\Documents\GitHub\MineCraft-Server-Projects\Projects\server_temp\0.1.0-beta\1-serverpack\FORGE1.20.1\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.0\lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[299月2024 18:30:55.928] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\14545\Documents\GitHub\MineCraft-Server-Projects\Projects\server_temp\0.1.0-beta\1-serverpack\FORGE1.20.1\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.0\mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[299月2024 18:30:56.035] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[299月2024 18:30:57.345] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[299月2024 18:30:57.368] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[299月2024 18:30:57.448] [main/WARN] [mixin/]: Reference map 'thecomfortzone.mixins.refmap.json' for thecomfortzone.mixins.json could not be read. If this is a development environment you can ignore this message
-[299月2024 18:30:57.472] [main/WARN] [mixin/]: Reference map 'untamedwilds.refmap.json' for mixins.untamedwilds.json could not be read. If this is a development environment you can ignore this message
-[299月2024 18:30:57.594] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[299月2024 18:30:57.623] [main/INFO] [Puzzles Lib/]: Loading 44 mods:
+[299月2024 18:42:40.234] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[299月2024 18:42:40.237] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.11 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[299月2024 18:42:40.642] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[299月2024 18:42:40.714] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/14545/Documents/GitHub/MineCraft-Server-Projects/Projects/server_temp/0.1.0-beta/1-serverpack/FORGE1.20.1/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[299月2024 18:42:40.922] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\14545\Documents\GitHub\MineCraft-Server-Projects\Projects\server_temp\0.1.0-beta\1-serverpack\FORGE1.20.1\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.0\fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[299月2024 18:42:40.923] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\14545\Documents\GitHub\MineCraft-Server-Projects\Projects\server_temp\0.1.0-beta\1-serverpack\FORGE1.20.1\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.0\javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[299月2024 18:42:40.925] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\14545\Documents\GitHub\MineCraft-Server-Projects\Projects\server_temp\0.1.0-beta\1-serverpack\FORGE1.20.1\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.0\lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[299月2024 18:42:40.926] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\14545\Documents\GitHub\MineCraft-Server-Projects\Projects\server_temp\0.1.0-beta\1-serverpack\FORGE1.20.1\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.0\mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[299月2024 18:42:41.040] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[299月2024 18:42:42.733] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[299月2024 18:42:42.773] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[299月2024 18:42:42.894] [main/WARN] [mixin/]: Reference map 'thecomfortzone.mixins.refmap.json' for thecomfortzone.mixins.json could not be read. If this is a development environment you can ignore this message
+[299月2024 18:42:42.923] [main/WARN] [mixin/]: Reference map 'untamedwilds.refmap.json' for mixins.untamedwilds.json could not be read. If this is a development environment you can ignore this message
+[299月2024 18:42:43.069] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[299月2024 18:42:43.104] [main/INFO] [Puzzles Lib/]: Loading 44 mods:
 	- balm 7.3.9
 		\-- kuma_api 20.1.8
 	- biomesoplenty 18.0.0.598
@@ -57,50 +57,73 @@
 	- watut 1.20.1-1.1.3
 	- waystones 14.1.5
 	- weather2 1.20.1-2.8.3
-[299月2024 18:30:57.626] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
-[299月2024 18:30:57.944] [main/WARN] [mixin/]: Error loading class: earth/terrarium/botarium/forge/BotariumForge (java.lang.ClassNotFoundException: earth.terrarium.botarium.forge.BotariumForge)
-[299月2024 18:30:57.944] [main/WARN] [mixin/]: @Mixin target earth.terrarium.botarium.forge.BotariumForge was not found create_central_kitchen.mixins.json:common.botarium.BotariumForgeMixin
-[299月2024 18:30:57.945] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
-[299月2024 18:30:57.945] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
-[299月2024 18:30:57.998] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
-[299月2024 18:30:57.998] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
-[299月2024 18:30:57.999] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[299月2024 18:30:57.999] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor
-[299月2024 18:30:58.000] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[299月2024 18:30:58.000] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin
-[299月2024 18:30:58.000] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
-[299月2024 18:30:58.000] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
-[299月2024 18:30:58.053] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0).
-[299月2024 18:30:58.950] [main/WARN] [oshi.driver.windows.perfmon.PerfmonDisabled/]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[299月2024 18:31:01.193] [main/WARN] [mixin/]: @Final field f_26027_:Lnet/minecraft/world/entity/ai/targeting/TargetingConditions; in guardvillagers.mixins.json:DefendVillageGoalGolemMixin should be final
-[299月2024 18:31:01.947] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.84.
-[299月2024 18:31:01.949] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
-[299月2024 18:31:01.964] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[299月2024 18:31:02.074] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mobplaques:main
-[299月2024 18:31:02.081] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
-[299月2024 18:31:02.081] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
-[299月2024 18:31:02.199] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[299月2024 18:31:04.420] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddItemModifier$$Lambda$11781/0x00000209145486a8@6bf86b4a] * Field[conditions: passthrough[flatXmapped]] * Field[item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@59eac843] * OptionalFieldCodec[count: Int][xmapped]] has been registered twice for the same name farmersdelight:add_item.
-[299月2024 18:31:04.420] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddLootTableModifier$$Lambda$11784/0x0000020914548d50@7634cd64] * Field[conditions: passthrough[flatXmapped]] * Field[lootTable: String[comapFlatMapped]]] has been registered twice for the same name farmersdelight:add_loot_table.
-[299月2024 18:31:04.421] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.PastrySlicingModifier$$Lambda$11787/0x00000209145493e8@15ba58c4] * Field[conditions: passthrough[flatXmapped]] * Field[slice: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@59eac843]] has been registered twice for the same name farmersdelight:pastry_slicing.
-[299月2024 18:31:04.523] [modloading-worker-0/INFO] [com.axedgaming.endersdelight.EndersDelight/]: HELLO FROM PREINIT
-[299月2024 18:31:04.526] [modloading-worker-0/INFO] [com.axedgaming.endersdelight.EndersDelight/]: DIRT BLOCK >> translation{key='block.minecraft.dirt', args=[]}
-[299月2024 18:31:04.528] [modloading-worker-0/INFO] [untamedwilds.UntamedWilds/]: Registering Packets!
-[299月2024 18:31:04.617] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[299月2024 18:31:04.888] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[299月2024 18:31:04.888] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[299月2024 18:31:04.888] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[299月2024 18:31:04.888] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[299月2024 18:31:04.888] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[299月2024 18:31:04.888] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[299月2024 18:31:04.888] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[299月2024 18:31:04.935] [modloading-worker-0/INFO] [weather2.Weather/]: Got IMC []
-[299月2024 18:31:06.786] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[299月2024 18:31:08.173] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/14545/Documents/GitHub/MineCraft-Server-Projects/Projects/server_temp/0.1.0-beta/1-serverpack/FORGE1.20.1/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/assets/.mcassetsroot' uses unexpected schema
-[299月2024 18:31:08.174] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/14545/Documents/GitHub/MineCraft-Server-Projects/Projects/server_temp/0.1.0-beta/1-serverpack/FORGE1.20.1/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/data/.mcassetsroot' uses unexpected schema
-[299月2024 18:31:09.317] [Worker-Main-22/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/cardboard_box as it is missing following references: wares:cardboard_box (from [Forge]CTOV-v3.4.5.jar)
-[299月2024 18:31:09.320] [Worker-Main-22/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/sealed_delivery_agreement as it is missing following references: wares:sealed_delivery_agreement (from [Forge]CTOV-v3.4.5.jar)
-[299月2024 18:31:09.412] [Worker-Main-24/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:twilightdelight:blocks/phytochemical_cake
+[299月2024 18:42:43.109] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[299月2024 18:42:43.579] [main/WARN] [mixin/]: Error loading class: earth/terrarium/botarium/forge/BotariumForge (java.lang.ClassNotFoundException: earth.terrarium.botarium.forge.BotariumForge)
+[299月2024 18:42:43.579] [main/WARN] [mixin/]: @Mixin target earth.terrarium.botarium.forge.BotariumForge was not found create_central_kitchen.mixins.json:common.botarium.BotariumForgeMixin
+[299月2024 18:42:43.580] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
+[299月2024 18:42:43.580] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
+[299月2024 18:42:43.649] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
+[299月2024 18:42:43.650] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
+[299月2024 18:42:43.650] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[299月2024 18:42:43.651] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor
+[299月2024 18:42:43.651] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[299月2024 18:42:43.652] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin
+[299月2024 18:42:43.652] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[299月2024 18:42:43.652] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
+[299月2024 18:42:43.718] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0).
+[299月2024 18:42:44.714] [main/WARN] [oshi.driver.windows.perfmon.PerfmonDisabled/]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[299月2024 18:42:47.475] [main/WARN] [mixin/]: @Final field f_26027_:Lnet/minecraft/world/entity/ai/targeting/TargetingConditions; in guardvillagers.mixins.json:DefendVillageGoalGolemMixin should be final
+[299月2024 18:42:48.557] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.84.
+[299月2024 18:42:48.558] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
+[299月2024 18:42:48.575] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[299月2024 18:42:48.681] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mobplaques:main
+[299月2024 18:42:48.687] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[299月2024 18:42:48.687] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[299月2024 18:42:48.819] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[299月2024 18:42:51.129] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddItemModifier$$Lambda$11781/0x00000241825686a8@5b3d1fe9] * Field[conditions: passthrough[flatXmapped]] * Field[item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@6cfcd230] * OptionalFieldCodec[count: Int][xmapped]] has been registered twice for the same name farmersdelight:add_item.
+[299月2024 18:42:51.130] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddLootTableModifier$$Lambda$11784/0x0000024182568d50@59a45b95] * Field[conditions: passthrough[flatXmapped]] * Field[lootTable: String[comapFlatMapped]]] has been registered twice for the same name farmersdelight:add_loot_table.
+[299月2024 18:42:51.130] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.PastrySlicingModifier$$Lambda$11787/0x00000241825693e8@1faef660] * Field[conditions: passthrough[flatXmapped]] * Field[slice: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@6cfcd230]] has been registered twice for the same name farmersdelight:pastry_slicing.
+[299月2024 18:42:51.233] [modloading-worker-0/INFO] [com.axedgaming.endersdelight.EndersDelight/]: HELLO FROM PREINIT
+[299月2024 18:42:51.235] [modloading-worker-0/INFO] [com.axedgaming.endersdelight.EndersDelight/]: DIRT BLOCK >> translation{key='block.minecraft.dirt', args=[]}
+[299月2024 18:42:51.238] [modloading-worker-0/INFO] [untamedwilds.UntamedWilds/]: Registering Packets!
+[299月2024 18:42:51.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[299月2024 18:42:51.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[299月2024 18:42:51.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mobplaques] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mobplaques.json
+[299月2024 18:42:51.667] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[299月2024 18:42:51.667] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[299月2024 18:42:51.667] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[299月2024 18:42:51.669] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[299月2024 18:42:51.669] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[299月2024 18:42:51.669] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[299月2024 18:42:51.669] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[299月2024 18:42:51.764] [modloading-worker-0/INFO] [weather2.Weather/]: Got IMC []
+[299月2024 18:42:51.932] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mobplaques] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[299月2024 18:42:51.934] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Starting version check at https://api.modrinth.com/updates/create-sifting/forge_updates.json
+[299月2024 18:42:52.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Found status: UP_TO_DATE Current: 1.20.1-1.8.2.h-48 Target: null
+[299月2024 18:42:52.678] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[299月2024 18:42:52.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[299月2024 18:42:52.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[299月2024 18:42:53.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: BETA Current: 1.20.1-1.6.7 Target: 1.20-1.6.5
+[299月2024 18:42:53.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[299月2024 18:42:53.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.22 Target: 8.1.23
+[299月2024 18:42:53.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[299月2024 18:42:53.195] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
+[299月2024 18:42:53.196] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[299月2024 18:42:53.266] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[299月2024 18:42:53.266] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[299月2024 18:42:53.591] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[299月2024 18:42:53.933] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
+[299月2024 18:42:53.933] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
+[299月2024 18:42:54.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: OUTDATED Current: 3.4.5 Target: 3.4.9
+[299月2024 18:42:54.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[299月2024 18:42:54.999] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/14545/Documents/GitHub/MineCraft-Server-Projects/Projects/server_temp/0.1.0-beta/1-serverpack/FORGE1.20.1/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/assets/.mcassetsroot' uses unexpected schema
+[299月2024 18:42:54.999] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/14545/Documents/GitHub/MineCraft-Server-Projects/Projects/server_temp/0.1.0-beta/1-serverpack/FORGE1.20.1/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/data/.mcassetsroot' uses unexpected schema
+[299月2024 18:42:55.136] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[299月2024 18:42:55.136] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[299月2024 18:42:55.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.14 Target: null
+[299月2024 18:42:56.040] [Worker-Main-9/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/cardboard_box as it is missing following references: wares:cardboard_box (from [Forge]CTOV-v3.4.5.jar)
+[299月2024 18:42:56.043] [Worker-Main-9/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/sealed_delivery_agreement as it is missing following references: wares:sealed_delivery_agreement (from [Forge]CTOV-v3.4.5.jar)
+[299月2024 18:42:56.135] [Worker-Main-8/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:twilightdelight:blocks/phytochemical_cake
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'twilightdelight:phytochemical_cake_slice'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -152,7 +175,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[299月2024 18:31:09.531] [Worker-Main-24/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:twilightdelight:blocks/aurora_cake
+[299月2024 18:42:56.247] [Worker-Main-8/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:twilightdelight:blocks/aurora_cake
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'twilightdelight:aurora_cake_slice'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -204,7 +227,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[299月2024 18:31:09.535] [Worker-Main-24/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
+[299月2024 18:42:56.250] [Worker-Main-8/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
 com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 	at net.minecraft.util.GsonHelper.m_13912_(GsonHelper.java:181) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at net.minecraft.world.level.storage.loot.entries.TagEntry$Serializer.m_7267_(TagEntry.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
@@ -253,7 +276,7 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[299月2024 18:31:09.558] [Worker-Main-24/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:twilightdelight:blocks/torchberry_cake
+[299月2024 18:42:56.276] [Worker-Main-8/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:twilightdelight:blocks/torchberry_cake
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'twilightdelight:torchberry_cake_slice'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -305,7 +328,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[299月2024 18:31:09.572] [Worker-Main-24/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:twilightdelight:blocks/glacier_cake
+[299月2024 18:42:56.289] [Worker-Main-8/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:twilightdelight:blocks/glacier_cake
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'twilightdelight:glacier_cake_slice'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -357,8 +380,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[299月2024 18:31:09.671] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[299月2024 18:31:09.685] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe twilightdelight:neapolitan/glacier_cake_slice
+[299月2024 18:42:56.382] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[299月2024 18:42:56.393] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe twilightdelight:neapolitan/glacier_cake_slice
 com.google.gson.JsonSyntaxException: Unknown item 'twilightdelight:glacier_cake'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -397,7 +420,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'twilightdelight:glacier_cake'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[299月2024 18:31:09.715] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe twilightdelight:neapolitan/phytochemical_cake_slice
+[299月2024 18:42:56.423] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe twilightdelight:neapolitan/phytochemical_cake_slice
 com.google.gson.JsonSyntaxException: Unknown item 'twilightdelight:phytochemical_cake'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -436,9 +459,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'twilightdelight:phytochemical
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[299月2024 18:31:09.717] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[299月2024 18:31:09.721] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[299月2024 18:31:09.723] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe twilightdelight:neapolitan/aurora_cake_slice
+[299月2024 18:42:56.425] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[299月2024 18:42:56.429] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[299月2024 18:42:56.432] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe twilightdelight:neapolitan/aurora_cake_slice
 com.google.gson.JsonSyntaxException: Unknown item 'twilightdelight:aurora_cake'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -477,7 +500,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'twilightdelight:aurora_cake'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[299月2024 18:31:09.726] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe crabbersdelight:lanternfish_from_barrel
+[299月2024 18:42:56.433] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe crabbersdelight:lanternfish_from_barrel
 com.google.gson.JsonSyntaxException: Unknown item 'crabbersdelight:lanternfish_barrel'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -515,7 +538,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'crabbersdelight:lanternfish_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[299月2024 18:31:09.729] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe twilightdelight:rainbow_ice_cream
+[299月2024 18:42:56.435] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe twilightdelight:rainbow_ice_cream
 com.google.gson.JsonSyntaxException: Unknown item 'twilightdelight:aurora_ice_cream'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -553,8 +576,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'twilightdelight:aurora_ice_cr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[299月2024 18:31:09.734] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[299月2024 18:31:09.739] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe crabbersdelight:lanternfish_barrel
+[299月2024 18:42:56.440] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[299月2024 18:42:56.445] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe crabbersdelight:lanternfish_barrel
 com.google.gson.JsonSyntaxException: Unknown item 'sullysmod:lanternfish'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -592,7 +615,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'sullysmod:lanternfish'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[299月2024 18:31:09.744] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe twilightdelight:neapolitan/torchberry_cake_slice
+[299月2024 18:42:56.449] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe twilightdelight:neapolitan/torchberry_cake_slice
 com.google.gson.JsonSyntaxException: Unknown item 'twilightdelight:torchberry_cake'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -631,7 +654,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'twilightdelight:torchberry_ca
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[299月2024 18:31:09.748] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe twilightdelight:refreshing_ice_cream
+[299月2024 18:42:56.453] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe twilightdelight:refreshing_ice_cream
 com.google.gson.JsonSyntaxException: Unknown item 'twilightdelight:glacier_ice_cream'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -669,7 +692,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'twilightdelight:glacier_ice_c
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[299月2024 18:31:09.759] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe twilightdelight:twilight_ice_cream
+[299月2024 18:42:56.463] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe twilightdelight:twilight_ice_cream
 com.google.gson.JsonSyntaxException: Unknown item 'twilightdelight:torchberry_ice_cream'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -707,10 +730,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'twilightdelight:torchberry_ic
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[299月2024 18:31:09.762] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[299月2024 18:31:09.764] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[299月2024 18:31:09.765] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[299月2024 18:31:09.767] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe festive_delight:spring_rolls_craft
+[299月2024 18:42:56.467] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[299月2024 18:42:56.469] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[299月2024 18:42:56.471] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[299月2024 18:42:56.474] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe festive_delight:spring_rolls_craft
 com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:wheat_dought'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -749,13 +772,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:wheat_dought'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[299月2024 18:31:09.769] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[299月2024 18:31:09.771] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 30 recipes
-[299月2024 18:31:09.787] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bottles_from_bucket: Unknown item id 'create_central_kitchen:sap_bucket'
-[299月2024 18:31:09.805] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bucket_from_bottles: Unknown item id 'autumnity:sap_bottle'
-[299月2024 18:31:09.849] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3489 advancements
-[299月2024 18:31:09.855] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[299月2024 18:31:09.858] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+[299月2024 18:42:56.476] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[299月2024 18:42:56.479] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 30 recipes
+[299月2024 18:42:56.493] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bottles_from_bucket: Unknown item id 'create_central_kitchen:sap_bucket'
+[299月2024 18:42:56.509] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bucket_from_bottles: Unknown item id 'autumnity:sap_bottle'
+[299月2024 18:42:56.554] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3489 advancements
+[299月2024 18:42:56.560] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[299月2024 18:42:56.565] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -816,8 +839,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[299月2024 18:31:09.865] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
-[299月2024 18:31:09.865] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+[299月2024 18:42:56.572] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
+[299月2024 18:42:56.572] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -878,254 +901,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[299月2024 18:31:09.867] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
-[299月2024 18:31:09.871] [main/INFO] [untamedwilds.UntamedWilds/]: Beginning loading of data for data loader: spawn_tables
-[299月2024 18:31:09.872] [main/INFO] [untamedwilds.UntamedWilds/]: Data loader for spawn_tables loaded 8 jsons
-[299月2024 18:31:09.872] [main/INFO] [untamedwilds.UntamedWilds/]: Beginning loading of data for data loader: entities
-[299月2024 18:31:09.881] [main/INFO] [untamedwilds.UntamedWilds/]: Data loader for entities loaded 36 jsons
-[299月2024 18:31:11.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[299月2024 18:31:11.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[299月2024 18:31:11.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[299月2024 18:31:11.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[299月2024 18:31:11.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[299月2024 18:31:11.530] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
-[299月2024 18:31:11.675] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[299月2024 18:31:11.675] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[299月2024 18:31:11.675] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[299月2024 18:31:11.675] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[299月2024 18:31:11.752] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[299月2024 18:31:11.913] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[299月2024 18:31:11.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[299月2024 18:31:12.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[299月2024 18:31:14.922] [Worker-Main-26/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[299月2024 18:31:14.948] [Worker-Main-16/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[299月2024 18:31:14.951] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[299月2024 18:31:14.956] [Worker-Main-10/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[299月2024 18:31:14.958] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[299月2024 18:31:15.439] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[299月2024 18:31:15.617] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.618] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.639] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.646] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.648] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.649] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.650] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.653] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.657] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.660] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.662] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.662] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.663] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.663] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.672] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.672] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.674] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.674] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.674] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.675] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.681] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.682] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.684] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.685] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.685] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.688] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.688] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.689] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.689] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.689] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.690] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.690] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.695] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.696] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.696] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.696] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.697] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.702] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.703] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.704] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.705] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.705] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.706] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.706] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.713] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.718] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.719] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.719] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.720] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.721] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.721] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.721] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.722] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.722] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.722] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.723] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.723] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.723] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.724] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.724] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:15.726] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2788 ms
-[299月2024 18:31:15.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.040s)! For help, type "help"
-[299月2024 18:31:15.756] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[299月2024 18:31:16.107] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.150] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.163] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.292] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.292] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.292] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.329] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.330] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.330] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.608] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.608] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.609] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.645] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.645] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.645] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.648] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.648] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.649] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.649] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.649] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.649] [Server thread/WARN] [untamedwilds.UntamedWilds/]: There's no species provided for the EntityType
-[299月2024 18:31:16.959] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Not Installed for use
-[299月2024 18:31:19.622] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-java.net.http.HttpTimeoutException: request timed out
-	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:571) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
-	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-[299月2024 18:31:19.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mobplaques] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mobplaques.json
-[299月2024 18:31:24.037] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-java.io.IOException: Connection reset
-	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:586) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
-	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-Caused by: java.net.SocketException: Connection reset
-	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
-	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
-	at jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1170) ~[java.net.http:?]
-	at jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:833) ~[java.net.http:?]
-	at jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181) ~[java.net.http:?]
-	at jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:230) ~[java.net.http:?]
-	at jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:303) ~[java.net.http:?]
-	at jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:256) ~[java.net.http:?]
-	at jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:774) ~[java.net.http:?]
-	at jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:957) ~[java.net.http:?]
-	at jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:979) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:934) ~[java.net.http:?]
-	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:934) ~[java.net.http:?]
-[299月2024 18:31:24.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Starting version check at https://api.modrinth.com/updates/create-sifting/forge_updates.json
-[299月2024 18:31:24.802] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Found status: UP_TO_DATE Current: 1.20.1-1.8.2.h-48 Target: null
-[299月2024 18:31:24.802] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[299月2024 18:31:25.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[299月2024 18:31:25.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
-[299月2024 18:31:40.051] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-java.net.http.HttpConnectTimeoutException: HTTP connect timed out
-	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:567) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
-	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-Caused by: java.net.http.HttpConnectTimeoutException: HTTP connect timed out
-	at jdk.internal.net.http.ResponseTimerEvent.handle(ResponseTimerEvent.java:68) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(HttpClientImpl.java:1270) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:899) ~[java.net.http:?]
-Caused by: java.net.ConnectException: HTTP connect timed out
-	at jdk.internal.net.http.ResponseTimerEvent.handle(ResponseTimerEvent.java:69) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(HttpClientImpl.java:1270) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:899) ~[java.net.http:?]
-[299月2024 18:31:40.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[299月2024 18:31:55.052] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-java.net.http.HttpConnectTimeoutException: HTTP connect timed out
-	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:567) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
-	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-Caused by: java.net.http.HttpConnectTimeoutException: HTTP connect timed out
-	at jdk.internal.net.http.ResponseTimerEvent.handle(ResponseTimerEvent.java:68) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(HttpClientImpl.java:1270) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:899) ~[java.net.http:?]
-Caused by: java.net.ConnectException: HTTP connect timed out
-	at jdk.internal.net.http.ResponseTimerEvent.handle(ResponseTimerEvent.java:69) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(HttpClientImpl.java:1270) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:899) ~[java.net.http:?]
-[299月2024 18:31:55.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
-[299月2024 18:32:10.052] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-java.net.http.HttpConnectTimeoutException: HTTP connect timed out
-	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:567) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
-	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-Caused by: java.net.http.HttpConnectTimeoutException: HTTP connect timed out
-	at jdk.internal.net.http.ResponseTimerEvent.handle(ResponseTimerEvent.java:68) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(HttpClientImpl.java:1270) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:899) ~[java.net.http:?]
-Caused by: java.net.ConnectException: HTTP connect timed out
-	at jdk.internal.net.http.ResponseTimerEvent.handle(ResponseTimerEvent.java:69) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(HttpClientImpl.java:1270) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:899) ~[java.net.http:?]
-[299月2024 18:32:10.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[299月2024 18:32:25.052] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-java.net.http.HttpConnectTimeoutException: HTTP connect timed out
-	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:567) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
-	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-Caused by: java.net.http.HttpConnectTimeoutException: HTTP connect timed out
-	at jdk.internal.net.http.ResponseTimerEvent.handle(ResponseTimerEvent.java:68) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(HttpClientImpl.java:1270) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:899) ~[java.net.http:?]
-Caused by: java.net.ConnectException: HTTP connect timed out
-	at jdk.internal.net.http.ResponseTimerEvent.handle(ResponseTimerEvent.java:69) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(HttpClientImpl.java:1270) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:899) ~[java.net.http:?]
-[299月2024 18:32:25.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[299月2024 18:32:25.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
-[299月2024 18:32:25.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
-[299月2024 18:32:25.971] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: OUTDATED Current: 3.4.5 Target: 3.4.9
-[299月2024 18:32:25.971] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[299月2024 18:32:41.809] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-java.net.http.HttpConnectTimeoutException: HTTP connect timed out
-	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:567) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
-	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.0.jar%23174!/:?]
-Caused by: java.net.http.HttpConnectTimeoutException: HTTP connect timed out
-	at jdk.internal.net.http.ResponseTimerEvent.handle(ResponseTimerEvent.java:68) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(HttpClientImpl.java:1270) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:899) ~[java.net.http:?]
-Caused by: java.net.ConnectException: HTTP connect timed out
-	at jdk.internal.net.http.ResponseTimerEvent.handle(ResponseTimerEvent.java:69) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(HttpClientImpl.java:1270) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:899) ~[java.net.http:?]
-[299月2024 18:32:41.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[299月2024 18:32:42.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.14 Target: null
-[299月2024 18:42:05.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[299月2024 18:42:06.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[299月2024 18:42:06.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[299月2024 18:42:06.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[299月2024 18:42:06.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[299月2024 18:42:06.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[299月2024 18:42:06.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[299月2024 18:42:06.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[299月2024 18:42:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[299月2024 18:42:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[299月2024 18:42:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[299月2024 18:42:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[299月2024 18:42:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[299月2024 18:42:56.574] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
+[299月2024 18:42:56.578] [main/INFO] [untamedwilds.UntamedWilds/]: Beginning loading of data for data loader: spawn_tables
+[299月2024 18:42:56.580] [main/INFO] [untamedwilds.UntamedWilds/]: Data loader for spawn_tables loaded 8 jsons
+[299月2024 18:42:56.580] [main/INFO] [untamedwilds.UntamedWilds/]: Beginning loading of data for data loader: entities
+[299月2024 18:42:56.589] [main/INFO] [untamedwilds.UntamedWilds/]: Data loader for entities loaded 36 jsons
+[299月2024 18:42:58.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[299月2024 18:42:58.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[299月2024 18:42:58.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[299月2024 18:42:58.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[299月2024 18:42:58.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[299月2024 18:42:58.335] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[299月2024 18:42:58.488] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[299月2024 18:42:58.488] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[299月2024 18:42:58.488] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[299月2024 18:42:58.488] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[299月2024 18:42:58.719] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[299月2024 18:42:58.720] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[299月2024 18:42:58.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
