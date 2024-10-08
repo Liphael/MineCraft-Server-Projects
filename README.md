@@ -60,7 +60,7 @@ ImagEMappeR.org原版权所有，以MIT.License为开源许可协议；您可以
 #### 包管理结构
 本部分规定各发行版本文件夹中，1-serverpack和2-Clientpack目录下；管理整合包的统一结构。<br>
 此规范旨在便于开发人员修改和优化整合包源码。<br>
-1. 非压缩主文件夹：
+1. 非压缩主文件夹：<br>
 1.1 [overides文件夹](https://github.com/Liphael/MineCraft-Server-Projects/tree/main/Projects/server_temp/0.1.0-beta/1-serverpack/1.20.1_forge47.3.0/overrides)
 1.2 [manifest.json](https://github.com/Liphael/MineCraft-Server-Projects/blob/main/Projects/server_temp/0.1.0-beta/1-serverpack/1.20.1_forge47.3.0/manifest.json)<br>
    [manifest文件说明](https://github.com/Liphael/MineCraft-Server-Projects/blob/main/Projects/server_temp/0.1.0-beta/1-serverpack/1.20.1_forge47.3.0/README.md#manifestjson%E6%96%87%E4%BB%B6%E8%AF%B4%E6%98%8E)<br>
