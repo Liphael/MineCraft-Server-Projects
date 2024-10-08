@@ -13,30 +13,33 @@ Manifest文件被用来定义扩展或档案打包相关数据，是一个元数
 
 manifest.json文件中对于field具体定义格式如下：<br>
 {<br>
-  "minecraft": {<br>
-    "version": "1.18.2",<br>
-    "modLoaders": [<br>
-      {<br>
-        "id": "forge-40.2.21",<br>
-        "primary": true<br>
-      }<br>
-    ]<br>
-  },<br>
-  "manifestType": "minecraftModpack",<br>
-  "manifestVersion": 1,<br>
-  "name": "TFCH",<br>
-  "version": "1.4.9",<br>
+  "minecraft": {"version": "1.20.1","modLoaders": [{"id": "forge-47.3.0","primary": true}]},<br>
+  "manifestType": "minecraftServerpack",<br>
+  "name": "temp",<br>
+  "manifestVersion": 1.0,<br>
+  "version": "0.1.0",<br>
   "author": "",<br>
-  "files": [<br>
-    {<br>
-      "projectID": xxxxxx,<br>
-      "fileID": xxxxxxx,<br>
-      "required": true<br>
-    },<br>
-    {}<br>
-  ],<br>
   "overrides": "overrides"<br>
+  "files": [{"projectID": xxxxxx,"fileID": xxxxxxx,"required": true},{...nextfile...}],<br>
 }<br>
+
+**注解：**<br>
+- "minecraft"：本体相关信息；<br>
+  "version"：版本号<br>
+  "modLoaders"：MOD加载器，子项例如"id"表示版本，"primary"表示是否主要<br>
+- "manidestType"：manifest类型；<br>
+  本规范中服务端包填入"minecraftServerpack"，客户端包填入"minecraftClientpack"。<br>
+- "manifestVersion"：manifest版本号；<br>
+- "name"：整合包名称；<br>
+- "Version"：整合包版本号；<br>
+  由于项目对应整合包开发，此处直接使用**项目版本号**即可。<br>
+- "author"：整合包作者；<br>
+- "overrides"：覆写文件夹名称；<br>
+- "files"：mod文件信息；<br>
+  "projectID"：示例为curseforge上的项目ID；<br>
+  "fileID"：示例为curseforge上项目的文件ID；<br>
+  "required"：标明该项目是否必需<br>
+- <br>
 
 ### manifest文件规范
 JAR档案文件在规定位置包含META-INF/MANIFEST.MF [6]。
