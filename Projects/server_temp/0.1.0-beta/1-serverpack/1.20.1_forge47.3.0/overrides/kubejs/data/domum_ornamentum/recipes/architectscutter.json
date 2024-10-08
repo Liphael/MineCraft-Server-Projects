@@ -1,0 +1,15 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "group":"global",
+    "pattern":[
+        "LXL",
+        "SSS",
+        "L L"
+        ],
+    "key":{
+        "L":{"tag":"forge:supports"},
+        "S":{"item":"minecraft:stone_slab"},
+        "X":{"item":"create:mechanical_saw"}
+        },
+    "result":{"count":1,"item":"domum_ornamentum:architectscutter"}
+}

@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "kubejs:tree_seed_paste"
+    },
+    {
+      "item": "kubejs:seed_paste"
+    },
+    {
+      "item": "kubejs:tree_seed_paste"
+    }
+  ],
+  "container": {
+    "item": "minecraft:bucket"
+  },
+  "result": {
+    "item": "bodyhygiene:oil_bucket"
+  },
+  "experience": 0.25,
+  "cookingtime": 4800
+}

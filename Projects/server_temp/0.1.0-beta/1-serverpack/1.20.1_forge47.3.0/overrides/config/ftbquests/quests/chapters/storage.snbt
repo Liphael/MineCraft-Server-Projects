@@ -1,0 +1,402 @@
+{
+	id: "4303E25D027452E9"
+	group: ""
+	order_index: 2
+	filename: "storage"
+	title: "Storage"
+	icon: "tfc:wood/trapped_chest/pine"
+	default_quest_shape: "rsquare"
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Ceramics"
+			icon: {
+				id: "tfc:ceramic/vessel"
+				Count: 1b
+				tag: { }
+				ForgeCaps: {
+					Parent: {
+						heat: 0.0f
+						ticks: 0L
+					}
+				}
+			}
+			x: 3.5d
+			y: -1.5d
+			description: ["You found clay - create a vessel in which to store your items. The TFC Guide explains how to knap clay into shaped, unfired forms."]
+			dependencies: [
+				"2DB43046BD0FCBD6"
+				"43A3F6984C4136E3"
+			]
+			hide: true
+			id: "4A97A21CE49425F5"
+			tasks: [
+				{
+					id: "43FF063E5F058639"
+					type: "item"
+					title: "Vessel"
+					item: {
+						id: "tfc:ceramic/unfired_vessel"
+						Count: 1b
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+					}
+				}
+				{
+					id: "4ABCEB8C4EB99C9A"
+					type: "item"
+					item: {
+						id: "tfc:ceramic/vessel"
+						Count: 1b
+						tag: { }
+						ForgeCaps: {
+							Parent: {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "Large vessel"
+			icon: {
+				id: "tfc:ceramic/unfired_large_vessel/orange"
+				Count: 1b
+				ForgeCaps: {
+					"tfc:item_heat": {
+						heat: 0.0f
+						ticks: 0L
+					}
+				}
+			}
+			x: 5.0d
+			y: -1.5d
+			description: ["A large vessel holds more items. You can carry one filled large vessel, and even put it on your back like a backpack."]
+			dependencies: [
+				"2DB43046BD0FCBD6"
+				"4A97A21CE49425F5"
+			]
+			hide: true
+			id: "50B8838BD9145E3C"
+			tasks: [
+				{
+					id: "63440B51E2E525BE"
+					type: "item"
+					title: "Vessel"
+					item: {
+						id: "tfc:ceramic/unfired_large_vessel"
+						Count: 1b
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+					}
+				}
+				{
+					id: "7CE812537F7596B1"
+					type: "item"
+					item: "tfc:ceramic/large_vessel"
+				}
+			]
+		}
+		{
+			x: 6.5d
+			y: -1.5d
+			description: ["If you have already crafted the planks, you can craft the chests. Do it!"]
+			dependencies: ["50B8838BD9145E3C"]
+			hide: true
+			id: "7D1BA16E49E5FF47"
+			tasks: [{
+				id: "04C2A83C89AC502D"
+				type: "item"
+				title: "Wooden chests"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:chests/wooden"
+					}
+				}
+			}]
+		}
+		{
+			title: "Refined System Storage"
+			icon: "refinedstorage:crafting_monitor"
+			x: 3.5d
+			y: 1.5d
+			description: ["Once you make silicon, you will be able to build the special refined storage system, which needs a permanent connection to a power source."]
+			dependencies: [
+				"43A3F6984C4136E3"
+				"3490ED7CDC9A2831"
+			]
+			hide: true
+			id: "1CAF3AF81B2F92B9"
+			tasks: [
+				{
+					id: "0F9EED435FCD5E51"
+					type: "item"
+					title: "Silicon"
+					icon: "refinedstorage:silicon"
+					item: "refinedstorage:silicon"
+				}
+				{
+					id: "53F0F21FA19566D7"
+					type: "item"
+					item: "refinedstorage:crafting_grid"
+				}
+			]
+		}
+		{
+			title: "Controller"
+			icon: "refinedstorage:controller"
+			x: 5.5d
+			y: 1.5d
+			description: ["The controller is the heart of our system and is necessary for the entire infrastructure to function."]
+			dependencies: ["1CAF3AF81B2F92B9"]
+			hide: true
+			id: "4B0318BD9F6E4DA4"
+			tasks: [
+				{
+					id: "76FDD408459EF455"
+					type: "item"
+					item: "refinedstorage:controller"
+				}
+				{
+					id: "6FBE7B0E8F2B2993"
+					type: "item"
+					item: "refinedstorage:cable"
+					count: 8L
+				}
+			]
+		}
+		{
+			x: 7.5d
+			y: 1.5d
+			description: ["Connect your barrels, chests, and drawers with this to gain access to all your items in the system."]
+			dependencies: ["4B0318BD9F6E4DA4"]
+			hide: true
+			id: "6EA7CC7C62F2E0BB"
+			tasks: [{
+				id: "75A225D96AB257A7"
+				type: "item"
+				item: "refinedstorage:external_storage"
+			}]
+		}
+		{
+			icon: "refinedstorage:disk_drive"
+			x: 9.5d
+			y: 1.5d
+			description: ["After connecting the drives, you can store all your items on them. The ammount you can store will depend on the size of the disks. Remember that the system must be connected to the power supply at all times."]
+			dependencies: ["6EA7CC7C62F2E0BB"]
+			hide: true
+			id: "7C5EB4766FB2E5BA"
+			tasks: [
+				{
+					id: "0B1F8F58B4B35E8E"
+					type: "item"
+					item: "refinedstorage:disk_drive"
+				}
+				{
+					id: "235EAD7800739AD7"
+					type: "item"
+					item: "refinedstorage:1k_storage_disk"
+				}
+			]
+		}
+		{
+			title: "Drawers System"
+			x: 8.0d
+			y: -1.5d
+			description: ["Drawers store large quantities of a single item or fluid."]
+			dependencies: ["7D1BA16E49E5FF47"]
+			hide: true
+			id: "0E4E07FFB5A820BE"
+			tasks: [
+				{
+					id: "34C727824053385D"
+					type: "item"
+					title: "Any #functionalstorage:drawer"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "functionalstorage:drawer"
+						}
+					}
+				}
+				{
+					id: "314484187AD9A47F"
+					type: "item"
+					item: "functionalstorage:fluid_1"
+				}
+			]
+		}
+		{
+			title: "Framed Drawers"
+			x: 9.5d
+			y: -1.5d
+			description: ["You can personalize the appearance of a framed drawer by combining it with other blocks."]
+			dependencies: ["0E4E07FFB5A820BE"]
+			hide: true
+			id: "51D650AAD722ADAC"
+			tasks: [{
+				id: "2F964AF039014E9F"
+				type: "item"
+				item: "functionalstorage:framed_2"
+			}]
+		}
+		{
+			title: "Tools"
+			x: 11.0d
+			y: -1.5d
+			description: ["You will use tools to configure the drawers."]
+			dependencies: ["51D650AAD722ADAC"]
+			hide: true
+			id: "42202A001946F064"
+			tasks: [
+				{
+					id: "36F36DFC21DA7BE2"
+					type: "item"
+					item: {
+						id: "functionalstorage:linking_tool"
+						Count: 1b
+						tag: {
+							Action: "ADD"
+							Mode: "SINGLE"
+						}
+					}
+				}
+				{
+					id: "47BCA0E8BD65870B"
+					type: "item"
+					item: {
+						id: "functionalstorage:configuration_tool"
+						Count: 1b
+						tag: {
+							Mode: "LOCKING"
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 12.5d
+			y: -1.5d
+			description: ["A controller will be used to control all drawers."]
+			dependencies: ["42202A001946F064"]
+			hide: true
+			id: "04B4185E65F36C6C"
+			tasks: [{
+				id: "37941A5CB02E995A"
+				type: "item"
+				item: "functionalstorage:storage_controller"
+			}]
+		}
+		{
+			title: "Upgrades"
+			x: 14.0d
+			y: -1.5d
+			description: ["Upgrade the capacity."]
+			dependencies: ["04B4185E65F36C6C"]
+			hide: true
+			id: "495F8A2EEA846144"
+			tasks: [
+				{
+					id: "6A4DEB4557535005"
+					type: "item"
+					item: "functionalstorage:copper_upgrade"
+				}
+				{
+					id: "32B9A00E087D9E18"
+					type: "item"
+					item: "functionalstorage:gold_upgrade"
+				}
+				{
+					id: "1BEA7EF5B160EF27"
+					type: "item"
+					item: {
+						id: "functionalstorage:pusher_upgrade"
+						Count: 1b
+						tag: {
+							Direction: "down"
+						}
+					}
+				}
+				{
+					id: "1E089B436C5E6BC0"
+					type: "item"
+					item: "functionalstorage:void_upgrade"
+				}
+				{
+					id: "4BF39AA81E53FADB"
+					type: "item"
+					item: {
+						id: "functionalstorage:collector_upgrade"
+						Count: 1b
+						tag: {
+							Direction: "down"
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 11.5d
+			y: 0.0d
+			description: ["Add wireless access to your entire inventory."]
+			dependencies: ["7C5EB4766FB2E5BA"]
+			hide: true
+			id: "3640DC0066DC7F25"
+			tasks: [{
+				id: "5C149717644E9F34"
+				type: "item"
+				item: "refinedstorage:wireless_grid"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 1.0d
+			dependencies: ["7C5EB4766FB2E5BA"]
+			hide: true
+			id: "35CEEED65269F431"
+			tasks: [{
+				id: "175D8CD55CAD23C8"
+				type: "item"
+				item: "refinedstorage:detector"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 2.0d
+			dependencies: ["7C5EB4766FB2E5BA"]
+			hide: true
+			id: "5E7D38526E14BE88"
+			tasks: [{
+				id: "76D2002A1BCA709B"
+				type: "item"
+				item: "refinedstorage:crafter"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 3.0d
+			dependencies: ["7C5EB4766FB2E5BA"]
+			hide: true
+			id: "4CC166427FC0E754"
+			tasks: [{
+				id: "4DB4787663B6F629"
+				type: "item"
+				item: "refinedstorage:interface"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:pellet_chromium"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:chromium_powder",
+    "count": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "tfc:kapok_logs"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:wood/support/kapok",
+    "count": 3
+    },
+    {
+      "item": "immersiveengineering:dust_wood",
+    "count": 2
+    }
+  ],
+  "processingTime": 50
+}

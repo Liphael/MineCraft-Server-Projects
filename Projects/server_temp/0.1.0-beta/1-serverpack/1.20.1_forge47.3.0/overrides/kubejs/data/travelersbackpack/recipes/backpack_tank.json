@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "XBX",
+    "XBX",
+    "XBX"
+  ],
+
+  "key":
+  {
+    "B":
+    {
+      "item": "tfc:glue"
+    },
+
+    "X":
+    [
+      {"item": "kubejs:primitive_glass_pane"},
+      {"item": "tconstruct:clear_glass_pane"}
+    ]
+  },
+
+  "result":
+  {
+    "item": "travelersbackpack:backpack_tank",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:sheetmetals/constantan"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_constantan",
+    "amount": 400
+  },
+  "temperature": 920,
+  "time": 96
+}

@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:sheets/cast_iron"
+    }
+  ],
+  "result": {
+    "fluid": "tfc:metal/cast_iron",
+    "amount": 200
+  },
+  "temperature": 900,
+  "time": 90
+}

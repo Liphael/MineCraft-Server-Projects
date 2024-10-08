@@ -1,0 +1,13 @@
+{
+  "__comment__": "This file was created by tfch",
+  "type": "tfc:loom",
+  "ingredient": {
+    "item": "immersiveengineering:hemp_fiber"
+  },
+  "input_count": 16,
+  "result": {
+    "item": "tfc:burlap_cloth"
+  },
+  "steps_required": 24,
+  "in_progress_texture": "tfc:block/burlap"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "kubejs:vulcanized_rubber"},
+  "transitionalItem": {"item": "minecraft:black_dye"},
+  "sequence": [
+    {"type": "create:deploying","ingredients": [{"item": "minecraft:black_dye"}, {"item": "tfc:food/dried_kelp"}],"results": [{"item": "minecraft:black_dye"}]},
+    {"type": "create:deploying","ingredients": [{"item": "minecraft:black_dye"}, {"item": "kubejs:vulcanized_rubber"}],"results": [{"item": "minecraft:black_dye"}]},
+    {"type": "create:deploying","ingredients": [{"item": "minecraft:black_dye"}, {"item": "tfc:food/dried_kelp"}],"results": [{"item": "minecraft:black_dye"}]}
+  ],
+  "results": [{"item": "create:belt_connector"}],
+  "loops": 1
+}

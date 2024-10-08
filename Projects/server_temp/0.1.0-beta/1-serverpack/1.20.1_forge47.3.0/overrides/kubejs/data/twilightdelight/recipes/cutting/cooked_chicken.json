@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "type": "tfc:not_rotten",
+      "ingredient": [
+        {"item": "tfc:food/chicken"},
+        {"item": "tfc:food/quail"},
+        {"item": "tfc:food/pheasant"},
+        {"item": "tfc:food/turkey"},
+        {"item": "tfc:food/grouse"},
+        {"item": "tfc:food/duck"}
+      ]
+    }
+  ],
+  "tool": {
+    "item": "twilightdelight:fiery_knife"
+  },
+  "result": [
+    {
+      "item": "farmersdelight:cooked_chicken_cuts","count": 2
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:bone"
+    }
+  ]
+}

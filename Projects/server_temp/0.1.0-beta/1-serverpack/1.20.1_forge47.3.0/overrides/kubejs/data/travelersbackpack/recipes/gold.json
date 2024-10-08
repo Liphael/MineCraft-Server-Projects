@@ -1,0 +1,34 @@
+{
+  "type": "travelersbackpack:backpack_shaped",
+
+  "pattern":
+  [
+    "CCC",
+    "CDC",
+    "CXC"
+  ],
+
+  "key":
+  {
+    "D":
+    {
+      "item": "travelersbackpack:standard"
+    },
+
+    "X":
+    {
+      "item": "minecraft:gold_block"
+    },
+
+    "C":
+    {
+      "tag": "forge:ingots/electrum"
+    }
+  },
+
+  "result":
+  {
+    "item": "travelersbackpack:gold",
+    "count": 1
+  }
+}

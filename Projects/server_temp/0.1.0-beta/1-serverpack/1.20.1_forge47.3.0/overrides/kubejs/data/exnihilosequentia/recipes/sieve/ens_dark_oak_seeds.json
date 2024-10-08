@@ -1,0 +1,1 @@
+{"type":"exnihilosequentia:sieve","rolls":[{"chance":0.005,"mesh":"string"},{"chance":0.01,"mesh":"flint"},{"chance":0.02,"mesh":"iron"},{"chance":0.05,"mesh":"diamond"}],"input":{"tag":"forge:dirt"},"result":{"item":"myrtrees:rubberwood_sapling"}}

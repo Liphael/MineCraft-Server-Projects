@@ -1,0 +1,14 @@
+{
+    "__comment__": "This file was automatically created by mcresources",
+    "type": "tfc:welding",
+    "first_input": {
+      "item": "waterstrainer:iron_mesh"
+    },
+    "second_input": {
+      "item": "waterstrainer:iron_mesh"
+    },
+    "tier": 0,
+    "result": {
+      "item": "exnihilosequentia:iron_mesh"
+    }
+  }

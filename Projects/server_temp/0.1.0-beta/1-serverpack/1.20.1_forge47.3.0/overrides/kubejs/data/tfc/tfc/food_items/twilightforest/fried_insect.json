@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "twilightdelight:fried_insect"
+  },
+  "hunger": 10,
+  "saturation": 1.0,
+  "decay_modifier": 1.0,
+  "protein": 2.0,
+  "vegetables": 2.0
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "tfc:metal/anvil/red_steel"
+  },
+  "result": {
+    "fluid": "tfc:metal/red_steel",
+    "amount": 1400
+  },
+  "temperature": 950,
+  "time": 630
+}

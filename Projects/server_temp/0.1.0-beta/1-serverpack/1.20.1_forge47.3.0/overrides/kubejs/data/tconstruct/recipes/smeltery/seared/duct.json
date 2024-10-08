@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#C#",
+    "T T",
+    "#C#"
+  ],
+  "key": {
+    "#": {
+      "item": "tconstruct:seared_brick"
+    },
+    "T": {
+      "item": "tfc:metal/tuyere/blue_steel"
+    },
+    "C": {
+      "item": "tfc:fire_clay"
+    }
+  },
+  "result": {
+    "item": "tconstruct:seared_duct"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:steel_post"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_steel",
+    "amount": 300
+  },
+  "temperature": 950,
+  "time": 130
+}

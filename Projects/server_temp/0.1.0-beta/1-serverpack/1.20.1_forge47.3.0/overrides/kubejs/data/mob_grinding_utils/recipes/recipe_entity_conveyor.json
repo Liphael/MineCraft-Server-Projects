@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ISI",
+    "IRI"
+  ],
+  "key": {
+    "I": {
+      "item": "tfc:metal/double_sheet/black_steel"
+    },
+    "S": {
+      "tag": "forge:slimeballs"
+    },
+    "R": {
+      "item": "immersiveengineering:conveyor_extract"
+    }
+  },
+  "result": {
+    "item": "mob_grinding_utils:entity_conveyor",
+    "count": 4
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "tfc:metal/ingot/high_carbon_blue_steel"},
+  "transitionalItem": {"item": "tfc:metal/ingot/unknown"},
+  "sequence": [
+    {"type": "create:filling","ingredients": [{"item": "tfc:metal/ingot/high_carbon_blue_steel"},{"fluid": "minecraft:lava","nbt": {},"amount": 125}],"results": [{"item": "tfc:metal/ingot/unknown"}]},
+    {"type": "create:pressing","ingredients": [{"item": "tfc:metal/ingot/unknown"}],"results": [{"item": "tfc:metal/ingot/unknown"}]},
+    {"type": "create:pressing","ingredients": [{"item": "tfc:metal/ingot/unknown"}],"results": [{"item": "tfc:metal/ingot/unknown"}]},
+    {"type": "create:pressing","ingredients": [{"item": "tfc:metal/ingot/unknown"}],"results": [{"item": "tfc:metal/ingot/unknown"}]},
+    {"type": "create:pressing","ingredients": [{"item": "tfc:metal/ingot/unknown"}],"results": [{"item": "tfc:metal/ingot/unknown"}]},
+    {"type": "create:pressing","ingredients": [{"item": "tfc:metal/ingot/unknown"}],"results": [{"item": "tfc:metal/ingot/blue_steel"}]}
+  ],
+  "results": [{"item": "tfc:metal/ingot/blue_steel"}],
+  "loops": 2
+}

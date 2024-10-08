@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "IRI",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:nuggets/gold"
+    },
+    "I": {
+      "item": "tfc:metal/helmet/wrought_iron"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "result": {
+    "item": "mob_grinding_utils:saw_upgrade_beheading"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "s s",
+    "b b",
+    "ada"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "tag": "forge:supports"
+    },
+    "a": {
+      "tag": "minecraft:planks"
+    },
+    "d": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "result": {
+    "item": "simple_hot_air_balloons:hot_air_balloon_basket",
+    "count": 1
+  }
+}

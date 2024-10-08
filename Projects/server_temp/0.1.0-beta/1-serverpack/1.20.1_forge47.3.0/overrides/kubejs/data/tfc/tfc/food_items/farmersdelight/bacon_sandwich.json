@@ -1,0 +1,13 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:bacon_sandwich"
+  },
+  "category": "grain",
+  "hunger": 5,
+  "saturation": 3,
+  "decay_modifier": 1.25,
+  "vegetables": 2,
+  "protein": 1.5,
+  "grain": 1.5
+}

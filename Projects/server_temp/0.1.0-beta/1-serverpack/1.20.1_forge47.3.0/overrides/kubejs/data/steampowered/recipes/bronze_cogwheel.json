@@ -1,0 +1,14 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc:metal/sheet/bronze"
+  },
+  "result": {
+    "item": "steampowered:bronze_cogwheel"
+  },
+  "tier": 1,
+  "rules": [
+    "hit_last",
+    "draw_second_last"
+  ]
+}

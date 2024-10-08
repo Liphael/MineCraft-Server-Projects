@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ccc",
+    "sps",
+    " f "
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:string"
+    },
+    "c": {
+      "tag": "minecraft:coals"
+    },
+    "p": {
+      "item": "tfc:ceramic/pot"
+    },
+    "f": {
+      "item": "tfc:torch"
+    }
+  },
+  "result": {
+    "item": "simple_hot_air_balloons:coal_burner",
+    "count": 1
+  }
+}

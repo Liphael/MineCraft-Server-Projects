@@ -1,0 +1,17 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "tfc:powder/emerald"
+    }
+  ],
+  "results": [
+    {
+      "item": "mekanism:dust_emerald"
+    },
+    {
+      "item": "mekanism:dust_coal",
+      "chance": 0.75
+    }
+  ]
+}

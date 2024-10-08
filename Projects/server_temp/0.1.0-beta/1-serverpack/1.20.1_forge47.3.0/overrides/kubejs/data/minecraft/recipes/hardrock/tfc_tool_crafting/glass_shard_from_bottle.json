@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by tfch",
+  "type": "tfc:damage_inputs_shapeless_crafting",
+  "recipe": {
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "forge:glass/bottle"
+      },
+      {
+        "tag": "forge:tools/hammers"
+      }
+    ],
+    "result": {
+      "item": "tfc:glass_shard",
+      "count": 2
+    }
+  }
+}

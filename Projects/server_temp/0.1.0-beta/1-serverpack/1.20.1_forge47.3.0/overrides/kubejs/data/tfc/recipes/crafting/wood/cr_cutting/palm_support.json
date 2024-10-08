@@ -1,0 +1,19 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "tfc:palm_logs"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:wood/support/palm",
+    "count": 3
+    },
+    {
+      "item": "immersiveengineering:dust_wood",
+    "count": 2
+    }
+  ],
+  "processingTime": 50
+}

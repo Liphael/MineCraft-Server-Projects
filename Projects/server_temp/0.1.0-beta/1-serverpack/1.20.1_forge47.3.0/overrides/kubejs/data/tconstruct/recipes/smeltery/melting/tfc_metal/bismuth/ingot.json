@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/bismuth"
+  },
+  "result": {
+    "fluid": "tfc:metal/bismuth",
+    "amount": 100
+  },
+  "temperature": 250,
+  "time": 42
+}

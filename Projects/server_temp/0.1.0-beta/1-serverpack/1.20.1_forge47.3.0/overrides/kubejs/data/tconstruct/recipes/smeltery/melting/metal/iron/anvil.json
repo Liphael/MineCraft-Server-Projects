@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "item": "minecraft:anvil"
+    },
+    {
+      "item": "minecraft:chipped_anvil"
+    },
+    {
+      "item": "minecraft:damaged_anvil"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_iron",
+    "amount": 1000
+  },
+  "temperature": 950,
+  "time": 215
+}

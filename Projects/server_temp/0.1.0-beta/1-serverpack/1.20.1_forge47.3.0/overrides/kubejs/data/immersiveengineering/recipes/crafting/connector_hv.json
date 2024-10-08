@@ -1,0 +1,14 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "i",
+        "w",
+        "c"
+        ],
+    "key":{
+        "i":{"tag":"forge:rods/aluminum"},
+        "w":{"tag":"forge:wires/aluminum"},
+        "c":{"item":"immersiveengineering:slag_glass"}
+        },
+    "result":{"item":"immersiveengineering:connector_hv"}
+}

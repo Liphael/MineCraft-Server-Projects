@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/wire"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "forge:molten_wrought_iron",
+    "amount": 25
+  },
+  "result": {
+    "tag": "forge:wires/iron"
+  },
+  "cooling_time": 43
+}

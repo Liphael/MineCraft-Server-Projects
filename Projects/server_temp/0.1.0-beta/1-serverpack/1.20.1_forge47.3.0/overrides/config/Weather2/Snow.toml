@@ -1,0 +1,15 @@
+
+#General mod settings
+[general]
+	#Amount of game ticks between sand buildup iterations, keep it high to prevent client side chunk tick spam that destroys FPS
+	#Range: > 0
+	Snowstorm_Snow_Buildup_TickRate = 40
+	#Base amount of loops done per iteration, scaled by the snowstorms intensity (value given here is the max possible), eg: at max storm intensity, every 40th tick, itll try to build up snow in 800 places around the storm
+	#Range: > 0
+	Snowstorm_Snow_Buildup_LoopAmountBase = 800
+	#Max height of snow allowed to buildup against something, higher = things get more buried over time
+	#Range: > 0
+	Snowstorm_Snow_Block_Max_Height = 5
+	#Allow layered snow blocks to buildup outside cold biomes where snowstorm is
+	Snowstorm_Snow_Buildup_AllowOutsideColdBiomes = true
+

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "forge:fabric/fibers"
+      },
+      {
+        "item": "kubejs:medical_paste"
+      }
+    ],
+    "result": {
+      "item": "firstaid:plaster"
+    }
+  }

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SBS",
+    "CCC"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:double_sheets/cast_iron"
+    },
+    "B": {
+      "item": "immersiveengineering:metal_barrel"
+    },
+    "C": {
+      "item": "tfc:fire_bricks"
+    }
+  },
+  "result": {
+    "item": "steampowered:cast_iron_burner",
+    "count": 1
+  }
+}

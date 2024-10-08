@@ -1,0 +1,20 @@
+{
+    "type":"immersiveengineering:crusher",
+    "secondaries":[
+        {
+            "chance":0.90,
+            "output":{
+                "count": 1,
+                "base_ingredient":{"item":"mekanism:dust_quartz"}
+            }
+        }
+    ],
+    "result":{
+        "count": 1,
+        "base_ingredient":{"item":"mekanism:dust_quartz"}
+    },
+    "input":{
+        "tag":"forge:gems/quartz"
+    },
+    "energy":6000
+}

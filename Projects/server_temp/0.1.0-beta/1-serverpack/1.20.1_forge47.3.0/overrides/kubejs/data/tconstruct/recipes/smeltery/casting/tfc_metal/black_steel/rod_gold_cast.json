@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/rod"
+  },
+  "fluid": {
+    "tag": "forge:molten_black_steel",
+    "amount": 50
+  },
+  "result": {
+    "tag": "forge:rods/black_steel"
+  },
+  "cooling_time": 38
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:rods/black_bronze"
+  },
+  "result": {
+    "fluid": "tfc:metal/black_bronze",
+    "amount": 50
+  },
+  "temperature": 800,
+  "time": 20
+}

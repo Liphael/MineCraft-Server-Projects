@@ -1,0 +1,7 @@
+{
+    "type":"immersiveengineering:metal_press",
+    "mold":"kubejs:hardened_press_head",
+    "result":{"tag":"forge:plates/zinc"},"conditions":[{"value":{"tag":"forge:double_ingots/zinc","type":"forge:tag_empty"},"type":"forge:not"},{"value":{"tag":"forge:plates/zinc","type":"forge:tag_empty"},"type":"forge:not"}],
+    "input":{"tag":"forge:double_ingots/zinc"},
+    "energy":2400
+}

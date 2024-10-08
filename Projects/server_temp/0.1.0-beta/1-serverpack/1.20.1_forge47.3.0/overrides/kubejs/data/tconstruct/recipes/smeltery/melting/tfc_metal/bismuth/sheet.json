@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:sheets/bismuth"
+    }
+  ],
+  "result": {
+    "fluid": "tfc:metal/bismuth",
+    "amount": 200
+  },
+  "temperature": 250,
+  "time": 63
+}

@@ -1,0 +1,13 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "createaddition:spool"},
+    "transitionalItem": {"item": "create:gantry_shaft"},
+    "sequence": [
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "immersiveengineering:wire_electrum"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "immersiveengineering:wire_electrum"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "immersiveengineering:wire_electrum"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "immersiveengineering:wire_electrum"}],"results": [{"item": "create:gantry_shaft"}]}
+    ],
+    "results": [{"item": "createaddition:electrum_spool"}],
+    "loops": 1
+  }

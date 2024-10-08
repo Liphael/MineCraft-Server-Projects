@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:double_sheets/chromium"
+  },
+  "result": {
+    "fluid": "firmalife:metal/chromium",
+    "amount": 400
+  },
+  "temperature": 950,
+  "time": 120
+}

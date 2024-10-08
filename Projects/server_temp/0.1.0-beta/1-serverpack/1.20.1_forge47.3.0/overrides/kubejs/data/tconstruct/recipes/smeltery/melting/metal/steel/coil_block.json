@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:coil_hv"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_steel",
+    "amount": 550
+  },
+  "temperature": 950,
+  "time": 145
+}

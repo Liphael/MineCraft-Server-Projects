@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "tfc:metal/anvil/copper"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_copper",
+    "amount": 1400
+  },
+  "temperature": 500,
+  "time": 300
+}

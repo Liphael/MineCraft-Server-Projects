@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:double_ingots/wrought_iron"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_iron",
+    "amount": 200
+  },
+  "temperature": 900,
+  "time": 90
+}

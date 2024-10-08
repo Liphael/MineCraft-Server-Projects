@@ -1,0 +1,10 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersrespite:nether_wart_sourdough"
+  },
+  "hunger": 8,
+  "saturation": 3,
+  "decay_modifier": 0.2,
+  "grain": 2
+}

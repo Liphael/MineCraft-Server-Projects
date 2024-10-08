@@ -1,0 +1,32 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "tfc:herbal_grass"
+    },
+    {
+      "tag": "tfc:herbal_grass"
+    },
+    {
+      "tag": "tfc:herbal_grass"
+    },
+    {
+      "tag": "tfc:herbal_grass"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:herbal_water",
+      "amount": 1000
+    },
+    {
+      "item": "kubejs:boiled_grass"
+    }
+  ],
+  "heatRequirement": "heated"
+}

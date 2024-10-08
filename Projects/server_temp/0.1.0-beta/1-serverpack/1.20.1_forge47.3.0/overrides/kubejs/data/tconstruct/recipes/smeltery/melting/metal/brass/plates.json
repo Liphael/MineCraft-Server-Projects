@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:sheets/brass"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_brass",
+    "amount": 200
+  },
+  "temperature": 605,
+  "time": 81
+}

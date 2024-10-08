@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/black_bronze"
+  },
+  "result": {
+    "fluid": "tfc:metal/black_bronze",
+    "amount": 100
+  },
+  "temperature": 800,
+  "time": 65
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:coil_lv"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_copper",
+    "amount": 550
+  },
+  "temperature": 500,
+  "time": 100
+}

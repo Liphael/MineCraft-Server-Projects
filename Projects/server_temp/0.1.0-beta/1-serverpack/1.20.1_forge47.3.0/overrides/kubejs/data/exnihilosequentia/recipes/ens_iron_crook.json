@@ -1,0 +1,15 @@
+{
+    "type": "tfc:anvil",
+    "input": {
+      "tag": "forge:rods/wrought_iron"
+    },
+    "result": {
+      "item": "exnihilosequentia:iron_crook"
+    },
+    "tier": 3,
+    "rules": [
+      "draw_any",
+      "punch_last",
+      "punch_not_last"
+    ]
+  }

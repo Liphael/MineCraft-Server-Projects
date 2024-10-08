@@ -1,0 +1,32 @@
+{
+  "type": "travelersbackpack:backpack_shaped",
+
+  "pattern":
+  [
+    "XEX",
+    "XDX",
+    "XEX"
+  ],
+
+  "key":
+  {
+    "D":
+    {
+      "item": "travelersbackpack:standard"
+    },
+    "E":
+    {
+      "item": "minecraft:carved_pumpkin"
+    },
+    "X":
+    {
+      "item": "tfc:pumpkin"
+    }
+  },
+
+  "result":
+  {
+    "item": "travelersbackpack:pumpkin",
+    "count": 1
+  }
+}

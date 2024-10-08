@@ -1,0 +1,20 @@
+{
+    "type":"immersiveengineering:crusher",
+    "secondaries":[
+        {
+            "chance":0.50,
+            "output":{
+                "count": 1,
+                "base_ingredient":{"item":"kubejs:andesite_rock_powder"}
+            }
+        }
+    ],
+    "result":{
+        "count": 1,
+        "base_ingredient":{"item":"kubejs:andesite_rock_powder"}
+    },
+    "input":{
+        "item":"tfc:rock/loose/andesite"
+    },
+    "energy":1200
+}

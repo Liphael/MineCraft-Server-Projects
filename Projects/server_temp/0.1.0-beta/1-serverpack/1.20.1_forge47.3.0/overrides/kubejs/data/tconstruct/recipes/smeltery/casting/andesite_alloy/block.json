@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "forge:molten_andesite_alloy",
+    "amount": 900
+  },
+  "result": {
+    "tag": "forge:storage_blocks/andesite_alloy"
+  },
+  "cooling_time": 194
+}

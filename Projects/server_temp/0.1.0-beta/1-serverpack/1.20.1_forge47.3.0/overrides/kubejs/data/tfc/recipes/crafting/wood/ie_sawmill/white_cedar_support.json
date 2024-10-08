@@ -1,0 +1,13 @@
+{
+    "type":"immersiveengineering:sawmill",
+    "secondaries":[
+        {"output":{"tag":"forge:dusts/wood"},"stripping":true},
+        {"output":{"tag":"forge:dusts/wood"},"stripping":false}
+        ],
+    "result":{"item":"tfc:wood/support/white_cedar","count":6},
+    "energy":1600,
+    "input":[
+        {"tag": "tfc:white_cedar_logs"}
+        ],
+    "stripped":{"item":"tfc:wood/stripped_log/white_cedar"}
+}

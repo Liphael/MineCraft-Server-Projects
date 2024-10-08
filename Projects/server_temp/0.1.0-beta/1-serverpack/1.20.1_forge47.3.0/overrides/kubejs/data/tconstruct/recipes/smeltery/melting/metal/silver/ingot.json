@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/silver"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_silver",
+    "amount": 100
+  },
+  "temperature": 790,
+  "time": 60
+}

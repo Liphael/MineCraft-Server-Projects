@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:ore/lapis_lazuli"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:powder/lapis_lazuli",
+      "count": 2
+    },
+    {
+      "item": "tfc:powder/lapis_lazuli",
+      "count": 1,
+      "chance": 0.3
+    }
+  ]
+}

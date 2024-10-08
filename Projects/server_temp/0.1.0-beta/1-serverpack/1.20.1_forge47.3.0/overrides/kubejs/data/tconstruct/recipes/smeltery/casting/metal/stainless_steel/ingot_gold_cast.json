@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "fluid": {
+    "tag": "firmalife:stainless_steel",
+    "amount": 100
+  },
+  "result": "firmalife:metal/ingot/stainless_steel",
+  "cooling_time": 50
+}

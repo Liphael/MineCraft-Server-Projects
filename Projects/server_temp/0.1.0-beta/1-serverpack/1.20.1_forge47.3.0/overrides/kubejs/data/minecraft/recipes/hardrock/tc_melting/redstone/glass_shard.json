@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "tfc:glass_shard"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_glass",
+    "amount": 125
+  },
+  "temperature": 750,
+  "time": 25
+}

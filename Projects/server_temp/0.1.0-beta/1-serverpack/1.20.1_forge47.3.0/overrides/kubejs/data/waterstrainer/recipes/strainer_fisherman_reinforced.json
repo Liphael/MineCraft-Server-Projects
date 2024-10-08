@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SBS",
+		"BNB",
+		"SBS"
+	],
+	"key": {
+		"S": {
+			"tag": "forge:rods/wooden"
+		},
+		"B": {
+			"tag": "minecraft:leaves"
+		},
+		"N": {
+			"item": "exnihilosequentia:netherite_mesh"
+		}
+	},
+	"result": {
+		"item": "waterstrainer:strainer_fisherman_reinforced"
+	}
+}

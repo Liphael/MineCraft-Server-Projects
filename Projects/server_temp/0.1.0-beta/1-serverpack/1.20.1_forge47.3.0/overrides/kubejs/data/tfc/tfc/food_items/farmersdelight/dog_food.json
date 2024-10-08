@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:dog_food"
+  },
+  "category": "vegetable",
+  "hunger": 3,
+  "saturation": 5,
+  "decay_modifier": 1.5,
+  "protein": 3,
+  "grain": 1.5
+}

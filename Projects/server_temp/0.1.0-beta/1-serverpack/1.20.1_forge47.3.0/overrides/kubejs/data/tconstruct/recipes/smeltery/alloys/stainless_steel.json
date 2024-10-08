@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "tag": "forge:molten_steel",
+      "amount": 60
+    },
+    {
+      "tag": "forge:molten_nickel",
+      "amount": 20
+    },
+    {
+      "tag": "firmalife:chromium",
+      "amount": 20
+    }
+  ],
+  "result": {
+    "fluid": "firmalife:metal/stainless_steel",
+    "amount": 100
+  },
+  "temperature": 950
+}

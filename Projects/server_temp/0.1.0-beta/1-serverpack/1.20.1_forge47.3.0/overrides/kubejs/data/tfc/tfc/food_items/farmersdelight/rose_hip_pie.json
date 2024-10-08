@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersrespite:rose_hip_pie"
+  },
+  "hunger": 8,
+  "saturation": 1,
+  "decay_modifier": 1.2,
+  "grain": 2,
+  "fruit": 2
+}

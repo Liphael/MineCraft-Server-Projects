@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/ingot"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "forge:molten_black_bronze",
+    "amount": 100
+  },
+  "result": {
+    "tag": "forge:ingots/black_bronze"
+  },
+  "cooling_time": 65
+}

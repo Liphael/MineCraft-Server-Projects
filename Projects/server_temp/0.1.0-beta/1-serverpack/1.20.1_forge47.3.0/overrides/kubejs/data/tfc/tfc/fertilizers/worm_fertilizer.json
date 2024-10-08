@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "waterstrainer:fertilizer"
+  },
+  "nitrogen": 0.2,
+  "potassium": 0.2,
+  "phosphorus": 0.1
+}

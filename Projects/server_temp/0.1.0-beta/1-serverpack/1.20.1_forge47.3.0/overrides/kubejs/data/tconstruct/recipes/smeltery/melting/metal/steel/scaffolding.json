@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "immersiveengineering:scaffoldings/steel"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_steel",
+    "amount": 200
+  },
+  "temperature": 950,
+  "time": 75
+}

@@ -1,0 +1,14 @@
+{
+    "type":"exnihilosequentia:sieve",
+    "rolls":[
+        {"chance":0.02,"mesh":"flint"},
+        {"chance":0.05,"mesh":"iron"},
+        {"chance":0.1,"mesh":"diamond"}
+    ],
+    "input":{
+        "item":"exnihilosequentia:crushed_netherrack"
+        },
+    "result":{
+        "item":"tfc:ore/small_native_gold"
+    }
+}

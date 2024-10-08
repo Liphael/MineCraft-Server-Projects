@@ -1,0 +1,13 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:grilled_salmon"
+  },
+  "category": "grain",
+  "hunger": 7,
+  "saturation": 7,
+  "decay_modifier": 1.25,
+  "vegetables": 2,
+  "protein": 1,
+  "fruit": 1
+}

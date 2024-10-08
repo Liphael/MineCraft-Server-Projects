@@ -1,0 +1,809 @@
+{
+	id: "1A6A51A7AB7A03AF"
+	group: "4B506126B0B8AA84"
+	order_index: 1
+	filename: "age-kinetic-power"
+	title: "Age - Kinetic Power"
+	icon: "create:cogwheel"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Kinetic Power"
+			icon: "create:cogwheel"
+			x: 6.5d
+			y: 0.0d
+			shape: "gear"
+			description: ["You need to build the first machines driven by kinetic force - The mill wheel or the wind farm will help you with any machine - If you don't know how to do it - In JEI hold the W button to see the animation"]
+			dependencies: [
+				"751EF81B24F71A37"
+				"26515677B3118AEA"
+			]
+			hide: true
+			size: 2.5d
+			id: "1EA8FFB7D51E2A12"
+			tasks: [{
+				id: "6B83C7A60078E437"
+				type: "checkmark"
+			}]
+		}
+		{
+			title: "Andesite"
+			icon: {
+				id: "create:andesite_alloy"
+				Count: 1b
+				ForgeCaps: {
+					"tfc:item_heat": {
+						heat: 0.0f
+						ticks: 0L
+					}
+				}
+			}
+			x: 9.5d
+			y: 0.0d
+			description: ["To build your first kinetic power you will need a few basic elements"]
+			dependencies: ["1EA8FFB7D51E2A12"]
+			id: "7EE3BBD82AFCA050"
+			tasks: [
+				{
+					id: "6F4EC8FA7B04997A"
+					type: "item"
+					item: {
+						id: "create:andesite_alloy"
+						Count: 1b
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+					}
+					count: 4L
+				}
+				{
+					id: "225190EB93DDC2FA"
+					type: "item"
+					item: "create:shaft"
+					count: 4L
+				}
+				{
+					id: "6FE171BCDE9EDEA5"
+					type: "item"
+					item: "create:cogwheel"
+					count: 8L
+				}
+				{
+					id: "57EB39AC56B4FA62"
+					type: "item"
+					item: "create:large_cogwheel"
+					count: 4L
+				}
+			]
+		}
+		{
+			x: 17.0d
+			y: -1.5d
+			description: ["The saw produces more resources for production"]
+			dependencies: ["5C9887575E36C258"]
+			hide: true
+			id: "5C608965BCE0B458"
+			tasks: [{
+				id: "3C6F99608B564DBE"
+				type: "item"
+				item: "create:mechanical_saw"
+			}]
+		}
+		{
+			title: "Driving wheels"
+			icon: "create:water_wheel"
+			x: 13.5d
+			y: 0.0d
+			description: [
+				"-> Water mill is the simplest element that you can feed with flowing water. Use it to drive kinetic machines from the ''Create'' mod."
+				" - IMPORTANT - waterwheels work 100% power only on water biomes - river, lake, ocean"
+				""
+				"-> Windmill works with frames (min 8). It is stronger than a water mill but harder to build (press W on the windmill icon and see the animations)"
+				" - IMPORTANT - windwheels work 100% power only on high biomes - hills, mountains and height also matters"
+			]
+			dependencies: ["7EE3BBD82AFCA050"]
+			hide: true
+			id: "5C9887575E36C258"
+			tasks: [
+				{
+					id: "361AF84B6AF833D9"
+					type: "item"
+					item: "create:water_wheel"
+				}
+				{
+					id: "514264FC07814E5F"
+					type: "item"
+					item: "create:windmill_bearing"
+				}
+				{
+					id: "2D8B335DA499CAED"
+					type: "item"
+					item: "create:sail_frame"
+					count: 8L
+				}
+			]
+		}
+		{
+			x: 17.0d
+			y: 0.0d
+			description: ["Strong mechanical press !!!"]
+			dependencies: ["5C9887575E36C258"]
+			hide: true
+			id: "67102F38AE457366"
+			tasks: [{
+				id: "0FBDA9DDD2065CF0"
+				type: "item"
+				item: "create:mechanical_press"
+			}]
+		}
+		{
+			x: 17.0d
+			y: 1.5d
+			description: ["Mix as much as you want"]
+			dependencies: ["5C9887575E36C258"]
+			hide: true
+			id: "3CE6F76BD84AE461"
+			tasks: [{
+				id: "4DC59D2F53674B1D"
+				type: "item"
+				item: "create:mechanical_mixer"
+			}]
+		}
+		{
+			x: 17.0d
+			y: 3.0d
+			description: ["Automate harvesting"]
+			dependencies: ["5C9887575E36C258"]
+			hide: true
+			id: "6625721554762B7E"
+			tasks: [{
+				id: "5CA84A0E55C4FC93"
+				type: "item"
+				item: "create:mechanical_harvester"
+			}]
+		}
+		{
+			x: 13.5d
+			y: 3.0d
+			description: ["Flour and bread? or anything else that you can grind"]
+			dependencies: ["5C9887575E36C258"]
+			hide: true
+			id: "7BA90554CBC6C4AD"
+			tasks: [{
+				id: "6320E27B08C68842"
+				type: "item"
+				item: "create:millstone"
+			}]
+		}
+		{
+			title: "You need it"
+			icon: "create:basin"
+			x: 11.0d
+			y: 1.0d
+			description: ["Basin, Depot, Hand crank"]
+			dependencies: ["7EE3BBD82AFCA050"]
+			hide: true
+			id: "29D6EECD95CE91F7"
+			tasks: [
+				{
+					id: "788099882002C414"
+					type: "item"
+					item: "create:basin"
+				}
+				{
+					id: "691580942E7DC3CD"
+					type: "item"
+					item: "create:depot"
+				}
+				{
+					id: "6F7ED3A69F0EA475"
+					type: "item"
+					item: "create:hand_crank"
+				}
+			]
+		}
+		{
+			x: 13.5d
+			y: 5.0d
+			description: ["Stronger crushing  - Ores, obsidian"]
+			dependencies: [
+				"7BA90554CBC6C4AD"
+				"0D9226B15823F86B"
+			]
+			hide: true
+			id: "05E321DBBE7C04C7"
+			tasks: [{
+				id: "4573EABB7550955F"
+				type: "item"
+				item: "create:crushing_wheel"
+			}]
+		}
+		{
+			x: 15.5d
+			y: 5.5d
+			description: [
+				"Mechanical fan"
+				"press W on its icon and see how to use it"
+			]
+			dependencies: ["5C9887575E36C258"]
+			hide: true
+			id: "229F42D6E7D9125F"
+			tasks: [{
+				id: "34E7187A6243EB62"
+				type: "item"
+				item: "create:encased_fan"
+			}]
+		}
+		{
+			title: "Fluids"
+			icon: "create:mechanical_pump"
+			x: 13.5d
+			y: -3.5d
+			description: ["Transfer fluids and store them in tanks - You can do anything"]
+			dependencies: ["5C9887575E36C258"]
+			hide: true
+			id: "5C8130CF746E8378"
+			tasks: [
+				{
+					id: "21137CA75ADAC09D"
+					type: "item"
+					item: "create:mechanical_pump"
+				}
+				{
+					id: "3CA628FA070EFA89"
+					type: "item"
+					item: "create:fluid_pipe"
+					count: 4L
+				}
+				{
+					id: "75037910B25DD760"
+					type: "item"
+					item: "create:fluid_tank"
+					count: 4L
+				}
+			]
+		}
+		{
+			x: 16.5d
+			y: 4.5d
+			description: [
+				"Mechanical fan"
+				"It's an extension of your hand - It can push and pass for you"
+			]
+			dependencies: ["5C9887575E36C258"]
+			hide: true
+			id: "276EFA0438F4971F"
+			tasks: [{
+				id: "31E3C0E508305267"
+				type: "item"
+				item: "create:deployer"
+			}]
+		}
+		{
+			title: "Brass"
+			icon: {
+				id: "tfc:metal/ingot/brass"
+				Count: 1b
+				ForgeCaps: {
+					"tfc:item_heat": {
+						heat: 0.0f
+						ticks: 0L
+					}
+				}
+			}
+			x: 8.5d
+			y: 1.0d
+			dependencies: ["1EA8FFB7D51E2A12"]
+			hide: true
+			id: "7FFDD5BC66D48D9F"
+			tasks: [
+				{
+					id: "4BD6D0C02A173289"
+					type: "item"
+					item: {
+						id: "tfc:metal/ingot/brass"
+						Count: 1b
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+					}
+				}
+				{
+					id: "2FFDEB37CB9B25D0"
+					type: "item"
+					item: "create:wrench"
+				}
+			]
+		}
+		{
+			title: "Latex to belt"
+			icon: "create:belt_connector"
+			x: 11.0d
+			y: 2.0d
+			description: ["The mechanical belt will be useful for transferring rotation over long distances - You need it"]
+			dependencies: ["29D6EECD95CE91F7"]
+			hide: true
+			id: "43782216AD3B3EB8"
+			tasks: [
+				{
+					id: "5FDFC56324EBB5B9"
+					type: "item"
+					item: "myrtrees:latex"
+				}
+				{
+					id: "65644152E744FF7C"
+					type: "item"
+					item: "kubejs:vulcanized_rubber"
+				}
+				{
+					id: "33B46595E116743E"
+					type: "item"
+					item: "create:belt_connector"
+				}
+			]
+		}
+		{
+			icon: "createsifter:sifter"
+			x: 12.0d
+			y: 3.0d
+			description: ["Sifter - A great device for obtaining resources"]
+			dependencies: ["7BA90554CBC6C4AD"]
+			hide: true
+			id: "49025B08B294594E"
+			tasks: [
+				{
+					id: "2A2AB3C7A4DA97B1"
+					type: "item"
+					item: "createsifter:sifter"
+				}
+				{
+					id: "0A504F18685F9DA5"
+					type: "item"
+					item: {
+						id: "createsifter:string_mesh"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
+		}
+		{
+			title: "Crafters"
+			icon: "create:mechanical_crafter"
+			x: 11.5d
+			y: 5.0d
+			description: [
+				"Crafters will help you build some items"
+				"Requires a large kinetic drive"
+			]
+			dependencies: ["7FFDD5BC66D48D9F"]
+			hide: true
+			id: "0D9226B15823F86B"
+			tasks: [{
+				id: "4B34C97A1FCA5ED8"
+				type: "item"
+				item: "create:mechanical_crafter"
+				count: 21L
+			}]
+		}
+		{
+			title: "Copper"
+			icon: {
+				id: "tfc:metal/ingot/copper"
+				Count: 1b
+				ForgeCaps: {
+					"tfc:item_heat": {
+						heat: 0.0f
+						ticks: 0L
+					}
+				}
+			}
+			x: 8.5d
+			y: -1.5d
+			description: [""]
+			dependencies: ["1EA8FFB7D51E2A12"]
+			id: "6D2442B6B491A447"
+			tasks: [{
+				id: "241FE37D6C19C017"
+				type: "item"
+				item: {
+					id: "tfc:metal/ingot/copper"
+					Count: 1b
+					ForgeCaps: {
+						"tfc:item_heat": {
+							heat: 0.0f
+							ticks: 0L
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 8.5d
+			y: -3.0d
+			dependencies: ["6D2442B6B491A447"]
+			hide: true
+			id: "698043F78F05C803"
+			tasks: [{
+				id: "278FC552EC6E7A02"
+				type: "item"
+				item: {
+					id: "create_sa:copper_exoskeleton_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 8.5d
+			y: 2.5d
+			dependencies: ["7FFDD5BC66D48D9F"]
+			hide: true
+			id: "0B3869DC1A9C3A02"
+			tasks: [{
+				id: "20DCDCDB5A3CFD5C"
+				type: "item"
+				item: {
+					id: "create_sa:brass_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 10.5d
+			y: -1.0d
+			dependencies: ["7EE3BBD82AFCA050"]
+			hide: true
+			id: "689FA00FB01D1810"
+			tasks: [{
+				id: "04A1BF353618BD5B"
+				type: "item"
+				item: {
+					id: "create_sa:andesite_exoskeleton_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 8.5d
+			y: 3.5d
+			dependencies: ["0B3869DC1A9C3A02"]
+			hide: true
+			id: "42A3D193667CE9A5"
+			tasks: [{
+				id: "77346D9E12CD3A41"
+				type: "item"
+				item: {
+					id: "create_sa:brass_exoskeleton_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 11.5d
+			y: -2.0d
+			dependencies: ["689FA00FB01D1810"]
+			id: "39D41B6F0307A9CA"
+			tasks: [{
+				id: "578E8B902DBD275B"
+				type: "item"
+				item: {
+					id: "create_sa:andesite_jetpack_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 8.5d
+			y: 4.5d
+			dependencies: ["42A3D193667CE9A5"]
+			hide: true
+			id: "6DF85BFC58387DA7"
+			tasks: [{
+				id: "30B90808F2D0B930"
+				type: "item"
+				item: {
+					id: "create_sa:brass_jetpack_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Drill Machine"
+			icon: "createoreexcavation:drilling_machine"
+			x: 12.45d
+			y: 6.5d
+			subtitle: "Find ore deposits or fluids"
+			description: ["Mining resources, but first search for deposits/veins in the geologist ore vein finder"]
+			dependencies: [
+				"0D9226B15823F86B"
+				"05E321DBBE7C04C7"
+			]
+			hide: true
+			id: "0131052F551C8267"
+			tasks: [
+				{
+					id: "5B926A99A010A76D"
+					type: "item"
+					item: "createoreexcavation:drilling_machine"
+				}
+				{
+					id: "204D96627E0C9D2A"
+					type: "item"
+					item: {
+						id: "createoreexcavation:drill"
+						Count: 1b
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+					}
+				}
+				{
+					id: "6E23D0F9A33DD30C"
+					type: "item"
+					item: "createoreexcavation:vein_finder"
+				}
+			]
+		}
+		{
+			title: "Fluid Well Extractor"
+			icon: "createoreexcavation:drilling_machine"
+			x: 13.5d
+			y: 8.0d
+			subtitle: "Find ore deposits or fluids"
+			description: ["Find oil or fluids, but first search for deposits/veins in the geologist ore vein finder"]
+			dependencies: ["0131052F551C8267"]
+			hide: true
+			id: "57C715BA69EF42D0"
+			tasks: [
+				{
+					id: "36390279C5BDE930"
+					type: "item"
+					item: "createoreexcavation:extractor"
+				}
+				{
+					id: "12E8D7F9C1528271"
+					type: "item"
+					item: {
+						id: "createoreexcavation:drill"
+						Count: 1b
+						ForgeCaps: {
+							"tfc:item_heat": {
+								heat: 0.0f
+								ticks: 0L
+							}
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 11.700000000000001d
+			y: 9.75d
+			shape: "gear"
+			subtitle: "Unlock Age Nuclear"
+			description: ["You finally got it"]
+			dependencies: ["0131052F551C8267"]
+			hide: true
+			size: 1.3d
+			id: "76892F08AE21B82C"
+			tasks: [{
+				id: "6182AF7197DFA219"
+				type: "item"
+				item: "mekanism:raw_osmium"
+			}]
+		}
+		{
+			x: 11.45d
+			y: 8.0d
+			description: ["Oooohh Shiny... Something beautiful"]
+			dependencies: ["0131052F551C8267"]
+			hide: true
+			id: "115D0427432020B0"
+			tasks: [{
+				id: "7C42F6C5E16FAFBD"
+				type: "item"
+				item: "minecraft:diamond"
+			}]
+		}
+		{
+			x: 10.0d
+			y: 7.800000000000001d
+			shape: "gear"
+			description: ["You finally got it"]
+			dependencies: ["0131052F551C8267"]
+			hide: true
+			size: 1.3d
+			id: "01EEA610B8226679"
+			tasks: [{
+				id: "0BE04D8921373B60"
+				type: "item"
+				item: "tfc_ie_addon:ore/rich_uranium"
+			}]
+		}
+		{
+			x: 16.5d
+			y: -2.5d
+			description: ["Rods, Wires - Easy"]
+			dependencies: ["5C9887575E36C258"]
+			hide: true
+			id: "72AFED44ADD2CE4B"
+			tasks: [{
+				id: "60C9D7FC55226A62"
+				type: "item"
+				item: "createaddition:rolling_mill"
+			}]
+		}
+		{
+			icon: "create_electric_stonks:generator"
+			x: 10.0d
+			y: -3.0d
+			description: [
+				"Electricity?"
+				"Power! "
+				"Convenience..."
+				"Use the resonance generator or alternator to produce electricity"
+			]
+			dependencies: ["6D2442B6B491A447"]
+			hide: true
+			id: "5646557445AB2790"
+			tasks: [
+				{
+					id: "649A489A538A62C8"
+					type: "item"
+					item: "create_electric_stonks:energy_relaying_pole"
+				}
+				{
+					id: "2729193164D36A82"
+					type: "item"
+					item: "create_electric_stonks:weak_generator"
+				}
+				{
+					id: "2A1A76BCBD995E47"
+					type: "item"
+					item: "create_electric_stonks:weak_motor"
+				}
+				{
+					id: "4D37D5300F790950"
+					type: "item"
+					item: "createaddition:alternator"
+				}
+			]
+		}
+		{
+			icon: "createaddition:tesla_coil"
+			x: 10.0d
+			y: -4.5d
+			description: ["Electric charging"]
+			dependencies: ["5646557445AB2790"]
+			hide: true
+			id: "4CAEC6A626691C05"
+			tasks: [{
+				id: "59610346645DF9C5"
+				type: "item"
+				item: "createaddition:tesla_coil"
+			}]
+		}
+		{
+			x: 8.5d
+			y: -4.5d
+			dependencies: ["698043F78F05C803"]
+			hide: true
+			id: "46E38501E4C1F83B"
+			tasks: [{
+				id: "2613F6E109F5CD63"
+				type: "item"
+				item: {
+					id: "create_sa:copper_jetpack_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Purified water"
+			icon: "kubejs:purified_water_bucket"
+			x: 13.5d
+			y: 9.5d
+			shape: "gear"
+			description: ["Yeaaaa - Infinite clear purified water"]
+			dependencies: ["57C715BA69EF42D0"]
+			hide: true
+			size: 1.3d
+			id: "389E43A564A5F2D4"
+			tasks: [{
+				id: "01D9E1C2E973A43F"
+				type: "item"
+				item: "kubejs:purified_water_bucket"
+			}]
+		}
+		{
+			title: "Crude oil"
+			icon: "immersivepetroleum:crudeoil_bucket"
+			x: 15.0d
+			y: 9.5d
+			shape: "gear"
+			description: ["Yeaaaa - We found Crude Oil, but its a small deposit"]
+			dependencies: ["57C715BA69EF42D0"]
+			hide: true
+			size: 1.3d
+			id: "38889D8956626306"
+			tasks: [{
+				id: "7F410A9E16B83FD0"
+				type: "item"
+				item: "immersivepetroleum:crudeoil_bucket"
+			}]
+		}
+		{
+			title: "Little nuggets"
+			icon: "tfc:ore/poor_native_copper"
+			x: 12.0d
+			y: 4.0d
+			description: ["Some types of gravel and sand yield small amounts of materials"]
+			dependencies: ["49025B08B294594E"]
+			hide: true
+			id: "67A49A03973B97A1"
+			tasks: [
+				{
+					id: "2A01C0D228545F92"
+					type: "item"
+					item: "tfc:ore/poor_native_copper"
+				}
+				{
+					id: "5C7CDFF3BA4FAD61"
+					type: "item"
+					item: "minecraft:gold_nugget"
+				}
+			]
+		}
+		{
+			x: 11.0d
+			y: 3.0d
+			description: [
+				"The first redstone dust can be obtained by  by finding cinnabar samples that drop pure Redstone"
+				" --- and ---"
+				"* use sluicing and Pink Sand "
+				"* sifting crushed netherrack"
+				"* later washing crushed Iron ore"
+				"* processing cinnabar ores on a crushing wheel"
+			]
+			dependencies: ["49025B08B294594E"]
+			id: "42EA9B06964A5D15"
+			tasks: [{
+				id: "6CC8D74641CD4A34"
+				type: "item"
+				item: "minecraft:redstone"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

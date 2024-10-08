@@ -1,0 +1,26 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "immersiveengineering:press_molds"
+    },
+    {
+      "item": "immersiveengineering:mold_wire"
+    },
+    {
+      "item": "immersiveengineering:mold_packing_9"
+    },
+    {
+      "item": "tfc_ie_addon:mold_sheet"
+    },
+    {
+      "item": "tfc_ie_addon:mold_block"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_steel",
+    "amount": 600
+  },
+  "temperature": 950,
+  "time": 150
+}

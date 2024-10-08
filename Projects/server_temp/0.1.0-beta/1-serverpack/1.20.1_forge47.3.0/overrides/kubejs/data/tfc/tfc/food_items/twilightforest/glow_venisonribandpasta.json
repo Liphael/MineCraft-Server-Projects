@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "twilightdelight:glow_venison_rib_with_pasta"
+  },
+  "hunger": 13,
+  "saturation": 12,
+  "decay_modifier": 0.75,
+  "protein": 2.0,
+  "grain": 2.0
+}

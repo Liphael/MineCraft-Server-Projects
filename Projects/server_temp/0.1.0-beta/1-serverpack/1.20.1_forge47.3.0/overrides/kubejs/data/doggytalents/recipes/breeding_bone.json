@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "doggytalents:master_treat"
+    },
+    {
+      "item": "tfc:food/cooked_beef"
+    },
+    {
+      "item": "tfc:food/cooked_pork"
+    },
+    {
+      "item": "tfc:food/cooked_chicken"
+    },
+    {
+      "item": "tfc:food/cooked_cod"
+    }
+  ],
+  "result": {
+    "item": "doggytalents:breeding_bone",
+    "count": 2
+  }
+}

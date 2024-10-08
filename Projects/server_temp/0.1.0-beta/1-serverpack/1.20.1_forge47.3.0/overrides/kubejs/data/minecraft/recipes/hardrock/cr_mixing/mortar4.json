@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "coralstfc:coral_powder"
+      },
+      {
+        "fluid": "tfc:limewater",
+        "nbt": {},
+        "amount": 25
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:mortar",
+        "count": 4
+      }
+    ]
+  }

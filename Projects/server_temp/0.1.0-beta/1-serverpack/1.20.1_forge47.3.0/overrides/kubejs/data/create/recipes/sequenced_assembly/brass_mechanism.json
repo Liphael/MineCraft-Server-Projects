@@ -1,0 +1,119 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "forge:rods/brass"
+  },
+  "transitionalItem": {
+    "item": "create:incomplete_precision_mechanism"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:incomplete_precision_mechanism"
+        },
+        {
+          "tag": "forge:nuggets/brass"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:incomplete_precision_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:incomplete_precision_mechanism"
+        },
+        {
+          "tag": "forge:gears/wooden"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:incomplete_precision_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:incomplete_precision_mechanism"
+        },
+        {
+          "tag": "forge:nuggets/brass"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:incomplete_precision_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:incomplete_precision_mechanism"
+        },
+        {
+          "tag": "forge:rods/brass"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:incomplete_precision_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:incomplete_precision_mechanism"
+        },
+        {
+          "tag": "forge:nuggets/copper"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:incomplete_precision_mechanism"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brass_mechanisms",
+      "chance": 120.0,
+      "count": 4
+    },
+    {
+      "item": "tfc:metal/sheet/brass",
+      "chance": 8.0
+    },
+    {
+      "item": "create:andesite_alloy",
+      "chance": 8.0
+    },
+    {
+      "item": "create:cogwheel",
+      "chance": 5.0
+    },
+    {
+      "item": "create:brass_nugget",
+      "chance": 3.0
+    },
+    {
+      "item": "create:shaft",
+      "chance": 2.0
+    }
+  ],
+  "loops": 2
+}

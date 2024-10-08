@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "type": "tfc:not_rotten",
+      "ingredient": {
+        "item": "minecraft:porkchop"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "tfc:food/pork",
+      "count": 1
+    }
+  ],
+  "sound": "minecraft:block.beehive.drip"
+}

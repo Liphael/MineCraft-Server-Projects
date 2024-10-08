@@ -1,0 +1,23 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "tag": "forge:plates/steel","count": 1
+    },
+    {
+      "tag": "forge:nuggets/iron","count": 6
+    },
+    {
+      "item": "tconstruct:clear_glass_pane","count": 4
+    },
+    {
+      "item": "minecraft:redstone","count": 4
+    },
+    {
+      "tag": "forge:dyes/gray","count": 1
+    }
+  ],
+  "result": {
+    "item": "cgm:medium_scope"
+  }
+}

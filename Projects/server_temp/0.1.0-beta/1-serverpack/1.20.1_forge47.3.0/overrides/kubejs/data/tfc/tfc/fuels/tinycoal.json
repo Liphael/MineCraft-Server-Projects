@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": [
+    {
+      "item": "tinycoal:tinycoal"
+    },
+    {
+      "item": "tinycoal:tinycharcoal"
+    }
+  ],
+  "duration": 360,
+  "temperature": 1400,
+  "purity": 0.7
+}

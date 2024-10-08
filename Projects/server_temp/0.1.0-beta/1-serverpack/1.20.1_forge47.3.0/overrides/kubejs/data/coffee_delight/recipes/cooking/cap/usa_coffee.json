@@ -1,0 +1,12 @@
+{
+  "type": "farmersrespite:brewing",
+  "ingredients": [
+    {"item": "minecraft:potion"},
+    {"item": "coffee_delight:coffee_flour"}
+  ],
+  "result": {"item": "coffee_delight:cap_usa_coffee"},
+  "container": {"item": "coffee_delight:coffee_cap"},
+  "experience": 0.35,
+  "brewingtime": 800,
+  "needwater": true
+}

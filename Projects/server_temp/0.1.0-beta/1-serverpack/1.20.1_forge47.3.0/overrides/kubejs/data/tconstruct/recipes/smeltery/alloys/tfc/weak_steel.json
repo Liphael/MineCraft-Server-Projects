@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "tag": "forge:molten_steel",
+      "amount": 50
+    },
+    {
+      "tag": "forge:molten_nickel",
+      "amount": 25
+    },
+    {
+      "tag": "forge:molten_black_bronze",
+      "amount": 25
+    }
+  ],
+  "result": {
+    "fluid": "tfc:metal/weak_steel",
+    "amount": 100
+  },
+  "temperature": 1250
+}

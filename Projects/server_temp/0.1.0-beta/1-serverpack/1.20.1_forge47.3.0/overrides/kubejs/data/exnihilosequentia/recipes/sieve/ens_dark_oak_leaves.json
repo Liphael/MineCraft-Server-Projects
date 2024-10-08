@@ -1,0 +1,1 @@
+{"type":"exnihilosequentia:sieve","rolls":[{"chance":0.02,"mesh":"flint"},{"chance":0.05,"mesh":"iron"},{"chance":0.15,"mesh":"diamond"},{"chance":0.25,"mesh":"emerald"},{"chance":0.50,"mesh":"netherite"}],"input":{"item":"tfc:rock/gravel/quartzite"},"result":{"item":"mekanism:fluorite_gem"}}

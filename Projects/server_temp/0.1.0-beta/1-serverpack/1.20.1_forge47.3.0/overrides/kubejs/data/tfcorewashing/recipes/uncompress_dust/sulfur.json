@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:dirty_dust_sulfur"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:dirty_pile_sulfur",
+    "count": 4
+  }
+}

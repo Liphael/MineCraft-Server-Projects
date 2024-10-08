@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:sheetmetal_slabs_colored"
+  },
+  "result": {
+    "fluid": "tfc:metal/unknown",
+    "amount": 200
+  },
+  "temperature": 350,
+  "time": 45
+}

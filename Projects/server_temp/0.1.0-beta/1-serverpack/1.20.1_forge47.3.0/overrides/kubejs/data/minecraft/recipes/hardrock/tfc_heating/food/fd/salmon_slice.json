@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "type": "tfc:not_rotten",
+    "ingredient": {
+      "item": "farmersdelight:salmon_slice"
+    }
+  },
+  "result_item": {
+    "stack": {
+      "item": "farmersdelight:cooked_salmon_slice"
+    },
+    "modifiers": [
+      "tfc:copy_food"
+    ]
+  },
+  "temperature": 200
+}

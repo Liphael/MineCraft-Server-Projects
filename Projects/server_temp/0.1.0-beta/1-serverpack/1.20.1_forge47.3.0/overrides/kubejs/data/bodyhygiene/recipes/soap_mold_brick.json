@@ -1,0 +1,23 @@
+{
+  "__comment__": "This file was automatically created by tfch",
+  "type": "tfc:extra_products_shapeless_crafting",
+  "extra_products": [],
+  "recipe": {
+    "type": "tfc:damage_inputs_shapeless_crafting",
+    "recipe": {
+      "type": "minecraft:crafting_shapeless",
+      "ingredients": [
+        {
+          "item": "minecraft:brick"
+        },
+        {
+          "tag": "forge:tools/knives"
+        }
+      ],
+      "result": {
+        "item": "bodyhygiene:soap_mold_brick",
+      "count": 1
+      }
+    }
+  }
+}

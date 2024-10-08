@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:bacon_and_eggs"
+  },
+  "category": "cooked_meat",
+  "hunger": 5,
+  "saturation": 3,
+  "decay_modifier": 1.5,
+  "protein": 3.5,
+  "dairy": 0.6
+}

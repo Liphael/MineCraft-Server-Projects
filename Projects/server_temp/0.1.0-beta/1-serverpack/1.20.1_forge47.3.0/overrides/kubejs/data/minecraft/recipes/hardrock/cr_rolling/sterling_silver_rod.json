@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "forge:ingots/sterling_silver"
+	},
+	"result": {
+		"item": "tfc:metal/rod/sterling_silver",
+		"count": 2
+	}
+}

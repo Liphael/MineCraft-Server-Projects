@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "tfc:fire_clay"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:soul_sand"
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:nether_grout"
+    }
+  ]
+}

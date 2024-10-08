@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "twilightdelight:grilled_ghast"
+  },
+  "hunger": 13,
+  "saturation": 12,
+  "decay_modifier": 0.75,
+  "vegetables": 2.0,
+  "diary": 1.5,
+  "grain": 1.0
+}

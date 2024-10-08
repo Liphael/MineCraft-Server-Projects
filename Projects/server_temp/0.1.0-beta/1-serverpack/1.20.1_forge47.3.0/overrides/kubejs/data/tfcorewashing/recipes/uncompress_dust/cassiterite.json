@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:dirty_dust_cassiterite"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:dirty_pile_cassiterite",
+    "count": 4
+  }
+}

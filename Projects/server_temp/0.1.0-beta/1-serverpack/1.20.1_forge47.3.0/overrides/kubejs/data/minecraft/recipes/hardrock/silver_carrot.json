@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " s ",
+    "scs",
+    " s "
+  ],
+  "key": {
+    "c": {
+      "tag": "forge:vegetables/carrot"
+    },
+    "s": {
+      "item": "tfcorewashing:silver_powder"
+    }
+  },
+  "result": {
+    "item": "kubejs:silver_carrot"
+  }
+}

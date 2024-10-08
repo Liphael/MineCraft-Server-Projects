@@ -1,0 +1,17 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:double_ingots/compressed_iron"
+    },
+    {
+      "tag": "forge:sheets/compressed_iron"
+    }
+  ],
+  "result": {
+    "fluid": "tfc:metal/wrought_iron",
+    "amount": 400
+  },
+  "temperature": 900,
+  "time": 135
+}

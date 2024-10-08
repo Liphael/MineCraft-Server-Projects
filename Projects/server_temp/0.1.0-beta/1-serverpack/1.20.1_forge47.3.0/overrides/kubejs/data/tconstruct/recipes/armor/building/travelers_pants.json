@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lcl"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:leather_leggings"
+    },
+    "l": {
+      "tag": "forge:double_sheets/copper"
+    }
+  },
+  "result": {
+    "item": "tconstruct:travelers_leggings"
+  }
+}

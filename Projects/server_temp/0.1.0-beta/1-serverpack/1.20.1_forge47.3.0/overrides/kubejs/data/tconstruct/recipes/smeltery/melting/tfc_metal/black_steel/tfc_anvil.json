@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "tfc:metal/anvil/black_steel"
+  },
+  "result": {
+    "fluid": "tfc:metal/black_steel",
+    "amount": 1400
+  },
+  "temperature": 900,
+  "time": 525
+}

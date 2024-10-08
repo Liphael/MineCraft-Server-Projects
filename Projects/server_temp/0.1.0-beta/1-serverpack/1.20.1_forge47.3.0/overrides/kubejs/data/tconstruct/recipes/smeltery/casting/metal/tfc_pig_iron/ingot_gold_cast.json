@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "fluid": {
+    "tag": "tfc:pig_iron",
+    "amount": 100
+  },
+  "result": "tfc:metal/ingot/pig_iron",
+  "cooling_time": 60
+}

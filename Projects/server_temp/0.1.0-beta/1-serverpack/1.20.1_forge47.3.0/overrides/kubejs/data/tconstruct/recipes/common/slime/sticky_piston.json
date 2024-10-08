@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "minecraft:piston"
+    },
+    {
+      "tag": "forge:glue"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:sticky_piston"
+    }
+  ]
+}

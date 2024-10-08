@@ -1,0 +1,11 @@
+{
+    "type":"exnihilosequentia:sieve",
+    "rolls":[
+        {"chance":0.02,"mesh":"flint"},
+        {"chance":0.05,"mesh":"iron"},
+        {"chance":0.10,"mesh":"diamond"},
+        {"chance":0.15,"mesh":"emerald"}
+        ],
+    "input":{"item":"tfc:rock/gravel/quartzite"},
+    "result":{"item":"minecraft:quartz"}
+}

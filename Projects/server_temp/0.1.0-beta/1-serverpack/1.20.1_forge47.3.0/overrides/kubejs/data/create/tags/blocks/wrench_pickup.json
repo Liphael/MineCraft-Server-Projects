@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "create_hc:gear_small",
+    "create_hc:gear_large"
+  ]
+}

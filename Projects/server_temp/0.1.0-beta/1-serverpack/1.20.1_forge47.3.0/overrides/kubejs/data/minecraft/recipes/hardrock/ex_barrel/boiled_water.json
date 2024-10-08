@@ -1,0 +1,12 @@
+{
+    "type":"exnihilosequentia:fluid_transform",
+    "fluidInTank":{
+        "fluid":"minecraft:water"
+    },
+    "catalyst":{
+        "tag":"forge:magma_block"
+        },
+    "result":{
+        "fluid":"kubejs:boiled_water"
+        }
+}

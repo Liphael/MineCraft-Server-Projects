@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "forge:rods/gold"
+	},
+	"result": {
+		"item": "createaddition:gold_wire",
+		"count": 2
+	}
+}

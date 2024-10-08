@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/silver"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_silver",
+    "amount": 900
+  },
+  "temperature": 790,
+  "time": 179
+}

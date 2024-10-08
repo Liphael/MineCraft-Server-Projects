@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "replace": true,
+  "pattern": [
+    "lsl",
+    "xdx",
+    "bbb"
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:lead"
+    },
+    "x": {
+      "tag": "forge:chests/wooden"
+    },
+    "s": {
+      "item": "smallships:sail"
+    },
+    "b": {
+      "item": "kubejs:stack_treated_wood"
+    },
+    "d": {
+      "type": "tfc:fluid_item",
+      "fluid_ingredient": {
+        "ingredient": "tfc:white_dye",
+        "amount": 1000
+      }
+    }
+  },
+  "result": {
+    "item": "smallships:birch_cog"
+  }
+}

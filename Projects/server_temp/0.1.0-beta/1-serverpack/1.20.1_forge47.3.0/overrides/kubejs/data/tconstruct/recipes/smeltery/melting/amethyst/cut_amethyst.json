@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "tfc:gem/amethyst"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_amethyst",
+    "amount": 100
+  },
+  "temperature": 950,
+  "time": 65
+}

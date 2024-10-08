@@ -1,0 +1,10 @@
+{
+  "type": "choppingblock:chopping",
+  "ingredient": {
+    "tag": "tfc:acacia_logs"
+  },
+  "result": {
+    "item": "tfc:wood/support/acacia",
+    "count": 2
+  }
+}

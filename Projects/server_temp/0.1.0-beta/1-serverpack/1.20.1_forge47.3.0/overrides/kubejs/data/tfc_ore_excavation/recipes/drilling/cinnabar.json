@@ -1,0 +1,23 @@
+{
+  "type": "createoreexcavation:drilling",
+  "name": "{\"translate\":\"Cinnabar vein\"}",
+  "drill": {
+    "tag": "createoreexcavation:high_tier_drills"
+  },
+  "amountMin": 0.5,
+  "amountMax": 2.0,
+  "biomeWhitelist": "tfc:is_vein",
+  "weight": 2,
+  "ticks": 400,
+  "stress": 256,
+  "fluid": {
+    "amount": 250,
+    "fluid": "minecraft:water",
+    "nbt": {}
+  },
+  "output": [
+    {"chance": 0.70,"item": "tfc:rock/loose/andesite"},
+    {"chance": 0.70,"item": "tfc:ore/cinnabar"},
+    {"chance": 0.40,"item": "tfc:ore/graphite"}
+  ]
+}

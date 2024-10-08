@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "tag": "forge:molten_silver",
+      "amount": 80
+    },
+    {
+      "tag": "forge:molten_copper",
+      "amount": 20
+    }
+  ],
+  "result": {
+    "fluid": "tfc:metal/sterling_silver",
+    "amount": 100
+  },
+  "temperature": 700
+}

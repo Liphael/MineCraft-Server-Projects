@@ -1,0 +1,39 @@
+{
+  "type": "travelersbackpack:backpack_shaped",
+
+  "pattern":
+  [
+    "XAX",
+    "XDX",
+    "XCX"
+  ],
+
+  "key":
+  {
+    "D":
+    {
+      "item": "travelersbackpack:standard"
+    },
+
+    "X":
+    {
+      "item": "minecraft:melon_slice"
+    },
+
+    "A":
+    {
+      "item": "tfc:melon"
+    },
+
+    "C":
+    {
+      "item": "tfc:seeds/melon"
+    }
+  },
+
+  "result":
+  {
+    "item": "travelersbackpack:melon",
+    "count": 1
+  }
+}

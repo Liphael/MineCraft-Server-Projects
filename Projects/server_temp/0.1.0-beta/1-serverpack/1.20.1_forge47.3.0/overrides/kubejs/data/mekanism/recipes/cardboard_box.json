@@ -1,0 +1,17 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "forge:fabric/fibers"
+  },
+  "transitionalItem": {
+    "item": "kubejs:un_casing"
+  },
+  "sequence": [
+    {"type": "create:filling","ingredients": [{"item": "kubejs:un_casing"},{"fluid": "minecraft:water","nbt": {},"amount": 250}],"results": [{"item": "kubejs:un_casing"}]},
+    {"type": "create:deploying","ingredients": [{"item": "kubejs:un_casing"}, {"item": "tfc:powder/wood_ash"}],"results": [{"item": "kubejs:un_casing"}]},
+    {"type": "create:filling","ingredients": [{"item": "kubejs:un_casing"},{"fluid": "minecraft:water","nbt": {},"amount": 250}],"results": [{"item": "kubejs:un_casing"}]},
+    {"type": "create:deploying","ingredients": [{"item": "kubejs:un_casing"}, {"item": "tfc:powder/wood_ash"}],"results": [{"item": "kubejs:un_casing"}]}
+  ],
+  "results": [{"item": "mekanism:cardboard_box"}],
+  "loops": 2
+}

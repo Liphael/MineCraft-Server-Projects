@@ -1,0 +1,9 @@
+{
+    "type":"exnihilosequentia:sieve",
+    "rolls":[
+        {"chance":0.01,"mesh":"string"},
+        {"chance":0.03,"mesh":"iron"}
+    ],
+    "input":{"tag":"forge:dirt"},
+    "result":{"item":"minecraft:pointed_dripstone"}
+}

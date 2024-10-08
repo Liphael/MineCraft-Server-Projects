@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "coffee_delight:coffee_pie_side"
+  },
+  "hunger": 3,
+  "saturation": 1,
+  "decay_modifier": 1.2,
+  "grain": 0.5,
+  "fruit": 0.5
+}

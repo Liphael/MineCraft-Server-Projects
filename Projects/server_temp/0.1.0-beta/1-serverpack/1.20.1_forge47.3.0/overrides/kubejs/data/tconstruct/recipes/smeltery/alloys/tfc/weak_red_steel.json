@@ -1,0 +1,26 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "tag": "forge:molten_black_steel",
+      "amount": 50
+    },
+    {
+      "tag": "forge:molten_steel",
+      "amount": 20
+    },
+    {
+      "tag": "forge:molten_brass",
+      "amount": 15
+    },
+    {
+      "tag": "forge:molten_rose_gold",
+      "amount": 15
+    }
+  ],
+  "result": {
+    "fluid": "tfc:metal/weak_red_steel",
+    "amount": 100
+  },
+  "temperature": 1450
+}

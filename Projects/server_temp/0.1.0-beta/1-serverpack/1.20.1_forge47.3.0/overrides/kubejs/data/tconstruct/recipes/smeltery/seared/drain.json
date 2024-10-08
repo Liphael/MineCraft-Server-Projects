@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#T#",
+    "C C",
+    "#T#"
+  ],
+  "key": {
+    "#": {
+      "item": "tconstruct:seared_brick"
+    },
+    "T": {
+      "item": "tfc:metal/tuyere/copper"
+    },
+    "C": {
+      "item": "tfc:fire_clay"
+    }
+  },
+  "result": {
+    "item": "tconstruct:seared_drain"
+  }
+}

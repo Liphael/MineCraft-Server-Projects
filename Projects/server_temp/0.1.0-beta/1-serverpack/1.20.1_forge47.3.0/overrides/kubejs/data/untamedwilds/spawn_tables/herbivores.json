@@ -1,0 +1,35 @@
+{
+  "name":"herbivores",
+  "entries":[
+    {
+      "type":"untamedwilds:bison",
+      "weight":1,
+      "size_min":2,
+      "size_max":4
+    },
+    {
+      "type":"untamedwilds:boar",
+      "weight":2,
+      "size_min":1,
+      "size_max":3
+    },
+    {
+      "type":"untamedwilds:camel",
+      "weight":2,
+      "size_min":1,
+      "size_max":4
+    },
+    {
+      "type":"untamedwilds:hippo",
+      "weight":2,
+      "size_min":2,
+      "size_max":5
+    },
+    {
+      "type":"untamedwilds:rhino",
+      "weight":1,
+      "size_min":1,
+      "size_max":2
+    }
+  ]
+}

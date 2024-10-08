@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "    p",
+    "srert",
+    "gscsg",
+    "w   w"
+  ],
+  "key": {
+    "p": {"item": "beyond_earth:solar_panel"},
+    "c": {"item": "mekanism:sps_casing"},
+    "s": {"item": "kubejs:compressed_double_sheet"},
+    "r": {"item": "kubejs:compressed_rod"},
+    "g": {"item": "immersive_aircraft:industrial_gears"},
+    "e": {"item": "immersive_aircraft:engine"},
+    "t": {"item": "mekanism:elite_chemical_tank"},
+    "w": {"item": "beyond_earth:wheel"}
+  },
+  "result": {
+    "item": "beyond_earth:rover"
+  },
+  "acceptMirrored": false
+}

@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "item": "create:andesite_alloy"
+    }
+  ],
+  "result": {
+    "fluid": "kubejs:andesite_alloy",
+    "amount": 100
+  },
+  "temperature": 900,
+  "time": 60
+}

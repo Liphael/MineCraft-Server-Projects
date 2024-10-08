@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:ore/diamond"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:powder/diamond",
+      "count": 2
+    },
+    {
+      "item": "tfc:powder/diamond",
+      "count": 1,
+      "chance": 0.3
+    }
+  ]
+}

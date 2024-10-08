@@ -1,0 +1,1 @@
+{"type":"immersiveengineering:fermenter","fluid":{"fluid":"immersiveengineering:ethanol","amount":100},"result":{"item":"kubejs:seed_biomass"},"input":{"tag":"forge:ethanol_source"},"energy":6400}

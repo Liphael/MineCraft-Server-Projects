@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "forge:tallow_source"
+    },
+    {
+      "tag": "forge:dusts/ash"
+    },
+    {
+      "tag": "forge:wax"
+    }
+  ],
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "result": {
+    "item": "bodyhygiene:caustic_bland_bowl"
+  },
+  "experience": 0.25,
+  "cookingtime": 2400
+}

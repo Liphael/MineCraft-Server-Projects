@@ -1,0 +1,18 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "forge:rods/wooden"
+    }
+  ],
+  "results": [
+    {
+      "item": "immersiveengineering:dust_wood"
+    },
+    {
+      "item": "immersiveengineering:dust_wood",
+      "chance": 0.25
+    }
+  ],
+  "processingTime": 150
+}

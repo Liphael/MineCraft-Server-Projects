@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:double_sheets/black_steel"
+  },
+  "result": {
+    "fluid": "tfc:metal/black_steel",
+    "amount": 400
+  },
+  "temperature": 900,
+  "time": 150
+}

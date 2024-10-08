@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:component_iron"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_iron",
+    "amount": 200
+  },
+  "temperature": 900,
+  "time": 105,
+        "byproducts": [
+          {
+            "fluid": "tconstruct:molten_brass",
+            "amount": 50
+          },
+          {
+            "fluid": "tconstruct:molten_copper",
+            "amount": 20
+          }
+        ]
+}

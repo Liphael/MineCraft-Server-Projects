@@ -1,0 +1,10 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "twilightdelight:aurora_ice_cream"
+  },
+  "hunger": 6,
+  "saturation": 1,
+  "decay_modifier": 4.0,
+  "water": 6.0
+}

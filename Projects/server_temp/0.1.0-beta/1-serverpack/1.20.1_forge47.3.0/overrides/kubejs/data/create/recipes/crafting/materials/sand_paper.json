@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      {
+        "tag": "forge:paper"
+      },
+      {
+        "tag": "forge:fabric/fibers"
+      }
+    ],
+    {
+      "tag": "forge:glue"
+    },
+    {
+      "tag": "forge:sand/colorless"
+    }
+  ],
+  "result": {
+    "item": "create:sand_paper"
+  }
+}

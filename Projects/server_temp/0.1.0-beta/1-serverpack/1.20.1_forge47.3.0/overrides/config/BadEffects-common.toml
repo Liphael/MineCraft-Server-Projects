@@ -1,0 +1,16 @@
+
+["Bad Effects Config"]
+	"Disable Heatstroke: " = true
+	"Disable Broken Leg: " = false
+	"Disable Lack of Oxygen: " = false
+	"Disable Nausea Drowning: " = false
+	"Disable Frostbite: " = true
+	"Disable Food Poisoning: " = true
+	"Disable Stuck: " = false
+	"Disable Stun: " = false
+	"Disable Karma: " = true
+	"Disable Vision Disrupt: " = true
+	"Disable Broken Hand: " = false
+	"Disable Infection: " = false
+	"Disable Head Bump: " = false
+

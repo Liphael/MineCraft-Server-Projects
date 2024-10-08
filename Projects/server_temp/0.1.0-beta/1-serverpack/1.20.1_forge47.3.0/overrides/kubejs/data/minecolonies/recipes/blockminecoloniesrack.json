@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "ISI",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "tag": "tfc:lumber"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "S": {
+      "item": "immersiveengineering:reinforced_crate"
+    }
+  },
+  "result": {
+    "item": "minecolonies:blockminecoloniesrack"
+  }
+}

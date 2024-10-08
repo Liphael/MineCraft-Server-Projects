@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:sheets/bismuth_bronze"
+    }
+  ],
+  "result": {
+    "fluid": "tfc:metal/bismuth_bronze",
+    "amount": 200
+  },
+  "temperature": 720,
+  "time": 90
+}

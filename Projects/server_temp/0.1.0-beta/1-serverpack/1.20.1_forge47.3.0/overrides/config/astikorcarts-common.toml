@@ -1,0 +1,59 @@
+
+#Configuration for all carts and cart-like vehicles
+#
+#Default pull_animals = [
+#    "minecraft:donkey",
+#    "minecraft:horse",
+#    "minecraft:mule",
+#    "minecraft:skeleton_horse",
+#    "minecraft:zombie_horse",
+#    "minecraft:player"
+#  ]
+[carts]
+	#Max animal size that the animal cart can carry.
+	#Range: 0 ~ 69
+	maxAnimalSize = 2
+	#The largest (inclusive) size of an item that is allowed in a supply cart.
+	#Allowed Values: TINY, VERY_SMALL, SMALL, NORMAL, LARGE, VERY_LARGE, HUGE
+	maxItemSize = "VERY_LARGE"
+	#Can the animal cart pick up players by pushing it into them?
+	canPushIntoPlayers = true
+	#Can the animal cart pick up water animals?
+	canCarryWaterEntities = true
+
+	#The Supply Cart, a type of cart that stores items
+	[carts.supply_cart]
+		#Animals that are able to pull this cart, such as ["minecraft:horse"]
+		#An empty list defaults to all which may wear a saddle but not steered by an item
+		pull_animals = ["minecraft:player", "tfc:horse", "tfc:mule", "tfc:donkey", "tfc:musk_ox", "tfc:yak"]
+		#Slow speed modifier toggled by the sprint key
+		#Range: -1.0 ~ 0.0
+		slow_speed = -0.65
+		#Base speed modifier applied to animals (-0.5 = half normal speed)
+		#Range: -1.0 ~ 0.0
+		pull_speed = 0.0
+
+	#The Animal Cart, a type of cart to haul other animals
+	[carts.animal_cart]
+		#Animals that are able to pull this cart, such as ["minecraft:horse"]
+		#An empty list defaults to all which may wear a saddle but not steered by an item
+		pull_animals = ["minecraft:player", "tfc:horse", "tfc:mule", "tfc:donkey", "tfc:musk_ox", "tfc:yak"]
+		#Slow speed modifier toggled by the sprint key
+		#Range: -1.0 ~ 0.0
+		slow_speed = -0.65
+		#Base speed modifier applied to animals (-0.5 = half normal speed)
+		#Range: -1.0 ~ 0.0
+		pull_speed = 0.0
+
+	#The Plow, an animal pulled machine for tilling soil and creating paths
+	[carts.plow]
+		#Animals that are able to pull this cart, such as ["minecraft:horse"]
+		#An empty list defaults to all which may wear a saddle but not steered by an item
+		pull_animals = ["minecraft:player", "tfc:horse", "tfc:mule", "tfc:donkey", "tfc:musk_ox", "tfc:yak"]
+		#Slow speed modifier toggled by the sprint key
+		#Range: -1.0 ~ 0.0
+		slow_speed = -0.65
+		#Base speed modifier applied to animals (-0.5 = half normal speed)
+		#Range: -1.0 ~ 0.0
+		pull_speed = 0.0
+

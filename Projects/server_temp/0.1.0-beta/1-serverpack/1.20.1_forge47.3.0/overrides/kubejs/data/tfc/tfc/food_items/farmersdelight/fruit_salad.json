@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:fruit_salad"
+  },
+  "category": "fruit",
+  "hunger": 5,
+  "saturation": 1,
+  "decay_modifier": 2,
+  "fruit": 3.5
+}

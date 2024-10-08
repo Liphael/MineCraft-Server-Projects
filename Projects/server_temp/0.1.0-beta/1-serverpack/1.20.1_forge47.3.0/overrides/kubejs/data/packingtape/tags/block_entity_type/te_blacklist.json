@@ -1,0 +1,4 @@
+{
+  "replace": false,
+  "values": [ "lootr:special_loot_barrel", "lootr:special_loot_chest", "lootr:special_loot_inventory", "lootr:special_loot_shulker", "lootr:special_trapped_loot_chest" ]
+}

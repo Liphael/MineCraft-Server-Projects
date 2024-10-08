@@ -1,0 +1,14 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"tag": "forge:double_sheets/copper"},
+  "transitionalItem": {"item": "immersiveengineering:chute_copper"},
+  "sequence": [
+    {"type": "createaddition:rolling","ingredients": [{"item": "immersiveengineering:chute_copper"}],"results": [{"item": "immersiveengineering:chute_copper"}]},
+    {"type": "createaddition:rolling","ingredients": [{"item": "immersiveengineering:chute_copper"}],"results": [{"item": "immersiveengineering:chute_copper"}]},
+    {"type": "create:pressing","ingredients": [{"item": "immersiveengineering:chute_copper"}],"results": [{"item": "immersiveengineering:chute_copper"}]},
+    {"type": "create:pressing","ingredients": [{"item": "immersiveengineering:chute_copper"}],"results": [{"item": "immersiveengineering:chute_copper"}]},
+    {"type": "create:cutting","ingredients": [{"item": "immersiveengineering:chute_copper"}],"results": [{"item": "immersiveengineering:chute_copper"}]}
+    ],
+  "results": [{"item": "create:chute","count":2}],
+  "loops": 1
+}

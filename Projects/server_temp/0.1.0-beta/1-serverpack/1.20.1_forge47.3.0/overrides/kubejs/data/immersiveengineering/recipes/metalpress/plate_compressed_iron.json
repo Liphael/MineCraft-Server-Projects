@@ -1,0 +1,7 @@
+{
+    "type":"immersiveengineering:metal_press",
+    "mold":"kubejs:hardened_press_head",
+    "result":{"tag":"forge:sheets/compressed_iron"},"conditions":[{"value":{"tag":"forge:double_ingots/compressed_iron","type":"forge:tag_empty"},"type":"forge:not"},{"value":{"tag":"forge:sheets/compressed_iron","type":"forge:tag_empty"},"type":"forge:not"}],
+    "input":{"tag":"forge:double_ingots/compressed_iron"},
+    "energy":2400
+}

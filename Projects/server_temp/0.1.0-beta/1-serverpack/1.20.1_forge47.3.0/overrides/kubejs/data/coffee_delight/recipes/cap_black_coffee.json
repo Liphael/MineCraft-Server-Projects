@@ -1,0 +1,11 @@
+{
+  "type": "farmersrespite:brewing",
+  "ingredients": [
+    {"item": "coffee_delight:coffee_flour"}
+  ],
+  "result": {"item": "coffee_delight:cap_black_coffee"},
+  "container": {"item": "coffee_delight:coffee_cap"},
+  "experience": 0.35,
+  "brewingtime": 800,
+  "needwater": true
+}

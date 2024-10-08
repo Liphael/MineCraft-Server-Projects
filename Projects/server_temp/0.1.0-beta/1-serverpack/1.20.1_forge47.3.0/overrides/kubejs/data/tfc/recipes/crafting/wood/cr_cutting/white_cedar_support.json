@@ -1,0 +1,19 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "tfc:white_cedar_logs"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:wood/support/white_cedar",
+    "count": 3
+    },
+    {
+      "item": "immersiveengineering:dust_wood",
+    "count": 2
+    }
+  ],
+  "processingTime": 50
+}

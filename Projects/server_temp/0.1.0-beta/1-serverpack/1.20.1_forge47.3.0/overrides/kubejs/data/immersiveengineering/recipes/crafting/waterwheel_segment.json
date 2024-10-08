@@ -1,0 +1,14 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "immersiveengineering:treated_wood_horizontal"},
+    "transitionalItem": {"item": "create:gantry_shaft"},
+    "sequence": [
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"tag": "forge:treated_wood"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"tag": "forge:rods/wooden"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"tag": "forge:treated_wood"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"tag": "forge:rods/wooden"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"tag": "forge:treated_wood"}],"results": [{"item": "create:gantry_shaft"}]}
+    ],
+    "results": [{"item": "immersiveengineering:waterwheel_segment"}],
+    "loops": 3
+  }

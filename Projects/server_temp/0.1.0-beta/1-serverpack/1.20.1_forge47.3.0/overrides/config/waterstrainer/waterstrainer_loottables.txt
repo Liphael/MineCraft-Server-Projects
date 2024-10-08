@@ -1,0 +1,44 @@
+// You can add custom loot entries by using xml-like tags. The relevant data needs to be surrounded by <...> and </...>
+// Looking at the default table will give you some examples
+// Adding a new entry requires at least the <strainer> and <item> tag (surrounded by <add>). Use <chance> to set item rarity (higher chance = more likely to drop)
+// To copy the current loot table to another strainer use the <parent> and <child> tag (surrounded by <copy>)
+// Please use a new line for every new entry or command, since loot entries can not spread over multiple lines!
+// For more info: http://bit.ly/waterstrainer
+
+// Version of this config
+// This is an internal value for the file parser, don't change it
+<configversion>2</configversion>
+
+// Survivalist's Strainer
+<add> <strainer>strainer_survivalist</strainer> <chance>30</chance> <item>tfc:rock/loose/andesite</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>25</chance> <item>tfc:rock/loose/limestone</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>10</chance> <item>minecraft:clay_ball</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>10</chance> <item>minecraft:stick</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>10</chance> <item>minecraft:bone</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>5</chance> <item>minecraft:glass_bottle</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>2</chance> <item>minecraft:string</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>2</chance> <item>immersiveengineering:nugget_silver</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>2</chance> <item>minecraft:gold_nugget</item> </add>
+<add> <strainer>strainer_survivalist</strainer> <chance>50</chance> <item>$BLANK$</item> </add>
+
+<copy> <child>strainer_survivalist_solid</child> <parent>strainer_survivalist</parent> </copy>
+<copy> <child>strainer_survivalist_reinforced</child> <parent>strainer_survivalist</parent> </copy>
+
+// Fisherman's Strainer
+<add> <strainer>strainer_fisherman</strainer> <chance>50</chance> <item>tfc:rock/loose/andesite</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>50</chance> <item>tfc:rock/loose/limestone</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>40</chance> <item>tfc:food/cod</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>25</chance> <item>tfc:food/salmon</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>15</chance> <item>tfc:food/tropical_fish</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>10</chance> <item>tfc:food/shellfish</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>10</chance> <item>waterstrainer:worm</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>10</chance> <item>minecraft:pufferfish</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>8</chance> <item>minecraft:stick</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>4</chance> <item>minecraft:string</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>4</chance> <item>minecraft:rotten_flesh</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>4</chance> <item>minecraft:bone</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>4</chance> <item>minecraft:glass_bottle</item> </add>
+<add> <strainer>strainer_fisherman</strainer> <chance>50</chance> <item>$BLANK$</item> </add>
+
+<copy> <child>strainer_fisherman_solid</child> <parent>strainer_fisherman</parent> </copy>
+<copy> <child>strainer_fisherman_reinforced</child> <parent>strainer_fisherman</parent> </copy>

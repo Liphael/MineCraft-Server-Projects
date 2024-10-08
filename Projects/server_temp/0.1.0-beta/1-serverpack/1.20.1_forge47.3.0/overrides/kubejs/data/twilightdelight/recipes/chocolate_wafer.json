@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "twilightforest:maze_wafer"
+    },
+    {
+      "item": "firmalife:food/dark_chocolate_blend"
+    },
+    {
+      "item": "twilightforest:maze_wafer"
+    }
+  ],
+  "result": {
+    "item": "twilightdelight:chocolate_wafer"
+  }
+}

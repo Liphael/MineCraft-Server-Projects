@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lcl"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:leather_boots"
+    },
+    "l": {
+      "tag": "forge:sheets/copper"
+    }
+  },
+  "result": {
+    "item": "tconstruct:travelers_boots"
+  }
+}

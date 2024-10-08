@@ -1,0 +1,14 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc:metal/sheet/cast_iron"
+  },
+  "result": {
+    "item": "steampowered:cast_iron_cogwheel"
+  },
+  "tier": 1,
+  "rules": [
+    "hit_last",
+    "draw_second_last"
+  ]
+}

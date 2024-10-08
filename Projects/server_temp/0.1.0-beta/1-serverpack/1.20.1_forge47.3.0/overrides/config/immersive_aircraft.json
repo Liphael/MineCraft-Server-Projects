@@ -1,0 +1,27 @@
+{
+  "separateCamera": true,
+  "useThirdPersonByDefault": true,
+  "enableTrails": true,
+  "enableAnimatedSails": true,
+  "renderDistance": 192.0,
+  "fuelConsumption": 1.0,
+  "windClearWeather": 1.0,
+  "windRainWeather": 3.0,
+  "windThunderWeather": 3.0,
+  "collisionDamage": true,
+  "onlyPlayerCanDestroyAircraft": true,
+  "burnFuelInCreative": false,
+  "acceptVanillaFuel": true,
+  "useCustomKeybindSystem": true,
+  "crashDamage": 2.0,
+  "preventKillThroughCrash": true,
+  "fuelList": {
+    "minecraft:blaze_rod": 2400,
+    "minecraft:blaze_powder": 1200,
+    "mekanism:block_charcoal": 1000,
+    "immersiveengineering:coke": 2000,
+    "immersiveengineering:coal_coke": 200,
+    "tfc:ore/bituminous_coal": 100
+  },
+  "version": 1
+}

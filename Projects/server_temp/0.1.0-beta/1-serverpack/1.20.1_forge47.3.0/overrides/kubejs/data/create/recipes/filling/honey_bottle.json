@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "firmalife:empty_jar"
+    },
+    {
+      "fluidTag": "forge:honey",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "firmalife:honey_jar"
+    }
+  ]
+}

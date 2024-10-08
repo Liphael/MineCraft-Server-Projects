@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:sheets/copper"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_copper",
+    "amount": 200
+  },
+  "temperature": 500,
+  "time": 75
+}

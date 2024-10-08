@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SNS",
+    "LGL",
+    "LLL"
+  ],
+  "key": {
+    "G": {
+      "tag": "tfc:gem_powders/slot"
+    },
+    "L": {
+      "item": "sewingkit:leather_sheet"
+    },
+    "S": {
+      "tag": "forge:string"
+    },
+    "N": {
+      "tag": "forge:nuggets/gold"
+    }
+  },
+  "result": {
+    "item": "kubejs:slot_pocket"
+  }
+}

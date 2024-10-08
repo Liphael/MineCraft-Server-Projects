@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "tfc:rock/raw"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:smooth_stone"
+    }
+  ]
+}

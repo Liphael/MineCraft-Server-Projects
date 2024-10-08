@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "immersiveengineering:plate_aluminum"
+  },
+  "result_fluid": {
+    "fluid": "tfc_ie_addon:metal/aluminum",
+    "amount": 400
+  },
+  "temperature": 650
+}

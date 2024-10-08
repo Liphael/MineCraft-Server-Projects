@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lsl",
+    "cdc",
+    "bxb"
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:lead"
+    },
+    "x": {
+      "tag": "forge:chests/wooden"
+    },
+    "s": {
+      "item": "smallships:sail"
+    },
+    "b": {
+      "item": "kubejs:big_stack_treated_wood"
+    },
+    "c": {
+      "item": "kubejs:stack_treated_wood"
+    },
+    "d": {
+      "type": "tfc:fluid_item",
+      "fluid_ingredient": {
+        "ingredient": "tfc:red_dye",
+        "amount": 1000
+      }
+    }
+  },
+  "result": {
+    "item": "smallships:jungle_galley"
+  }
+}

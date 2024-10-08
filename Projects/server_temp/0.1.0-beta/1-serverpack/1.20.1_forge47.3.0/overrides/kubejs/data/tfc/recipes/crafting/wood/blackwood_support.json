@@ -1,0 +1,10 @@
+{
+  "type": "choppingblock:chopping",
+  "ingredient": {
+    "tag": "tfc:blackwood_logs"
+  },
+  "result": {
+    "item": "tfc:wood/support/blackwood",
+    "count": 2
+  }
+}

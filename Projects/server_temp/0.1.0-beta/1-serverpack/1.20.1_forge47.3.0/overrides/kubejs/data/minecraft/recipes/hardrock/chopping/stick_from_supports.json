@@ -1,0 +1,10 @@
+{
+  "type": "choppingblock:chopping",
+  "ingredient": {
+    "tag": "forge:supports"
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 8
+  }
+}

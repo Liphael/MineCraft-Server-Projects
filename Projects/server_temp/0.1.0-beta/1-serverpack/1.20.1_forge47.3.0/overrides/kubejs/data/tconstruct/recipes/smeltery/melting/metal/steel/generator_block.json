@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:generator"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_steel",
+    "amount": 600
+  },
+  "temperature": 900,
+  "time": 150,
+        "byproducts": [
+          {
+            "fluid": "tconstruct:molten_electrum",
+            "amount": 700
+          },
+          {
+            "fluid": "tconstruct:molten_gold",
+            "amount": 70
+          }
+        ]
+}

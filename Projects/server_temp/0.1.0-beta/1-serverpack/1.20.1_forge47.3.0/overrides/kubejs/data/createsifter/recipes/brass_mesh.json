@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SZS",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:rods/brass"
+    },
+    "Z": {
+      "item": "createsifter:string_mesh"
+    }
+  },
+  "result": {
+    "item": "createsifter:brass_mesh",
+    "count": 1
+  }
+}

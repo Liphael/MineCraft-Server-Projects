@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:pellet_magnetite"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:magnetite_powder",
+    "count": 4
+  }
+}

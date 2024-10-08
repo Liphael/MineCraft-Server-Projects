@@ -1,0 +1,17 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "item": "immersiveengineering:sawblade"
+    },
+    {
+      "item": "create_hc:saw_blade"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_iron",
+    "amount": 200
+  },
+  "temperature": 900,
+  "time": 90
+}

@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:roast_chicken_block"
+  },
+  "category": "cooked_meat",
+  "hunger": 12,
+  "saturation": 6,
+  "decay_modifier": 1.0,
+  "grain": 1.5,
+  "protein": 3,
+  "vegetables": 3.5,
+  "dairy": 0.3
+}

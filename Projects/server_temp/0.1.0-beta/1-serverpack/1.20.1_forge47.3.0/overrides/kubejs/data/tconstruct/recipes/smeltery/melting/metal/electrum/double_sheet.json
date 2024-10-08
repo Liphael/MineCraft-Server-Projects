@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:double_sheets/electrum"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_electrum",
+    "amount": 400
+  },
+  "temperature": 760,
+  "time": 118
+}

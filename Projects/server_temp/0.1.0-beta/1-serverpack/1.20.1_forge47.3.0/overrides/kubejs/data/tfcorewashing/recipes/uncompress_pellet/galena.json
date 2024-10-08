@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:pellet_galena"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:galena_powder",
+    "count": 4
+  }
+}

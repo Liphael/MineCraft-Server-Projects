@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "forge:glue"
+    },
+    {
+      "tag": "forge:dusts/diamond"
+    }
+  ],
+  "result": {
+    "item": "createaddition:diamond_grit_sandpaper"
+  }
+}

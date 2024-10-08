@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "refinedstorage:quartz_enriched_iron"
+  },
+  "result": {
+    "fluid": "kubejs:molten_iron_quartz",
+    "amount": 100
+  },
+  "temperature": 950,
+  "time": 65
+}

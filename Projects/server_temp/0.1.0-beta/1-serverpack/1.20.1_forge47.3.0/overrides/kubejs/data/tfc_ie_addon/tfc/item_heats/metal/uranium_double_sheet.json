@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:double_sheets/uranium"
+  },
+  "heat_capacity": 11.428,
+  "forging_temperature": 750,
+  "welding_temperature": 1000
+}

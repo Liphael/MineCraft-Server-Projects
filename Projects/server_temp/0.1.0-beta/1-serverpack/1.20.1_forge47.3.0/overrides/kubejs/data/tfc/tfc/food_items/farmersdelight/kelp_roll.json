@@ -1,0 +1,13 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:kelp_roll"
+  },
+  "category": "cooked_meat",
+  "hunger": 5,
+  "saturation": 3,
+  "decay_modifier": 2,
+  "vegetables": 1.5,
+  "protein": 3,
+  "grain": 1.5
+}

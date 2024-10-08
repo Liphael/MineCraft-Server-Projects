@@ -1,0 +1,10 @@
+{
+  "type": "choppingblock:chopping",
+  "ingredient": {
+    "tag": "tfc:kapok_logs"
+  },
+  "result": {
+    "item": "tfc:wood/support/kapok",
+    "count": 2
+  }
+}

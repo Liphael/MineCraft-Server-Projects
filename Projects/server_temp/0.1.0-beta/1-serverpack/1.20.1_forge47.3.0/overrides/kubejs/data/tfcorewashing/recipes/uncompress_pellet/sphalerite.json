@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:pellet_sphalerite"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:sphalerite_powder",
+    "count": 4
+  }
+}

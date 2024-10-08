@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:rods/bismuth"
+  },
+  "result": {
+    "fluid": "tfc:metal/bismuth",
+    "amount": 50
+  },
+  "temperature": 250,
+  "time": 15
+}

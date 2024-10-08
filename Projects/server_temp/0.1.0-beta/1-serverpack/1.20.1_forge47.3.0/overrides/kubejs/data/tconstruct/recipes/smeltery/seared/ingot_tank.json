@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#T#",
+    "#T#",
+    "#T#"
+  ],
+  "key": {
+    "#": {
+      "item": "tconstruct:seared_brick"
+    },
+    "T": {
+      "item": "tconstruct:seared_fuel_gauge"
+    }
+  },
+  "result": {
+    "item": "tconstruct:seared_ingot_tank"
+  }
+}

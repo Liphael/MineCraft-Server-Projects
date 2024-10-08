@@ -1,0 +1,28 @@
+{
+  "__comment__": "This file was automatically created by tfch",
+  "type": "tfc:extra_products_shapeless_crafting",
+  "extra_products": [
+    {
+      "item": "tfc:straw",
+      "count": 1
+    }
+  ],
+  "recipe": {
+    "type": "tfc:damage_inputs_shapeless_crafting",
+    "recipe": {
+      "type": "minecraft:crafting_shapeless",
+      "ingredients": [
+        {
+          "item": "tfc:plant/oxeye_daisy"
+        },
+        {
+          "tag": "forge:tools/knives"
+        }
+      ],
+      "result": {
+        "item": "minecraft:oxeye_daisy",
+      "count": 1
+      }
+    }
+  }
+}

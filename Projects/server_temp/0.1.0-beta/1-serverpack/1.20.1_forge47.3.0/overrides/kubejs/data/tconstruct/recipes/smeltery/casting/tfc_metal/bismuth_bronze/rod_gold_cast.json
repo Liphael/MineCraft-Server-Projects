@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/rod"
+  },
+  "fluid": {
+    "tag": "forge:molten_bismuth_bronze",
+    "amount": 50
+  },
+  "result": {
+    "tag": "forge:rods/bismuth_bronze"
+  },
+  "cooling_time": 30
+}

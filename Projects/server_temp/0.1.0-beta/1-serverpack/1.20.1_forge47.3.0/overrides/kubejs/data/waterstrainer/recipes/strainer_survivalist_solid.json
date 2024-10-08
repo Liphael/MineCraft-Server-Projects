@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"INI"
+	],
+	"key": {
+		"I": {
+			"tag": "forge:rods/iron"
+		},
+		"N": {
+			"item": "waterstrainer:iron_mesh"
+		}
+	},
+	"result": {
+		"item": "waterstrainer:strainer_survivalist_solid"
+	}
+}

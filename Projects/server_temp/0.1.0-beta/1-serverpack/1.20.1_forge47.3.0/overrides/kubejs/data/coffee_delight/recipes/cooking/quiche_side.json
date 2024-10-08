@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "drinks",
+  "ingredients": [
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "type": "tfc:not_rotten","ingredient": {"item": "tfc:food/potato"}
+    },
+    {
+      "type": "tfc:not_rotten","ingredient": {"tag": "forge:dough"}
+    }
+  ],
+  "result": {
+    "item": "coffee_delight:quiche_side"
+  },
+  "experience": 1.0,
+  "cookingtime": 1200
+}

@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "item": "immersiveengineering:wirecoil_electrum"
+    },
+    {
+      "item": "immersiveengineering:wirecoil_electrum_ins"
+    },
+    {
+      "item": "createaddition:electrum_spool"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_electrum",
+    "amount": 100
+  },
+  "temperature": 760,
+  "time": 42
+}

@@ -1,0 +1,34 @@
+{
+  "type": "travelersbackpack:backpack_shaped",
+
+  "pattern":
+  [
+    "BXB",
+    "XDX",
+    "BXB"
+  ],
+
+  "key":
+  {
+    "D":
+    {
+      "item": "travelersbackpack:standard"
+    },
+
+    "B":
+    {
+      "item": "minecraft:orange_wool"
+    },
+
+    "X":
+    {
+      "item": "tfc:food/cranberry"
+    }
+  },
+
+  "result":
+  {
+    "item": "travelersbackpack:fox",
+    "count": 1
+  }
+}

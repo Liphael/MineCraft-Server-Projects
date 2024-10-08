@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "tfc:metal/anvil/bronze"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_bronze",
+    "amount": 1400
+  },
+  "temperature": 700,
+  "time": 342
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:slab_sheetmetal_electrum"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_electrum",
+    "amount": 200
+  },
+  "temperature": 760,
+  "time": 59
+}

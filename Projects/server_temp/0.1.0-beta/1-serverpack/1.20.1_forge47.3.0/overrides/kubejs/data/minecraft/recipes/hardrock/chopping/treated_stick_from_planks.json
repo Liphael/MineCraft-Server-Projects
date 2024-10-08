@@ -1,0 +1,10 @@
+{
+  "type": "choppingblock:chopping",
+  "ingredient": {
+    "item": "immersiveengineering:treated_wood_horizontal"
+  },
+  "result": {
+    "item": "immersiveengineering:stick_treated",
+    "count": 16
+  }
+}

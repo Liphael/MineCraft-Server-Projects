@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SIS"
+  ],
+  "key": {
+    "S": {
+      "tag": "tfc:swords"
+    },
+    "I": {
+      "tag": "forge:storage_blocks/iron"
+    }
+  },
+  "result": {
+    "item": "mob_grinding_utils:spikes"
+  }
+}

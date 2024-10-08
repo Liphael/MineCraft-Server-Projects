@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "type": "tfc:not_rotten",
+    "ingredient": {
+      "item": "kubejs:raw_cookie"
+      }
+    },
+  "result": "minecraft:cookie",
+  "experience": 0.35,
+  "cookingtime": 120
+}

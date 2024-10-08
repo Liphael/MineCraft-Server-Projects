@@ -1,0 +1,10 @@
+{
+    "type":"exnihilosequentia:sieve",
+    "rolls":[
+        {"chance":0.12,"mesh":"string"},
+        {"chance":0.25,"mesh":"iron"},
+        {"chance":0.50,"mesh":"diamond"}
+    ],
+    "input":{"tag":"forge:gravel"},
+    "result":{"item":"tinycoal:tinycoal"}
+}

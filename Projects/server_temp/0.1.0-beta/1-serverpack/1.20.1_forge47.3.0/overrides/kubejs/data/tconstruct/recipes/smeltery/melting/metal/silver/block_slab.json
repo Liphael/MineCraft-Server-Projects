@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:slab_storage_silver"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_silver",
+    "amount": 450
+  },
+  "temperature": 790,
+  "time": 115
+}

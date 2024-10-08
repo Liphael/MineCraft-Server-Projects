@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "tag": "forge:supports"
+    },
+    {
+      "tag": "tfc:axes"
+    }
+  ],
+  "results": [
+    {
+      "item": "myrtrees:wooden_bucket"
+    }
+  ]
+}

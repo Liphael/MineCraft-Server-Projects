@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "XRX",
+    "IPI"
+  ],
+  "key": {
+    "P": {
+      "item": "mekanism:teleporter"
+    },
+    "I": {
+      "item": "tfc:metal/double_sheet/black_steel"
+    },
+    "R": {
+      "item": "kubejs:magic_crystal"
+    },
+    "X": {
+      "item": "mob_grinding_utils:solid_xp_block"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "mob_grinding_utils:entity_spawner"
+  }
+}

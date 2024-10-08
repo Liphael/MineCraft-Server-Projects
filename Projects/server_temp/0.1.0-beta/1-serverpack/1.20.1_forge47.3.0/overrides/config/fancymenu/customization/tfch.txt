@@ -1,0 +1,518 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = tfch
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = bottom-centered
+  x = 3
+  action = movebutton
+  y = -113
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 87
+  action = resizebutton
+  height = 15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button/single_push.png
+  backgroundnormal = config/fancymenu/button/single.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = bottom-centered
+  x = 3
+  action = movebutton
+  y = -97
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  width = 20
+  action = resizebutton
+  height = 15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = setbuttonlabel
+  value = Acc
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button/single_push.png
+  backgroundnormal = config/fancymenu/button/single.png
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = bottom-centered
+  x = 69
+  action = movebutton
+  y = -97
+}
+
+customization {
+  identifier = %id=376322%
+  width = 20
+  action = resizebutton
+  height = 15
+}
+
+customization {
+  identifier = %id=376322%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button/single_push.png
+  backgroundnormal = config/fancymenu/button/single.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = bottom-centered
+  x = -76
+  action = movebutton
+  y = -113
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 76
+  action = resizebutton
+  height = 15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button/single_push.png
+  backgroundnormal = config/fancymenu/button/single.png
+}
+
+customization {
+  identifier = %id=4936%
+  orientation = bottom-centered
+  x = 3
+  action = movebutton
+  y = -81
+}
+
+customization {
+  identifier = %id=4936%
+  width = 64
+  action = resizebutton
+  height = 15
+}
+
+customization {
+  identifier = %id=4936%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button/single_push.png
+  backgroundnormal = config/fancymenu/button/single.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-centered
+  x = -76
+  action = movebutton
+  y = -65
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 165
+  action = resizebutton
+  height = 15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button/single_push.png
+  backgroundnormal = config/fancymenu/button/single.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = sethoverlabel
+  label = See you {"placeholder":"playername"}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = bottom-centered
+  x = 69
+  action = movebutton
+  y = -81
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  width = 20
+  action = resizebutton
+  height = 15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = setbuttonlabel
+  value = EN
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button/single_push.png
+  backgroundnormal = config/fancymenu/button/single.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = bottom-centered
+  x = -76
+  action = movebutton
+  y = -129
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 166
+  action = resizebutton
+  height = 15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttonlabel
+  value = Play Alone
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button/single_push.png
+  backgroundnormal = config/fancymenu/button/single.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = bottom-centered
+  x = 24
+  action = movebutton
+  y = -97
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 43
+  action = resizebutton
+  height = 15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button/single_push.png
+  backgroundnormal = config/fancymenu/button/single.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = bottom-centered
+  x = -76
+  action = movebutton
+  y = -97
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  width = 76
+  action = resizebutton
+  height = 15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = setbuttonlabel
+  value = Realms
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button/single_push.png
+  backgroundnormal = config/fancymenu/button/single.png
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 186
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 6e1c2590-0b39-4f62-811c-014864314cee1674080657841
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = 7aa5fec3-7be2-4932-bd49-d2373d87be4c1674080657849
+  y = 301
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 411
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = e9319ab7-5394-45f3-8ffe-4e2015ac08b41674080657849
+  y = 323
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 9541eb26-a306-4b5b-93cd-05943041e7f71674080657849
+  y = 185
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = dc453134-b207-4b3d-a07b-b7d6084fb9de1674080657849
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 29db259c-f625-4325-beb1-e5bdf6abcf371674080657849
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://www.twitch.tv/sir_robson%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/button/tw-butt-hov.png
+  description = my live streams
+  label = 
+  loopbackgroundanimations = true
+  x = -18
+  width = 54
+  action = addbutton
+  actionid = 9d5eb8f0-9310-41d8-9064-91c22a7c81401674310409598
+  y = -34
+  backgroundnormal = config/fancymenu/button/tw-butt.png
+  height = 14
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.gg/KBfruEM%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/button/dsc-butt-hov.png
+  description = you need help - join us
+  label = 
+  loopbackgroundanimations = true
+  x = 39
+  width = 50
+  action = addbutton
+  actionid = 11e52087-8f47-4c49-9410-426f8028e1b31674312562830
+  y = -34
+  backgroundnormal = config/fancymenu/button/dsc-butt.png
+  height = 14
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://www.youtube.com/@sir.Robson/playlists%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/button/yt-butt-hov.png
+  description = my recordings
+  label = 
+  loopbackgroundanimations = true
+  x = -76
+  width = 54
+  action = addbutton
+  actionid = 0dd5d86e-22a9-44e1-bb16-709837b338971674313270035
+  y = -34
+  backgroundnormal = config/fancymenu/button/yt-butt.png
+  height = 14
+}
+
+customization {
+  path = config/fancymenu/images/sr_presents.png
+  orientation = top-left
+  x = 376
+  width = 93
+  action = addtexture
+  actionid = 0f9bb8a9-7fd2-46ae-8b31-7eefd8ee354c1676386125516
+  y = 25
+  height = 9
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://youtu.be/r6ovcPeXa94?si=u0tmFFkxfAtzuGcZ%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/button/single_push.png
+  label = - nr.7 -
+  loopbackgroundanimations = true
+  hoverlabel = music for you
+  x = -76
+  width = 76
+  action = addbutton
+  actionid = 4872b2ea-590f-4c69-827f-cdf1c8822e231683217014895
+  y = -81
+  backgroundnormal = config/fancymenu/button/single.png
+  height = 15
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  buttonaction = joinserver;162.222.197.240:25565%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/button/single_push.png
+  description = {"placeholder":"servermotd","values":{"ip":"162.222.197.240:25565","line":"2"}}%n%First City - cooperative server%n% whitelist access via discord
+  label = server  {"placeholder":"serverstatus","values":{"ip":"162.222.197.240:25565"}}
+  loopbackgroundanimations = true
+  x = -76
+  width = 90
+  action = addbutton
+  actionid = 7f7e5133-b8ad-4ab8-a1dd-0d1bbc7423741684240951923
+  y = -19
+  backgroundnormal = config/fancymenu/button/single.png
+  height = 15
+}
+
+customization {
+  orientation = bottom-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  x = 15
+  width = 47
+  action = addbutton
+  actionid = d217098f-5271-4a70-81c7-55625cf9a0401684242149203
+  y = -19
+  backgroundhovered = config/fancymenu/button/single_push.png
+  label = {"placeholder":"serverplayercount","values":{"ip":"162.222.197.240:25565"}}
+  backgroundnormal = config/fancymenu/button/single.png
+  height = 15
+}
+
+customization {
+  orientation = bottom-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  x = 63
+  width = 26
+  action = addbutton
+  actionid = 2dc27179-536d-4249-950b-346cf9c97b9f1684242152187
+  y = -19
+  backgroundhovered = config/fancymenu/button/single_push.png
+  label = {"placeholder":"serverping","values":{"ip":"162.222.197.240:25565"}}
+  backgroundnormal = config/fancymenu/button/single.png
+  height = 15
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://paypal.me/sirrobson75%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/button/pp.png
+  description = buy me a coffee
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 412
+  width = 15
+  action = addbutton
+  actionid = 9e7b8fca-de9b-4593-b791-9488e4bca2341689105227822
+  y = 309
+  backgroundnormal = config/fancymenu/button/pp.png
+  height = 14
+}
+
+customization {
+  path = config/fancymenu/images/logo-tfch-1182.png
+  orientation = top-centered
+  x = -157
+  width = 322
+  action = addtexture
+  actionid = e3d86bbc-ccef-43e3-bfa3-b825c122956f1699705525559
+  y = 16
+  height = 84
+}
+

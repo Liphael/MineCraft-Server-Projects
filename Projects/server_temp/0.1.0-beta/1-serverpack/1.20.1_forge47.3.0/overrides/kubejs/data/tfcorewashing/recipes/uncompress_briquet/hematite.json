@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:briquet_hematite"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:pellet_hematite",
+    "count": 4
+  }
+}

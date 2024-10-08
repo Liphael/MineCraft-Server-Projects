@@ -1,0 +1,12 @@
+{
+  "type": "farmersrespite:brewing",
+  "ingredients": [
+    {"item": "twilightforest:steeleaf_ingot"},
+    {"item": "twilightforest:liveroot"}
+  ],
+  "result": {"item": "twilightdelight:phytochemical_juice"},
+  "container": {"item": "minecraft:glass_bottle"},
+  "experience": 0.35,
+  "brewingtime": 800,
+  "needwater": true
+}

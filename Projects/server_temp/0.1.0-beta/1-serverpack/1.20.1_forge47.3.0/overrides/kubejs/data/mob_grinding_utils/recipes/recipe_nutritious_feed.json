@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BCB",
+    "PSX",
+    "BWB"
+  ],
+  "key": {
+    "B": {
+      "type": "mob_grinding_utils:fluid",
+      "advanced": false,
+      "tag": "forge:experience"
+    },
+    "C": {
+      "item": "minecraft:carrot"
+    },
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "S": {
+      "item": "kubejs:magic_crystal"
+    },
+    "X": {
+      "item": "minecraft:beetroot"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "item": "mob_grinding_utils:nutritious_chicken_feed"
+  }
+}

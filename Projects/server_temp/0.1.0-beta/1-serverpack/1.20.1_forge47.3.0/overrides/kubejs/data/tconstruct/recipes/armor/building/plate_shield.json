@@ -1,0 +1,14 @@
+{
+  "__comment__": "This file was created by tfch",
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc:metal/shield/blue_steel"
+  },
+  "second_input": {
+    "item": "tconstruct:cobalt_reinforcement"
+  },
+  "tier": 3,
+  "result": {
+    "item": "tconstruct:plate_shield"
+  }
+}

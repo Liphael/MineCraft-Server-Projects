@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:pellet_cassiterite"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:cassiterite_powder",
+    "count": 4
+  }
+}

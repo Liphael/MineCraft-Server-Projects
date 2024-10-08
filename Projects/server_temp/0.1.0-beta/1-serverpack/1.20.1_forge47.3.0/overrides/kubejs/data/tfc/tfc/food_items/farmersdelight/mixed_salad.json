@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:mixed_salad"
+  },
+  "category": "vegetable",
+  "hunger": 5,
+  "saturation": 1,
+  "decay_modifier": 1.25,
+  "vegetables": 3.5
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:slab_storage_uranium"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_uranium",
+    "amount": 450
+  },
+  "temperature": 830,
+  "time": 135
+}

@@ -1,0 +1,12 @@
+{
+  "type": "farmersrespite:brewing",
+  "ingredients": [
+    {"item": "twilightforest:torchberries"},
+    {"item": "minecraft:sugar"}
+  ],
+  "result": {"item": "twilightdelight:torchberry_juice"},
+  "container": {"item": "minecraft:glass_bottle"},
+  "experience": 0.35,
+  "brewingtime": 800,
+  "needwater": true
+}

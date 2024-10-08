@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:double_sheets/uranium"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_uranium",
+    "amount": 400
+  },
+  "temperature": 830,
+  "time": 122
+}

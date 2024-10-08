@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:wirecoil_redstone"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_aluminum",
+    "amount": 100
+  },
+  "temperature": 425,
+  "time": 35
+}

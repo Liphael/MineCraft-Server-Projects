@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:vegetable_noodles"
+  },
+  "category": "vegetable",
+  "hunger": 5,
+  "saturation": 3,
+  "decay_modifier": 1.0,
+  "vegetables": 4,
+  "grain": 1
+}

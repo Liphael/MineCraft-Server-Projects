@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:briquet_limonite"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:pellet_limonite",
+    "count": 4
+  }
+}

@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "forge:ingots/rose_gold"
+	},
+	"result": {
+		"item": "tfc:metal/rod/rose_gold",
+		"count": 2
+	}
+}

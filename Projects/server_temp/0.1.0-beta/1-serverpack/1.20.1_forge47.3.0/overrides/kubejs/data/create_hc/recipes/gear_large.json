@@ -1,0 +1,10 @@
+{
+  "type": "choppingblock:chopping",
+  "ingredient": {
+    "tag": "minecraft:planks"
+  },
+  "result": {
+    "item": "create_hc:gear_large",
+    "count": 1
+  }
+}

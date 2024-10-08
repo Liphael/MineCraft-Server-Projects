@@ -1,0 +1,24 @@
+{
+  "type": "sewingkit:sewing",
+  "materials": [
+    {
+      "ingredient": {
+        "tag": "forge:cloth"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "kubejs:medical_paste"
+      },
+      "count": 1
+    }
+  ],
+  "tool": {
+    "tag": "forge:shears"
+  },
+  "result": {
+    "item": "firstaid:plaster",
+    "count": 12
+  }
+}

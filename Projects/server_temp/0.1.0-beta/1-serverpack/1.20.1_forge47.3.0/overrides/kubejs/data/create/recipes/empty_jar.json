@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "results": [
+    {
+      "item": "firmalife:empty_jar"
+    }
+  ]
+}

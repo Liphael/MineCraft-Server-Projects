@@ -1,0 +1,63 @@
+{
+	id: "44CF0786BB372D03"
+	group: "4B506126B0B8AA84"
+	order_index: 6
+	filename: "magic_twilight_forrest"
+	title: "Magic Twilight Forrest"
+	icon: "twilightforest:twilight_portal_miniature_structure"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Twilight Forest"
+			icon: {
+				id: "patchouli:guide_book"
+				Count: 1b
+				tag: {
+					"patchouli:book": "twilightforest:guide"
+				}
+			}
+			x: -2.0d
+			y: 0.5d
+			shape: "gear"
+			subtitle: "''RIGHT CLICK'' with ''Akashic Tome'' in hand and choose the book you need - LEFT CLICK to cancel and pick a new one"
+			description: [
+				"Start an adventure in another world - Maybe you will find something that will be useful or maybe it will just be a great adventure"
+				""
+				"You will have to look for special materials in different areas and make a magic item out of it that will open a portal. You will definitely come across it but only after completing the following chapters"
+				"Stone, Mechanical, Steel, Nuclear and space"
+			]
+			dependencies: ["44024F7CD1794DA5"]
+			hide: true
+			size: 2.0d
+			id: "2D33A89CEBBCB943"
+			tasks: [{
+				id: "377A3862720C698F"
+				type: "item"
+				item: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "twilightforest:guide"
+					}
+				}
+			}]
+		}
+		{
+			title: "Portal"
+			icon: "twilightforest:twilight_portal_miniature_structure"
+			x: 1.0d
+			y: 0.5d
+			description: ["Build a portal to another dimension - Pour water into a 3x3 square and fill it with flowers - Throw in a Magic Crystal which you can craft from materials found on other planets"]
+			dependencies: ["2D33A89CEBBCB943"]
+			hide: true
+			id: "6B4FEEB611B1C806"
+			tasks: [{
+				id: "2A97A3A9B7DD9A28"
+				type: "item"
+				item: "kubejs:magic_crystal"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:barbecue_stick"
+  },
+  "category": "cooked_meat",
+  "hunger": 5,
+  "saturation": 3,
+  "decay_modifier": 0.75,
+  "vegetables": 2.5,
+  "protein": 1
+}

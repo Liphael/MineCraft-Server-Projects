@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "type": "tfc:not_rotten",
+    "ingredient": {
+      "item": "farmersdelight:chicken_cuts"
+    }
+  },
+  "result_item": {
+    "stack": {
+      "item": "farmersdelight:cooked_chicken_cuts"
+    },
+    "modifiers": [
+      "tfc:copy_food"
+    ]
+  },
+  "temperature": 200
+}

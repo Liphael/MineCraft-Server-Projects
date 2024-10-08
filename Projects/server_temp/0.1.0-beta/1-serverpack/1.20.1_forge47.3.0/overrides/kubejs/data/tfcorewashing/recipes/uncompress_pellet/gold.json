@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:pellet_gold"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:gold_powder",
+    "count": 4
+  }
+}

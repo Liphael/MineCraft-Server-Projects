@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "exnihilosequentia:crushed_end_stone"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "minecraft:lava",
+      "amount": 20
+    }
+  ],
+  "heatRequirement": "superheated"
+}

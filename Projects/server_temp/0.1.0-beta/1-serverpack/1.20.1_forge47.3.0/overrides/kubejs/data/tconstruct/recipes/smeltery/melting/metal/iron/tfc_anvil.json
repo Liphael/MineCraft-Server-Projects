@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "tfc:metal/anvil/wrought_iron"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_iron",
+    "amount": 1400
+  },
+  "temperature": 800,
+  "time": 360
+}

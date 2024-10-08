@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:briquet_garnierite"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:pellet_garnierite",
+    "count": 4
+  }
+}

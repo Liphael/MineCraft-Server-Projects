@@ -1,0 +1,10 @@
+{
+  "type": "choppingblock:chopping",
+  "ingredient": {
+    "tag": "forge:bones"
+  },
+  "result": {
+    "item": "sewingkit:bone_sewing_needle",
+    "count": 1
+  }
+}

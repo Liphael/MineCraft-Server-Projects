@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:dusts/redstone",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:dusts/redstone"
+  },
+  "result": {
+    "fluid": "kubejs:active_redstone",
+    "amount": 10
+  },
+  "temperature": 1000,
+  "time": 66
+}

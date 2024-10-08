@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:wires/iron"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_iron",
+    "amount": 25
+  },
+  "temperature": 800,
+  "time": 12
+}

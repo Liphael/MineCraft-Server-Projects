@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "tag": "forge:double_sheets/constantan"
+  },
+  "heat_capacity": 11.428,
+  "forging_temperature": 450,
+  "welding_temperature": 600
+}

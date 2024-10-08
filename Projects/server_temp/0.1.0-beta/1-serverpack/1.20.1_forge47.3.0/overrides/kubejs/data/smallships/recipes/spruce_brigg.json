@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sls",
+    "xdx",
+    "bbb"
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:lead"
+    },
+    "x": {
+      "tag": "forge:chests/wooden"
+    },
+    "s": {
+      "item": "smallships:sail"
+    },
+    "b": {
+      "item": "kubejs:big_stack_treated_wood"
+    },
+    "d": {
+      "type": "tfc:fluid_item",
+      "fluid_ingredient": {
+        "ingredient": "tfc:brown_dye",
+        "amount": 1000
+      }
+    }
+  },
+  "result": {
+    "item": "smallships:spruce_brigg"
+  }
+}

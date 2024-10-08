@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "coffee_delight:coffee_cap"
+    }
+  ]
+}

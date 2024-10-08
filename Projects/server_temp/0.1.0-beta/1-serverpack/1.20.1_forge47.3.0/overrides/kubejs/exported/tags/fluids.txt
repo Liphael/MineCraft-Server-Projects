@@ -1,0 +1,1616 @@
+To refresh this file, delete it and run /reload command again! Last updated: Aug 15, 2023, 7:54:45 PM
+
+#tfc:cider
+- tfc:cider
+- tfc:flowing_cider
+
+#tfc:whiskey
+- tfc:whiskey
+- tfc:flowing_whiskey
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- #tfc:salt_water
+- #tfc:spring_water
+- #tfc:brine
+- #tfc:curdled_milk
+- #tfc:limewater
+- #tfc:lye
+- #tfc:milk_vinegar
+- #tfc:olive_oil
+- #tfc:olive_oil_water
+- #tfc:tallow
+- #tfc:tannin
+- #tfc:vinegar
+- #tfc:beer
+- #tfc:cider
+- #tfc:rum
+- #tfc:sake
+- #tfc:vodka
+- #tfc:whiskey
+- #tfc:corn_whiskey
+- #tfc:rye_whiskey
+- #tfc:white_dye
+- #tfc:orange_dye
+- #tfc:magenta_dye
+- #tfc:light_blue_dye
+- #tfc:yellow_dye
+- #tfc:lime_dye
+- #tfc:pink_dye
+- #tfc:gray_dye
+- #tfc:light_gray_dye
+- #tfc:cyan_dye
+- #tfc:purple_dye
+- #tfc:blue_dye
+- #tfc:brown_dye
+- #tfc:green_dye
+- #tfc:red_dye
+- #tfc:black_dye
+- tfc:river_water
+- securitycraft:fake_water
+- securitycraft:flowing_fake_water
+- exnihilosequentia:sea_water
+- exnihilosequentia:sea_water_flow
+- adpother:polluted_water_flowing
+- adpother:polluted_water_still
+- beyond_earth:fuel
+- beyond_earth:flowing_fuel
+- beyond_earth:oil
+- beyond_earth:flowing_oil
+- bodyhygienemod:oil_flowing
+- bodyhygienemod:oil_fluid
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+- firmalife:yeast_starter
+- firmalife:flowing_yeast_starter
+- firmalife:coconut_milk
+- firmalife:flowing_coconut_milk
+- firmalife:yak_milk
+- firmalife:flowing_yak_milk
+- firmalife:goat_milk
+- firmalife:flowing_goat_milk
+- firmalife:curdled_yak_milk
+- firmalife:flowing_curdled_yak_milk
+- firmalife:curdled_goat_milk
+- firmalife:flowing_curdled_goat_milk
+- firmalife:pina_colada
+- firmalife:flowing_pina_colada
+- firmalife:cream
+- firmalife:flowing_cream
+- firmalife:chocolate
+- firmalife:flowing_chocolate
+- firmalife:sugar_water
+- firmalife:flowing_sugar_water
+- firmalife:fruity_fluid
+- firmalife:flowing_fruity_fluid
+- firmalife:mead
+- firmalife:flowing_mead
+- tfcchannelcasting:dark_chocolate
+- tfcchannelcasting:flowing_dark_chocolate
+- tfcchannelcasting:milk_chocolate
+- tfcchannelcasting:flowing_milk_chocolate
+- tfcchannelcasting:white_chocolate
+- tfcchannelcasting:flowing_white_chocolate
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+- createaddition:flowing_bioethanol
+- createaddition:bioethanol
+
+#tconstruct:molten_porcelain
+- tconstruct:molten_porcelain
+- tconstruct:flowing_molten_porcelain
+
+#forge:biodiesel
+- pneumaticcraft:biodiesel
+- immersiveengineering:biodiesel
+
+#forge:uranium_hexafluoride
+- mekanism:uranium_hexafluoride
+- mekanism:flowing_uranium_hexafluoride
+
+#tconstruct:molten_rose_gold
+- tconstruct:molten_rose_gold
+- tconstruct:flowing_molten_rose_gold
+
+#forge:molten_fiery
+- #twilightforest:molten_fiery?
+
+#tconstruct:molten_platinum
+- tconstruct:molten_platinum
+- tconstruct:flowing_molten_platinum
+
+#forge:sulfur_dioxide
+- mekanism:sulfur_dioxide
+- mekanism:flowing_sulfur_dioxide
+
+#forge:hydrogen
+- mekanism:hydrogen
+- mekanism:flowing_hydrogen
+
+#tfc:any_drinkables
+- #tfc:drinkables
+- #tfc:any_infinite_water
+
+#tfc:blue_dye
+- tfc:blue_dye
+- tfc:flowing_blue_dye
+
+#tfc:brown_dye
+- tfc:brown_dye
+- tfc:flowing_brown_dye
+
+#tconstruct:earth_slime
+- tconstruct:earth_slime
+- tconstruct:flowing_earth_slime
+
+#tfcchannelcasting:dark_chocolate
+- tfcchannelcasting:dark_chocolate
+- tfcchannelcasting:flowing_dark_chocolate
+
+#tconstruct:liquid_soul
+- tconstruct:liquid_soul
+- tconstruct:flowing_liquid_soul
+
+#firmalife:fruity_fluid
+- firmalife:fruity_fluid
+- firmalife:flowing_fruity_fluid
+
+#firmalife:usable_in_mixing_bowl
+- #tfc:usable_in_pot
+
+#forge:steam
+- mekanism:steam
+- mekanism:flowing_steam
+
+#tfc:yellow_dye
+- tfc:yellow_dye
+- tfc:flowing_yellow_dye
+
+#tconstruct:spilling/metal/average
+- #tconstruct:molten_quartz
+- #tconstruct:molten_emerald
+- #forge:molten_refined_glowstone
+
+#tfc:curdled_milk
+- tfc:curdled_milk
+- tfc:flowing_curdled_milk
+
+#tfc:usable_in_sluice
+- #tfc:any_infinite_water
+
+#forge:molten_silver
+- #tconstruct:molten_silver
+
+#tfc:gold
+- tfc:metal/gold
+- tfc:metal/flowing_gold
+
+#forge:molten_pewter
+- #tconstruct:molten_pewter
+
+#pneumaticcraft:plastic
+- pneumaticcraft:plastic
+
+#firmalife:pina_colada
+- firmalife:pina_colada
+- firmalife:flowing_pina_colada
+
+#tfc:gray_dye
+- tfc:gray_dye
+- tfc:flowing_gray_dye
+
+#forge:molten_manyullyn
+- #tconstruct:molten_manyullyn
+
+#twilightforest:fiery_essence
+- twilightforest:fiery_essence?
+- twilightforest:flowing_fiery_essence?
+
+#firmalife:usable_in_hollow_shell
+- #tfc:usable_in_wooden_bucket
+
+#forge:naphtha
+- immersivepetroleum:naphtha
+
+#tfcchannelcasting:sweet_liquor
+- tfc:cider
+- tfc:rum
+
+#tfc:usable_in_blue_steel_bucket
+- minecraft:lava
+- #tfc:molten_metals
+
+#tfc:rum
+- tfc:rum
+- tfc:flowing_rum
+
+#tfc:spring_water
+- tfc:spring_water
+- tfc:flowing_spring_water
+
+#tfcchannelcasting:white_chocolate
+- tfcchannelcasting:white_chocolate
+- tfcchannelcasting:flowing_white_chocolate
+
+#forge:molten_enderium
+- #tconstruct:molten_enderium
+
+#forge:tritium
+- mekanismgenerators:tritium
+- mekanismgenerators:flowing_tritium
+
+#tconstruct:spilling/clay
+- #tconstruct:molten_clay
+- #tconstruct:molten_porcelain
+- #tconstruct:seared_stone
+- #tconstruct:scorched_stone
+
+#tfc:light_blue_dye
+- tfc:light_blue_dye
+- tfc:flowing_light_blue_dye
+
+#tconstruct:tooltips/metal
+- #forge:molten_desh
+- #forge:molten_ostrum
+- #forge:molten_calorite
+- #forge:molten_fiery
+- #forge:molten_knightmetal
+- #forge:molten_iron
+- #forge:molten_gold
+- #forge:molten_copper
+- #forge:molten_cobalt
+- #tconstruct:molten_debris
+- #tconstruct:molten_slimesteel
+- #tconstruct:molten_amethyst_bronze
+- #forge:molten_rose_gold
+- #tconstruct:molten_pig_iron
+- #forge:molten_manyullyn
+- #forge:molten_hepatizon
+- #tconstruct:molten_queens_slime
+- #forge:molten_netherite
+- #tconstruct:molten_soulsteel
+- #tconstruct:molten_knightslime
+- #forge:molten_tin
+- #forge:molten_aluminum
+- #forge:molten_lead
+- #forge:molten_silver
+- #forge:molten_nickel
+- #forge:molten_zinc
+- #forge:molten_platinum
+- #forge:molten_tungsten
+- #forge:molten_osmium
+- #forge:molten_uranium
+- #forge:molten_bronze
+- #forge:molten_brass
+- #forge:molten_electrum
+- #forge:molten_invar
+- #forge:molten_constantan
+- #forge:molten_pewter
+- #forge:molten_steel
+- #forge:molten_enderium
+- #forge:molten_lumium
+- #forge:molten_signalum
+- #forge:molten_refined_glowstone
+- #forge:molten_refined_obsidian
+
+#tfc:green_dye
+- tfc:green_dye
+- tfc:flowing_green_dye
+
+#tfc:usable_in_jug
+- #tfc:drinkables
+- tfchomestead:aged_beer
+- tfchomestead:aged_whiskey
+- tfchomestead:aged_corn_whiskey
+- tfchomestead:aged_rye_whiskey
+- tfchomestead:aged_cider
+- tfchomestead:aged_rum
+- tfchomestead:aged_sake
+- tfchomestead:aged_vodka
+
+#forge:molten_aluminum
+- #tconstruct:molten_aluminum
+
+#tfc:lye
+- tfc:lye
+- tfc:flowing_lye
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- #tfc:bismuth
+- #tfc:bismuth_bronze
+- #tfc:black_bronze
+- #tfc:bronze
+- #tfc:brass
+- #tfc:copper
+- #tfc:gold
+- #tfc:nickel
+- #tfc:rose_gold
+- #tfc:silver
+- #tfc:tin
+- #tfc:zinc
+- #tfc:sterling_silver
+- #tfc:wrought_iron
+- #tfc:cast_iron
+- #tfc:pig_iron
+- #tfc:steel
+- #tfc:black_steel
+- #tfc:blue_steel
+- #tfc:red_steel
+- #tfc:weak_steel
+- #tfc:weak_blue_steel
+- #tfc:weak_red_steel
+- #tfc:high_carbon_steel
+- #tfc:high_carbon_black_steel
+- #tfc:high_carbon_blue_steel
+- #tfc:high_carbon_red_steel
+- #tfc:unknown
+- securitycraft:fake_lava
+- securitycraft:flowing_fake_lava
+
+#forge:ethanol
+- pneumaticcraft:ethanol
+- immersiveengineering:ethanol
+
+#forge:uranium_oxide
+- mekanism:uranium_oxide
+- mekanism:flowing_uranium_oxide
+
+#tconstruct:seared_stone
+- tconstruct:seared_stone
+- tconstruct:flowing_seared_stone
+
+#forge:molten_iron
+- #tconstruct:molten_iron
+
+#tconstruct:molten_steel
+- tconstruct:molten_steel
+- tconstruct:flowing_molten_steel
+
+#forge:concrete
+- immersiveengineering:concrete
+
+#beyond_earth:molten_desh
+- beyond_earth:molten_desh?
+- beyond_earth:flowing_molten_desh?
+
+#forge:sulfur_trioxide
+- mekanism:sulfur_trioxide
+- mekanism:flowing_sulfur_trioxide
+
+#forge:sulfuric_acid
+- mekanism:sulfuric_acid
+- mekanism:flowing_sulfuric_acid
+
+#forge:lubricant_cracked
+- immersivepetroleum:lubricant_cracked
+
+#tfc:bronze
+- tfc:metal/bronze
+- tfc:metal/flowing_bronze
+
+#tfc:ingredients
+- tfc:brine
+- tfc:curdled_milk
+- tfc:limewater
+- tfc:lye
+- tfc:milk_vinegar
+- tfc:olive_oil
+- tfc:olive_oil_water
+- tfc:tallow
+- tfc:tannin
+- tfc:vinegar
+- #tfc:drinkables
+- #tfc:dyes
+- firmalife:yeast_starter
+- firmalife:coconut_milk
+- firmalife:yak_milk
+- firmalife:goat_milk
+- firmalife:curdled_yak_milk
+- firmalife:curdled_goat_milk
+- firmalife:pina_colada
+- firmalife:cream
+- firmalife:chocolate
+- firmalife:sugar_water
+- firmalife:fruity_fluid
+- firmalife:mead
+
+#tfc:high_carbon_steel
+- tfc:metal/high_carbon_steel
+- tfc:metal/flowing_high_carbon_steel
+
+#forge:ender
+- #tconstruct:molten_ender
+
+#tfc:usable_in_pot
+- #tfc:ingredients
+
+#tfc:usable_in_ingot_mold
+- #tfc:molten_metals
+- tfcchannelcasting:dark_chocolate
+- tfcchannelcasting:flowing_dark_chocolate
+- tfcchannelcasting:milk_chocolate
+- tfcchannelcasting:flowing_milk_chocolate
+- tfcchannelcasting:white_chocolate
+- tfcchannelcasting:flowing_white_chocolate
+
+#tconstruct:rabbit_stew
+- tconstruct:rabbit_stew
+- tconstruct:flowing_rabbit_stew
+
+#tconstruct:molten_ender
+- tconstruct:molten_ender
+- tconstruct:flowing_molten_ender
+
+#forge:hydrogen_chloride
+- mekanism:hydrogen_chloride
+- mekanism:flowing_hydrogen_chloride
+
+#forge:molten_osmium
+- #tconstruct:molten_osmium
+
+#forge:molten_uranium
+- #tconstruct:molten_uranium
+
+#forge:deuterium
+- mekanismgenerators:deuterium
+- mekanismgenerators:flowing_deuterium
+
+#forge:hydrofluoric_acid
+- mekanism:hydrofluoric_acid
+- mekanism:flowing_hydrofluoric_acid
+
+#firmalife:coconut_milk
+- firmalife:coconut_milk
+- firmalife:flowing_coconut_milk
+
+#firmalife:stainless_steel
+- firmalife:metal/stainless_steel
+- firmalife:metal/flowing_stainless_steel
+
+#tconstruct:molten_nickel
+- tconstruct:molten_nickel
+- tconstruct:flowing_molten_nickel
+
+#tfc:sake
+- tfc:sake
+- tfc:flowing_sake
+
+#tfc:beer
+- tfc:beer
+- tfc:flowing_beer
+
+#tfc:cast_iron
+- tfc:metal/cast_iron
+- tfc:metal/flowing_cast_iron
+
+#tfc:any_water
+- #tfc:any_infinite_water
+- tfc:spring_water
+- tfc:flowing_spring_water
+
+#tfc:copper
+- tfc:metal/copper
+- tfc:metal/flowing_copper
+
+#tconstruct:molten_tin
+- tconstruct:molten_tin
+- tconstruct:flowing_molten_tin
+
+#tconstruct:molten_quartz
+- tconstruct:molten_quartz
+- tconstruct:flowing_molten_quartz
+
+#forge:diesel_sulfur
+- immersivepetroleum:diesel_sulfur
+
+#forge:molten_cobalt
+- #tconstruct:molten_cobalt
+
+#tconstruct:tooltips/glass
+- #tconstruct:molten_glass
+- #tconstruct:liquid_soul
+- #tconstruct:molten_obsidian
+
+#tfc:black_bronze
+- tfc:metal/black_bronze
+- tfc:metal/flowing_black_bronze
+
+#tfc:weak_red_steel
+- tfc:metal/weak_red_steel
+- tfc:metal/flowing_weak_red_steel
+
+#forge:molten_amethyst_bronze
+- #tconstruct:molten_amethyst_bronze
+
+#tfc:silver
+- tfc:metal/silver
+- tfc:metal/flowing_silver
+
+#create:bottomless/deny
+
+#tfc:salt_water
+- tfc:salt_water
+- tfc:flowing_salt_water
+
+#forge:fusion_fuel
+- mekanismgenerators:fusion_fuel
+- mekanismgenerators:flowing_fusion_fuel
+
+#forge:mushroom_stew
+- #tconstruct:mushroom_stew
+
+#tfc:pig_iron
+- tfc:metal/pig_iron
+- tfc:metal/flowing_pig_iron
+
+#forge:molten_refined_glowstone
+- #tconstruct:molten_refined_glowstone
+
+#tfc_ie_addon:constantan
+- tfc_ie_addon:metal/constantan
+- tfc_ie_addon:metal/flowing_constantan
+
+#forge:slime
+- #tconstruct:earth_slime
+
+#mantle:water
+- minecraft:water
+- minecraft:flowing_water
+
+#forge:lithium
+- mekanism:lithium
+- mekanism:flowing_lithium
+
+#tconstruct:molten_constantan
+- tconstruct:molten_constantan
+- tconstruct:flowing_molten_constantan
+
+#tconstruct:molten_clay
+- tconstruct:molten_clay
+- tconstruct:flowing_molten_clay
+
+#tconstruct:molten_gold
+- tconstruct:molten_gold
+- tconstruct:flowing_molten_gold
+
+#tfc:brine
+- tfc:brine
+- tfc:flowing_brine
+
+#tfc:tin
+- tfc:metal/tin
+- tfc:metal/flowing_tin
+
+#forge:molten_lumium
+- #tconstruct:molten_lumium
+
+#pneumaticcraft:etching_acid
+- pneumaticcraft:etching_acid
+
+#tfc:scribing_ink
+- tfc:black_dye
+
+#forge:ethylene
+- immersivepetroleum:ethylene
+
+#forge:bioethanol
+- mekanismgenerators:bioethanol
+- mekanismgenerators:flowing_bioethanol
+
+#tfchomestead:aged_alcohols
+- tfchomestead:aged_beer
+- tfchomestead:aged_whiskey
+- tfchomestead:aged_corn_whiskey
+- tfchomestead:aged_rye_whiskey
+- tfchomestead:aged_cider
+- tfchomestead:aged_rum
+- tfchomestead:aged_sake
+- tfchomestead:aged_vodka
+
+#forge:molten_lead
+- #tconstruct:molten_lead
+
+#tconstruct:molten_netherite
+- tconstruct:molten_netherite
+- tconstruct:flowing_molten_netherite
+
+#forge:propylene
+- immersivepetroleum:propylene
+
+#tfc:bismuth_bronze
+- tfc:metal/bismuth_bronze
+- tfc:metal/flowing_bismuth_bronze
+
+#tfc:rye_whiskey
+- tfc:rye_whiskey
+- tfc:flowing_rye_whiskey
+
+#forge:heavy_water
+- mekanism:heavy_water
+- mekanism:flowing_heavy_water
+
+#forge:lpg
+- pneumaticcraft:lpg
+
+#tfc:weak_steel
+- tfc:metal/weak_steel
+- tfc:metal/flowing_weak_steel
+
+#forge:molten_hepatizon
+- #tconstruct:molten_hepatizon
+
+#tconstruct:venom
+- tconstruct:venom
+- tconstruct:flowing_venom
+
+#forge:molten_ostrum
+- #beyond_earth:molten_ostrum
+
+#tfc:any_infinite_water
+- #tfc:any_fresh_water
+- tfc:salt_water
+- tfc:flowing_salt_water
+
+#twilightforest:fire_jet_fuel
+- #minecraft:lava
+
+#forge:plantoil
+- pneumaticcraft:vegetable_oil
+- immersiveengineering:plantoil
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#firmalife:curdled_goat_milk
+- firmalife:curdled_goat_milk
+- firmalife:flowing_curdled_goat_milk
+
+#tconstruct:molten_electrum
+- tconstruct:molten_electrum
+- tconstruct:flowing_molten_electrum
+
+#tconstruct:molten_pewter
+- tconstruct:molten_pewter
+- tconstruct:flowing_molten_pewter
+
+#tconstruct:molten_brass
+- tconstruct:molten_brass
+- tconstruct:flowing_molten_brass
+
+#tfc:white_dye
+- tfc:white_dye
+- tfc:flowing_white_dye
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:chlorine
+- mekanism:chlorine
+- mekanism:flowing_chlorine
+
+#tconstruct:molten_copper
+- tconstruct:molten_copper
+- tconstruct:flowing_molten_copper
+
+#tfc:nickel
+- tfc:metal/nickel
+- tfc:metal/flowing_nickel
+
+#tconstruct:ender_slime
+- tconstruct:ender_slime
+- tconstruct:flowing_ender_slime
+
+#tfc:black_steel
+- tfc:metal/black_steel
+- tfc:metal/flowing_black_steel
+
+#tconstruct:molten_signalum
+- tconstruct:molten_signalum
+- tconstruct:flowing_molten_signalum
+
+#tfcchannelcasting:mixable
+- tfcchannelcasting:dark_chocolate
+- tfcchannelcasting:flowing_dark_chocolate
+- tfcchannelcasting:milk_chocolate
+- tfcchannelcasting:flowing_milk_chocolate
+- tfcchannelcasting:white_chocolate
+- tfcchannelcasting:flowing_white_chocolate
+
+#tconstruct:magma
+- tconstruct:magma
+- tconstruct:flowing_magma
+
+#tconstruct:beetroot_soup
+- tconstruct:beetroot_soup
+- tconstruct:flowing_beetroot_soup
+
+#tconstruct:molten_diamond
+- tconstruct:molten_diamond
+- tconstruct:flowing_molten_diamond
+
+#forge:potion
+- immersiveengineering:potion
+- tconstruct:potion
+
+#immersivepetroleum:burnable_in_flarestack
+- #forge:lubricant
+- #forge:diesel
+- #forge:diesel_sulfur
+- #forge:gasoline
+- #forge:naphtha
+- #forge:naphtha_cracked
+- #forge:benzene
+- #forge:propylene
+- #forge:ethylene
+- #forge:lubricant_cracked
+- #forge:kerosene
+- #forge:gasoline_additives
+- #forge:plantoil
+- #forge:creosote
+- #forge:ethanol
+
+#forge:gasoline
+- pneumaticcraft:gasoline
+- immersivepetroleum:gasoline
+
+#tfc:magenta_dye
+- tfc:magenta_dye
+- tfc:flowing_magenta_dye
+
+#forge:molten_tungsten
+- #tconstruct:molten_tungsten
+
+#tconstruct:molten_queens_slime
+- tconstruct:molten_queens_slime
+- tconstruct:flowing_molten_queens_slime
+
+#beyond_earth:vehicle_fuel
+- beyond_earth:fuel
+- beyond_earth:flowing_fuel
+
+#forge:molten_refined_obsidian
+- #tconstruct:molten_refined_obsidian
+
+#tfc:milk_vinegar
+- tfc:milk_vinegar
+- tfc:flowing_milk_vinegar
+
+#tfc:olive_oil_water
+- tfc:olive_oil_water
+- tfc:flowing_olive_oil_water
+
+#firmalife:chocolate
+- firmalife:chocolate
+- firmalife:flowing_chocolate
+
+#forge:brine
+- mekanism:brine
+- mekanism:flowing_brine
+
+#forge:molten_zinc
+- #tconstruct:molten_zinc
+
+#tfc:tallow
+- tfc:tallow
+- tfc:flowing_tallow
+
+#forge:molten_calorite
+- #beyond_earth:molten_calorite
+
+#forge:honey
+- create:flowing_honey
+- create:honey
+- #tconstruct:honey
+
+#tconstruct:molten_knightslime
+- tconstruct:molten_knightslime
+- tconstruct:flowing_molten_knightslime
+
+#firmalife:usable_in_vat
+- #tfc:usable_in_pot
+- firmalife:fruity_fluid
+
+#tconstruct:tooltips/gem_large
+- #tconstruct:molten_emerald
+- #tconstruct:molten_diamond
+
+#tfc:pink_dye
+- tfc:pink_dye
+- tfc:flowing_pink_dye
+
+#forge:acetaldehyde
+- immersiveengineering:acetaldehyde
+
+#tconstruct:molten_manyullyn
+- tconstruct:molten_manyullyn
+- tconstruct:flowing_molten_manyullyn
+
+#firmalife:yak_milk
+- firmalife:yak_milk
+- firmalife:flowing_yak_milk
+
+#tfc:unknown
+- tfc:metal/unknown
+- tfc:metal/flowing_unknown
+
+#tconstruct:molten_invar
+- tconstruct:molten_invar
+- tconstruct:flowing_molten_invar
+
+#tconstruct:sky_slime
+- tconstruct:sky_slime
+- tconstruct:flowing_sky_slime
+
+#tconstruct:scorched_stone
+- tconstruct:scorched_stone
+- tconstruct:flowing_scorched_stone
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#tfc_ie_addon:aluminum
+- tfc_ie_addon:metal/aluminum
+- tfc_ie_addon:metal/flowing_aluminum
+
+#tconstruct:blazing_blood
+- tconstruct:blazing_blood
+- tconstruct:flowing_blazing_blood
+
+#tfc:blue_steel
+- tfc:metal/blue_steel
+- tfc:metal/flowing_blue_steel
+
+#firmalife:curdled_yak_milk
+- firmalife:curdled_yak_milk
+- firmalife:flowing_curdled_yak_milk
+
+#tconstruct:tooltips/gem_small
+- #tconstruct:molten_quartz
+- #tconstruct:molten_amethyst
+
+#tconstruct:molten_obsidian
+- tconstruct:molten_obsidian
+- tconstruct:flowing_molten_obsidian
+
+#forge:rabbit_stew
+- #tconstruct:rabbit_stew
+
+#tconstruct:molten_refined_obsidian
+- tconstruct:molten_refined_obsidian
+- tconstruct:flowing_molten_refined_obsidian
+
+#beyond_earth:molten_ostrum
+- beyond_earth:molten_ostrum?
+- beyond_earth:flowing_molten_ostrum?
+
+#forge:superheated_sodium
+- mekanism:superheated_sodium
+- mekanism:flowing_superheated_sodium
+
+#forge:molten_copper
+- #tconstruct:molten_copper
+
+#tfc:bismuth
+- tfc:metal/bismuth
+- tfc:metal/flowing_bismuth
+
+#beyond_earth:oil
+- beyond_earth:oil
+- beyond_earth:flowing_oil
+
+#tfc:vinegar
+- tfc:vinegar
+- tfc:flowing_vinegar
+
+#tfc_ie_addon:uranium
+- tfc_ie_addon:metal/uranium
+- tfc_ie_addon:metal/flowing_uranium
+
+#tfc:high_carbon_black_steel
+- tfc:metal/high_carbon_black_steel
+- tfc:metal/flowing_high_carbon_black_steel
+
+#tconstruct:spilling/metal/expensive
+- #tconstruct:molten_diamond
+- #tconstruct:molten_debris
+- #forge:molten_enderium
+- #forge:molten_lumium
+- #forge:molten_signalum
+- #forge:molten_refined_obsidian
+
+#tfc:fresh_water
+- minecraft:water
+
+#tfc:corn_whiskey
+- tfc:corn_whiskey
+- tfc:flowing_corn_whiskey
+
+#forge:molten_bronze
+- #tconstruct:molten_bronze
+
+#twilightforest:molten_fiery
+- twilightforest:molten_fiery?
+- twilightforest:flowing_molten_fiery?
+
+#forge:oil
+- beyond_earth:oil
+- beyond_earth:flowing_oil
+
+#forge:molten_rose_gold
+- #tconstruct:molten_rose_gold
+
+#forge:magma
+- #tconstruct:magma
+
+#immersiveengineering:drill_fuel
+- #forge:diesel
+- #forge:kerosene
+- #forge:diesel_sulfur
+- #forge:biodiesel
+
+#tfc_ie_addon:electrum
+- tfc_ie_addon:metal/electrum
+- tfc_ie_addon:metal/flowing_electrum
+
+#tconstruct:spilling/metal/cheap
+- #forge:molten_fiery
+- #twilightforest:molten_knightmetal
+- #forge:molten_platinum
+- #forge:molten_tungsten
+- #forge:molten_osmium
+- #tconstruct:molten_amethyst
+
+#forge:molten_platinum
+- #tconstruct:molten_platinum
+
+#tfc:any_fresh_water
+- minecraft:water
+- minecraft:flowing_water
+- tfc:river_water
+
+#tfc:olive_oil
+- tfc:olive_oil
+- tfc:flowing_olive_oil
+
+#tconstruct:molten_silver
+- tconstruct:molten_silver
+- tconstruct:flowing_molten_silver
+
+#tconstruct:molten_soulsteel
+- tconstruct:molten_soulsteel
+- tconstruct:flowing_molten_soulsteel
+
+#firmalife:mead
+- firmalife:mead
+- firmalife:flowing_mead
+
+#forge:crude_oil
+- pneumaticcraft:oil
+- immersivepetroleum:crudeoil
+
+#forge:herbicide
+- immersiveengineering:herbicide
+
+#tconstruct:tooltips/clay
+- #tconstruct:molten_clay
+- #tconstruct:molten_porcelain
+- #tconstruct:seared_stone
+- #tconstruct:scorched_stone
+
+#tfcchannelcasting:whiskey
+- tfc:whiskey
+- tfc:corn_whiskey
+- tfc:rye_whiskey
+
+#pneumaticcraft:seismic_sensor_interesting
+- #forge:crude_oil
+
+#forge:molten_steel
+- #tconstruct:molten_steel
+
+#tconstruct:molten_aluminum
+- tconstruct:molten_aluminum
+- tconstruct:flowing_molten_aluminum
+
+#forge:ethene
+- mekanism:ethene
+- mekanism:flowing_ethene
+
+#firmalife:goat_milk
+- firmalife:goat_milk
+- firmalife:flowing_goat_milk
+
+#tconstruct:molten_iron
+- tconstruct:molten_iron
+- tconstruct:flowing_molten_iron
+
+#forge:redstone_acid
+- immersiveengineering:redstone_acid
+
+#tconstruct:molten_uranium
+- tconstruct:molten_uranium
+- tconstruct:flowing_molten_uranium
+
+#tconstruct:molten_glass
+- tconstruct:molten_glass
+- tconstruct:flowing_molten_glass
+
+#tfcchannelcasting:strong_liquor
+- tfc:sake
+- tfc:vodka
+
+#tfc:usable_in_bell_mold
+- tfc:metal/bronze
+- tfc:metal/gold
+- tfc:metal/brass
+- tfcchannelcasting:dark_chocolate
+- tfcchannelcasting:flowing_dark_chocolate
+- tfcchannelcasting:milk_chocolate
+- tfcchannelcasting:flowing_milk_chocolate
+- tfcchannelcasting:white_chocolate
+- tfcchannelcasting:flowing_white_chocolate
+
+#forge:sodium
+- mekanism:sodium
+- mekanism:flowing_sodium
+
+#forge:polluted_water
+- adpother:polluted_water_flowing
+- adpother:polluted_water_still
+
+#tconstruct:tooltips/slime
+- #forge:magma
+- #tconstruct:blood
+- #forge:ender
+- #tconstruct:slime
+
+#forge:molten_nickel
+- #tconstruct:molten_nickel
+
+#tfc:weak_blue_steel
+- tfc:metal/weak_blue_steel
+- tfc:metal/flowing_weak_blue_steel
+
+#tconstruct:molten_enderium
+- tconstruct:molten_enderium
+- tconstruct:flowing_molten_enderium
+
+#pneumaticcraft:yeast_culture
+- pneumaticcraft:yeast_culture
+
+#firmalife:mixable
+- firmalife:yeast_starter
+- firmalife:flowing_yeast_starter
+- firmalife:coconut_milk
+- firmalife:flowing_coconut_milk
+- firmalife:yak_milk
+- firmalife:flowing_yak_milk
+- firmalife:goat_milk
+- firmalife:flowing_goat_milk
+- firmalife:curdled_yak_milk
+- firmalife:flowing_curdled_yak_milk
+- firmalife:curdled_goat_milk
+- firmalife:flowing_curdled_goat_milk
+- firmalife:pina_colada
+- firmalife:flowing_pina_colada
+- firmalife:cream
+- firmalife:flowing_cream
+- firmalife:chocolate
+- firmalife:flowing_chocolate
+- firmalife:sugar_water
+- firmalife:flowing_sugar_water
+- firmalife:fruity_fluid
+- firmalife:flowing_fruity_fluid
+- firmalife:mead
+- firmalife:flowing_mead
+
+#tfc:usable_in_barrel
+- #tfc:ingredients
+- immersiveengineering:acetaldehyde
+- immersiveengineering:biodiesel
+- immersiveengineering:concrete
+- immersiveengineering:creosote
+- immersiveengineering:ethanol
+- immersiveengineering:herbicide
+- immersiveengineering:phenolic_resin
+- immersiveengineering:plantoil
+- immersiveengineering:redstone_acid
+- tfchomestead:aged_beer
+- tfchomestead:aged_whiskey
+- tfchomestead:aged_corn_whiskey
+- tfchomestead:aged_rye_whiskey
+- tfchomestead:aged_cider
+- tfchomestead:aged_rum
+- tfchomestead:aged_sake
+- tfchomestead:aged_vodka
+
+#tfc:tannin
+- tfc:tannin
+- tfc:flowing_tannin
+
+#tfc:drinkables
+- #tfc:infinite_water
+- #tfc:alcohols
+- #tfc:milks
+- firmalife:chocolate
+
+#tfc:red_dye
+- tfc:red_dye
+- tfc:flowing_red_dye
+
+#tfc:usable_in_red_steel_bucket
+- #tfc:ingredients
+- immersiveengineering:acetaldehyde
+- immersiveengineering:biodiesel
+- immersiveengineering:concrete
+- immersiveengineering:creosote
+- immersiveengineering:ethanol
+- immersiveengineering:herbicide
+- immersiveengineering:phenolic_resin
+- immersiveengineering:plantoil
+- immersiveengineering:redstone_acid
+
+#tfc:steel
+- tfc:metal/steel
+- tfc:metal/flowing_steel
+
+#tfc:zinc
+- tfc:metal/zinc
+- tfc:metal/flowing_zinc
+
+#tfc:usable_in_wooden_bucket
+- #tfc:ingredients
+- immersiveengineering:acetaldehyde
+- immersiveengineering:biodiesel
+- immersiveengineering:concrete
+- immersiveengineering:creosote
+- immersiveengineering:ethanol
+- immersiveengineering:herbicide
+- immersiveengineering:phenolic_resin
+- immersiveengineering:plantoil
+- immersiveengineering:redstone_acid
+- tfchomestead:aged_beer
+- tfchomestead:aged_whiskey
+- tfchomestead:aged_corn_whiskey
+- tfchomestead:aged_rye_whiskey
+- tfchomestead:aged_cider
+- tfchomestead:aged_rum
+- tfchomestead:aged_sake
+- tfchomestead:aged_vodka
+
+#forge:napalm
+- immersivepetroleum:napalm
+
+#tfc:infinite_water
+- #tfc:fresh_water
+- tfc:salt_water
+
+#tfcchannelcasting:usable_in_heart_mold
+- tfcchannelcasting:dark_chocolate
+- tfcchannelcasting:flowing_dark_chocolate
+- tfcchannelcasting:milk_chocolate
+- tfcchannelcasting:flowing_milk_chocolate
+- tfcchannelcasting:white_chocolate
+- tfcchannelcasting:flowing_white_chocolate
+
+#forge:gasoline_additives
+- immersivepetroleum:gasoline_additives
+
+#tfc:sterling_silver
+- tfc:metal/sterling_silver
+- tfc:metal/flowing_sterling_silver
+
+#beyond_earth:molten_calorite
+- beyond_earth:molten_calorite?
+- beyond_earth:flowing_molten_calorite?
+
+#tfc:light_gray_dye
+- tfc:light_gray_dye
+- tfc:flowing_light_gray_dye
+
+#forge:oxygen
+- mekanism:oxygen
+- mekanism:flowing_oxygen
+
+#forge:benzene
+- immersivepetroleum:benzene
+
+#tconstruct:honey
+- tconstruct:honey
+- tconstruct:flowing_honey
+
+#tconstruct:molten_osmium
+- tconstruct:molten_osmium
+- tconstruct:flowing_molten_osmium
+
+#tfc:orange_dye
+- tfc:orange_dye
+- tfc:flowing_orange_dye
+
+#forge:molten_desh
+- #beyond_earth:molten_desh
+
+#tfc_ie_addon:lead
+- tfc_ie_addon:metal/lead
+- tfc_ie_addon:metal/flowing_lead
+
+#tconstruct:molten_refined_glowstone
+- tconstruct:molten_refined_glowstone
+- tconstruct:flowing_molten_refined_glowstone
+
+#forge:naphtha_cracked
+- immersivepetroleum:naphtha_cracked
+
+#tfc:red_steel
+- tfc:metal/red_steel
+- tfc:metal/flowing_red_steel
+
+#tconstruct:molten_slimesteel
+- tconstruct:molten_slimesteel
+- tconstruct:flowing_molten_slimesteel
+
+#forge:molten_tin
+- #tconstruct:molten_tin
+
+#tconstruct:molten_debris
+- tconstruct:molten_debris
+- tconstruct:flowing_molten_debris
+
+#forge:molten_constantan
+- #tconstruct:molten_constantan
+
+#tconstruct:molten_cobalt
+- tconstruct:molten_cobalt
+- tconstruct:flowing_molten_cobalt
+
+#tconstruct:molten_amethyst_bronze
+- tconstruct:molten_amethyst_bronze
+- tconstruct:flowing_molten_amethyst_bronze
+
+#forge:xpjuice
+- mob_grinding_utils:fluid_xp
+
+#tfc:mixable
+- #minecraft:water
+
+#tfc:dyes
+- tfc:white_dye
+- tfc:orange_dye
+- tfc:magenta_dye
+- tfc:light_blue_dye
+- tfc:yellow_dye
+- tfc:lime_dye
+- tfc:pink_dye
+- tfc:gray_dye
+- tfc:light_gray_dye
+- tfc:cyan_dye
+- tfc:purple_dye
+- tfc:blue_dye
+- tfc:brown_dye
+- tfc:green_dye
+- tfc:red_dye
+- tfc:black_dye
+
+#tconstruct:molten_emerald
+- tconstruct:molten_emerald
+- tconstruct:flowing_molten_emerald
+
+#create:bottomless/allow
+- minecraft:water
+- minecraft:lava
+
+#forge:molten_brass
+- #tconstruct:molten_brass
+
+#tconstruct:slime
+- #forge:slime
+- #tconstruct:sky_slime
+- #tconstruct:ender_slime
+
+#tconstruct:molten_tungsten
+- tconstruct:molten_tungsten
+- tconstruct:flowing_molten_tungsten
+
+#tfc:cyan_dye
+- tfc:cyan_dye
+- tfc:flowing_cyan_dye
+
+#firmalife:sugar_water
+- firmalife:sugar_water
+- firmalife:flowing_sugar_water
+
+#tconstruct:blood
+- tconstruct:blood
+- tconstruct:flowing_blood
+
+#tconstruct:molten_lumium
+- tconstruct:molten_lumium
+- tconstruct:flowing_molten_lumium
+
+#forge:experience
+- pneumaticcraft:memory_essence
+- mob_grinding_utils:fluid_xp
+- pneumaticcraft:memory_essence?
+- cofh_core:experience?
+
+#forge:diesel
+- pneumaticcraft:diesel
+- immersivepetroleum:diesel
+- immersivepetroleum:diesel_sulfur
+
+#firmalife:chromium
+- firmalife:metal/chromium
+- firmalife:metal/flowing_chromium
+
+#tfc:lime_dye
+- tfc:lime_dye
+- tfc:flowing_lime_dye
+
+#tconstruct:molten_lead
+- tconstruct:molten_lead
+- tconstruct:flowing_molten_lead
+
+#tfc:usable_in_tool_head_mold
+- tfc:metal/copper
+- tfc:metal/bismuth_bronze
+- tfc:metal/black_bronze
+- tfc:metal/bronze
+- tfcchannelcasting:dark_chocolate
+- tfcchannelcasting:flowing_dark_chocolate
+- tfcchannelcasting:milk_chocolate
+- tfcchannelcasting:flowing_milk_chocolate
+- tfcchannelcasting:white_chocolate
+- tfcchannelcasting:flowing_white_chocolate
+
+#tconstruct:tooltips/soup
+- #tconstruct:beetroot_soup
+- #tconstruct:mushroom_stew
+- #tconstruct:rabbit_stew
+
+#forge:molten_gold
+- #tconstruct:molten_gold
+
+#forge:kerosene
+- pneumaticcraft:kerosene
+- immersivepetroleum:kerosene
+
+#firmalife:yeast_starter
+- firmalife:yeast_starter
+- firmalife:flowing_yeast_starter
+
+#forge:molten_netherite
+- #tconstruct:molten_netherite
+
+#tfc:high_carbon_red_steel
+- tfc:metal/high_carbon_red_steel
+- tfc:metal/flowing_high_carbon_red_steel
+
+#tfc:vodka
+- tfc:vodka
+- tfc:flowing_vodka
+
+#forge:creosote
+- immersiveengineering:creosote
+
+#tfc:black_dye
+- tfc:black_dye
+- tfc:flowing_black_dye
+
+#tfc:rose_gold
+- tfc:metal/rose_gold
+- tfc:metal/flowing_rose_gold
+
+#forge:phenolic_resin
+- immersiveengineering:phenolic_resin
+
+#tfcchannelcasting:milk_chocolate
+- tfcchannelcasting:milk_chocolate
+- tfcchannelcasting:flowing_milk_chocolate
+
+#tconstruct:molten_pig_iron
+- tconstruct:molten_pig_iron
+- tconstruct:flowing_molten_pig_iron
+
+#forge:fuel
+- beyond_earth:fuel
+- beyond_earth:flowing_fuel
+
+#tfc:milks
+- minecraft:milk
+- firmalife:yak_milk
+- firmalife:goat_milk
+- firmalife:coconut_milk
+
+#forge:lubricant
+- pneumaticcraft:lubricant
+- immersivepetroleum:lubricant
+
+#tconstruct:molten_bronze
+- tconstruct:molten_bronze
+- tconstruct:flowing_molten_bronze
+
+#tfc:hydrating
+- #tfc:any_fresh_water
+
+#forge:beetroot_soup
+- #tconstruct:beetroot_soup
+
+#tconstruct:tooltips/water
+- #mantle:water
+
+#twilightforest:molten_knightmetal
+- twilightforest:molten_knightmetal?
+- twilightforest:flowing_molten_knightmetal?
+
+#forge:biofuel
+- createaddition:flowing_bioethanol
+- createaddition:bioethanol
+
+#tconstruct:molten_amethyst
+- tconstruct:molten_amethyst
+- tconstruct:flowing_molten_amethyst
+
+#tfc:limewater
+- tfc:limewater
+- tfc:flowing_limewater
+
+#forge:molten_signalum
+- #tconstruct:molten_signalum
+
+#tconstruct:molten_zinc
+- tconstruct:molten_zinc
+- tconstruct:flowing_molten_zinc
+
+#forge:molten_electrum
+- #tconstruct:molten_electrum
+
+#tfc:molten_metals
+- tfc:metal/bismuth
+- tfc:metal/bismuth_bronze
+- tfc:metal/black_bronze
+- tfc:metal/bronze
+- tfc:metal/brass
+- tfc:metal/copper
+- tfc:metal/gold
+- tfc:metal/nickel
+- tfc:metal/rose_gold
+- tfc:metal/silver
+- tfc:metal/tin
+- tfc:metal/zinc
+- tfc:metal/sterling_silver
+- tfc:metal/wrought_iron
+- tfc:metal/cast_iron
+- tfc:metal/pig_iron
+- tfc:metal/steel
+- tfc:metal/black_steel
+- tfc:metal/blue_steel
+- tfc:metal/red_steel
+- tfc:metal/weak_steel
+- tfc:metal/weak_blue_steel
+- tfc:metal/weak_red_steel
+- tfc:metal/high_carbon_steel
+- tfc:metal/high_carbon_black_steel
+- tfc:metal/high_carbon_blue_steel
+- tfc:metal/high_carbon_red_steel
+- tfc:metal/unknown
+- tfc_ie_addon:metal/aluminum
+- tfc_ie_addon:metal/lead
+- tfc_ie_addon:metal/uranium
+- tfc_ie_addon:metal/constantan
+- tfc_ie_addon:metal/electrum
+- firmalife:metal/stainless_steel
+- firmalife:metal/chromium
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#tconstruct:mushroom_stew
+- tconstruct:mushroom_stew
+- tconstruct:flowing_mushroom_stew
+
+#forge:molten_invar
+- #tconstruct:molten_invar
+
+#mantle:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#forge:molten_knightmetal
+- #twilightforest:molten_knightmetal?
+
+#firmalife:cream
+- firmalife:cream
+- firmalife:flowing_cream
+
+#tfc:brass
+- tfc:metal/brass
+- tfc:metal/flowing_brass
+
+#tfc:alcohols
+- tfc:beer
+- tfc:cider
+- tfc:rum
+- tfc:sake
+- tfc:vodka
+- tfc:whiskey
+- tfc:corn_whiskey
+- tfc:rye_whiskey
+- firmalife:pina_colada
+- firmalife:mead
+
+#tconstruct:molten_hepatizon
+- tconstruct:molten_hepatizon
+- tconstruct:flowing_molten_hepatizon
+
+#tfc:water
+- #tfc:infinite_water
+- tfc:spring_water
+
+#tfc:purple_dye
+- tfc:purple_dye
+- tfc:flowing_purple_dye
+
+#tfc:wrought_iron
+- tfc:metal/wrought_iron
+- tfc:metal/flowing_wrought_iron
+
+#create:no_infinite_draining
+- mekanismgenerators:bioethanol
+- mekanismgenerators:flowing_bioethanol
+- mekanismgenerators:deuterium
+- mekanismgenerators:flowing_deuterium
+- mekanismgenerators:fusion_fuel
+- mekanismgenerators:flowing_fusion_fuel
+- mekanismgenerators:tritium
+- mekanismgenerators:flowing_tritium
+- mekanism:hydrogen
+- mekanism:flowing_hydrogen
+- mekanism:oxygen
+- mekanism:flowing_oxygen
+- mekanism:chlorine
+- mekanism:flowing_chlorine
+- mekanism:sulfur_dioxide
+- mekanism:flowing_sulfur_dioxide
+- mekanism:sulfur_trioxide
+- mekanism:flowing_sulfur_trioxide
+- mekanism:sulfuric_acid
+- mekanism:flowing_sulfuric_acid
+- mekanism:hydrogen_chloride
+- mekanism:flowing_hydrogen_chloride
+- mekanism:hydrofluoric_acid
+- mekanism:flowing_hydrofluoric_acid
+- mekanism:uranium_oxide
+- mekanism:flowing_uranium_oxide
+- mekanism:uranium_hexafluoride
+- mekanism:flowing_uranium_hexafluoride
+- mekanism:ethene
+- mekanism:flowing_ethene
+- mekanism:sodium
+- mekanism:flowing_sodium
+- mekanism:superheated_sodium
+- mekanism:flowing_superheated_sodium
+- mekanism:brine
+- mekanism:flowing_brine
+- mekanism:lithium
+- mekanism:flowing_lithium
+- mekanism:steam
+- mekanism:flowing_steam
+- mekanism:heavy_water
+- mekanism:flowing_heavy_water
+- mekanism:nutritional_paste
+- mekanism:flowing_nutritional_paste
+
+#tfc:high_carbon_blue_steel
+- tfc:metal/high_carbon_blue_steel
+- tfc:metal/flowing_high_carbon_blue_steel
+
+#tconstruct:spilling/glass
+- #tconstruct:molten_glass
+- #tconstruct:molten_obsidian

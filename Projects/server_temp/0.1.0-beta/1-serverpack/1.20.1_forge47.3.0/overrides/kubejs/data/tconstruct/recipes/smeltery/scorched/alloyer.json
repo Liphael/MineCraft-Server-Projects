@@ -1,0 +1,16 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "mob_grinding_utils:tank"},
+  "transitionalItem": {"item": "create:gantry_shaft"},
+  "sequence": [
+    {"type": "create:deploying","ingredients": [{"tag": "create:gantry_shaft"}, {"item": "tconstruct:scorched_brick"}],"results": [{"item": "create:gantry_shaft"}]},
+    {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "tfc:fire_clay"}],"results": [{"item": "create:gantry_shaft"}]},
+    {"type": "create:deploying","ingredients": [{"tag": "create:gantry_shaft"}, {"item": "tconstruct:scorched_brick"}],"results": [{"item": "create:gantry_shaft"}]},
+    {"type": "create:deploying","ingredients": [{"tag": "create:gantry_shaft"}, {"item": "pneumaticcraft:heat_sink"}],"results": [{"item": "create:gantry_shaft"}]},
+    {"type": "create:deploying","ingredients": [{"tag": "create:gantry_shaft"}, {"item": "tconstruct:scorched_brick"}],"results": [{"item": "create:gantry_shaft"}]},
+    {"type": "create:deploying","ingredients": [{"tag": "create:gantry_shaft"}, {"item": "tfc:fire_clay"}],"results": [{"item": "create:gantry_shaft"}]},
+    {"type": "create:deploying","ingredients": [{"tag": "create:gantry_shaft"}, {"item": "tconstruct:scorched_brick"}],"results": [{"item": "create:gantry_shaft"}]}
+  ],
+  "results": [{"item": "tconstruct:scorched_alloyer"}],
+  "loops": 1
+}

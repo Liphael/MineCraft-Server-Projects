@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:fried_rice"
+  },
+  "hunger": 5,
+  "saturation": 3,
+  "decay_modifier": 1.25,
+  "protein": 1.0,
+  "grain": 2.5,
+  "vegetables": 2.0
+}

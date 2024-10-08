@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/redstone"
+  },
+  "result": {
+    "fluid": "kubejs:active_redstone",
+    "amount": 90
+  },
+  "temperature": 1000,
+  "time": 133
+}

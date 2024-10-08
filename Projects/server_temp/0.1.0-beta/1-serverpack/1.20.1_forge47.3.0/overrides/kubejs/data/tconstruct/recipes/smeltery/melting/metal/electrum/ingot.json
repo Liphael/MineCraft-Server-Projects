@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/electrum"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_electrum",
+    "amount": 100
+  },
+  "temperature": 760,
+  "time": 59
+}

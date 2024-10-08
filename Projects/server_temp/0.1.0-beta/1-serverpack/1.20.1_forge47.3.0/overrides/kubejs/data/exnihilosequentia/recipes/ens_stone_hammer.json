@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " wx",
+        " -w",
+        "-  "
+    ],
+    "key": {
+        "x": {
+            "tag": "forge:stone"
+        },
+        "-": {
+            "tag": "forge:rods/wooden"
+        },
+        "w": {
+            "tag": "forge:wires/copper"
+        }
+    },
+    "result": {
+        "item": "exnihilosequentia:stone_hammer"
+    }
+}

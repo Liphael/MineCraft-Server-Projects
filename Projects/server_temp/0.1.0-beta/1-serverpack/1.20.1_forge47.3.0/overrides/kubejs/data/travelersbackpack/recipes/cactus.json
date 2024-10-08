@@ -1,0 +1,39 @@
+{
+  "type": "travelersbackpack:backpack_shaped",
+
+  "pattern":
+  [
+    "BXB",
+    "BDB",
+    "FFF"
+  ],
+
+  "key":
+  {
+    "D":
+    {
+      "item": "travelersbackpack:standard"
+    },
+
+    "B":
+    {
+      "item": "tfc:plant/barrel_cactus"
+    },
+
+    "X":
+    {
+      "item": "minecraft:green_dye"
+    },
+
+    "F":
+    {
+      "tag": "forge:sand"
+    }
+  },
+
+  "result":
+  {
+    "item": "travelersbackpack:cactus",
+    "count": 1
+  }
+}

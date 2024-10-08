@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/chromium"
+  },
+  "result": {
+    "fluid": "firmalife:metal/chromium",
+    "amount": 100
+  },
+  "temperature": 950,
+  "time": 65
+}

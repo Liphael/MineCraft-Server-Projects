@@ -1,0 +1,7 @@
+{
+    "type":"immersiveengineering:metal_press",
+    "mold":"kubejs:hardened_press_head",
+    "result":{"tag":"forge:plates/cobalt"},"conditions":[{"value":{"tag":"forge:ingots/cobalt","type":"forge:tag_empty"},"type":"forge:not"},{"value":{"tag":"forge:plates/cobalt","type":"forge:tag_empty"},"type":"forge:not"}],
+    "input":{"tag":"forge:ingots/cobalt", "count": 2},
+    "energy":2400
+}

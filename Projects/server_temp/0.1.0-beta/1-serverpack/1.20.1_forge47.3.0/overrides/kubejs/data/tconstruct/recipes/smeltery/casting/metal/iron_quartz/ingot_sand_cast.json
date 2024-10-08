@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/ingot"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "forge:molten_iron_quartz",
+    "amount": 90
+  },
+  "result": "refinedstorage:quartz_enriched_iron",
+  "cooling_time": 50
+}

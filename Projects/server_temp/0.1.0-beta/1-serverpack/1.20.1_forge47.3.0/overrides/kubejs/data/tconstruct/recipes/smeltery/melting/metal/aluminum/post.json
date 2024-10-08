@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:alu_post"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_aluminum",
+    "amount": 300
+  },
+  "temperature": 425,
+  "time": 94
+}

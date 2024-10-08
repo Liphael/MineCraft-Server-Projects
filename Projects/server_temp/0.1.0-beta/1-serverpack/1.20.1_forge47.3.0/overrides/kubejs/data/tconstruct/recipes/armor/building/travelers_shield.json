@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " c ",
+    "cwc",
+    " c "
+  ],
+  "key": {
+    "c": {
+      "tag": "forge:rods/copper"
+    },
+    "w": {
+      "item": "tfc:metal/shield/copper"
+      }
+  },
+  "result": {
+    "item": "tconstruct:travelers_shield"
+  }
+}

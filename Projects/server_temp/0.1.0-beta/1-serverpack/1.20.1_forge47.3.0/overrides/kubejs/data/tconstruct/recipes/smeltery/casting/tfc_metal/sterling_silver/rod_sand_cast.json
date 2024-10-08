@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/rod"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "forge:molten_sterling_silver",
+    "amount": 50
+  },
+  "result": {
+    "tag": "forge:rods/sterling_silver"
+  },
+  "cooling_time": 29
+}

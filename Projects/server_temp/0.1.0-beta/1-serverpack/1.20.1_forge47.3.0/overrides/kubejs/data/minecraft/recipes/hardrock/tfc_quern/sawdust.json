@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "tag": "forge:rods/wooden"
+  },
+  "result": {
+    "item": "immersiveengineering:dust_wood",
+    "count": 1
+  }
+}

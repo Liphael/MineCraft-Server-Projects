@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "firmalife:ice_shavings"},
+    {"item": "firmalife:ice_shavings"},
+    {"item": "coffee_delight:cap_cappuccino"}
+  ],
+  "result": {
+    "item": "coffee_delight:cap_iced_cappuccino",
+    "count": 1
+  }
+}

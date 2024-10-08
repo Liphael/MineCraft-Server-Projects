@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/uranium"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_uranium",
+    "amount": 900
+  },
+  "temperature": 830,
+  "time": 183
+}

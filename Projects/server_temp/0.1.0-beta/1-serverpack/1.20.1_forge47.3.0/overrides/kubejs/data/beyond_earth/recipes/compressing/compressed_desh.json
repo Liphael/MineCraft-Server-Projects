@@ -1,0 +1,20 @@
+{
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "item": "beyond_earth:compressed_steel"
+    },
+    {
+      "item": "tfc:glue"
+    },
+    {
+      "tag": "forge:plates/desh"
+    }
+  ],
+  "pressure": 2.0,
+  "results": [
+    {
+      "item": "beyond_earth:compressed_desh"
+    }
+  ]
+}

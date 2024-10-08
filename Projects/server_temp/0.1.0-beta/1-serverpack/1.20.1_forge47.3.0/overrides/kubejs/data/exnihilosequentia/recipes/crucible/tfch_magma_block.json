@@ -1,0 +1,11 @@
+{
+    "type":"exnihilosequentia:crucible",
+    "input":{
+        "tag":"forge:magma_block"
+        },
+    "amount":10,
+    "fluidResult":{
+        "fluid":"minecraft:lava"
+        },
+    "crucibleType":"fired"
+}

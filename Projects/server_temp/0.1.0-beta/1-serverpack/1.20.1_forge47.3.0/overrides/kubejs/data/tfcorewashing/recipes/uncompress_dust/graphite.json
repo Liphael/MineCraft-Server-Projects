@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:dirty_dust_graphite"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:dirty_pile_graphite",
+    "count": 4
+  }
+}

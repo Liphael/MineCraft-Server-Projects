@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "forge:ingots/tin"
+	},
+	"result": {
+		"item": "tfc:metal/rod/tin",
+		"count": 2
+	}
+}

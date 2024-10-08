@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "forge:ingots/blue_steel"
+	},
+	"result": {
+		"item": "tfc:metal/rod/blue_steel",
+		"count": 2
+	}
+}

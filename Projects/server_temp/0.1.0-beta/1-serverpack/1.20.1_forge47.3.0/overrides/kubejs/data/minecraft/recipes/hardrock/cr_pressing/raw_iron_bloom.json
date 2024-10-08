@@ -1,0 +1,15 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "tfc:raw_iron_bloom"},
+  "transitionalItem": {"item": "tfc:raw_iron_bloom"},
+  "sequence": [
+    {"type": "create:filling","ingredients": [{"item": "tfc:raw_iron_bloom"},{"fluid": "minecraft:lava","nbt": {},"amount": 125}],"results": [{"item": "tfc:raw_iron_bloom"}]},
+    {"type": "create:pressing","ingredients": [{"item": "create:unprocessed_obsidian_sheet"}],"results": [{"item": "tfc:raw_iron_bloom"}]},
+    {"type": "create:pressing","ingredients": [{"item": "create:unprocessed_obsidian_sheet"}],"results": [{"item": "tfc:raw_iron_bloom"}]},
+    {"type": "create:pressing","ingredients": [{"item": "create:unprocessed_obsidian_sheet"}],"results": [{"item": "tfc:raw_iron_bloom"}]},
+    {"type": "create:pressing","ingredients": [{"item": "create:unprocessed_obsidian_sheet"}],"results": [{"item": "tfc:raw_iron_bloom"}]},
+    {"type": "create:pressing","ingredients": [{"item": "create:unprocessed_obsidian_sheet"}],"results": [{"item": "tfc:refined_iron_bloom"}]}
+  ],
+  "results": [{"item": "tfc:refined_iron_bloom"}],
+  "loops": 2
+}

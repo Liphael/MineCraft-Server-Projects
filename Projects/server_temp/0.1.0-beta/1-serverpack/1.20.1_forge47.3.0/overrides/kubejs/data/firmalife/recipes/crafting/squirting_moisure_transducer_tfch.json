@@ -1,0 +1,32 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BCB",
+    "SOS",
+    "YMY"
+  ],
+  "key": {
+    "Y": {
+      "item": "minecraft:blue_stained_glass_pane"
+    },
+    "C": {
+      "item": "firmalife:embedded_pipe"
+    },
+    "S": {
+      "tag": "forge:sheets/stainless_steel"
+    },
+    "O": {
+        "item": "adchimneys:metal_pump"
+    },
+    "B": {
+      "tag": "forge:rods/stainless_steel"
+    },
+    "M": {
+      "item": "tfc:brass_mechanisms"
+    }
+  },
+  "result": {
+    "item": "firmalife:squirting_moisture_transducer"
+  }
+}

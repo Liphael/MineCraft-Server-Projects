@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:slab_sheetmetal_copper"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_copper",
+    "amount": 200
+  },
+  "temperature": 500,
+  "time": 50
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "forge:active_redstone",
+    "amount": 90
+  },
+  "result": "minecraft:redstone_block",
+  "cooling_time": 250
+}

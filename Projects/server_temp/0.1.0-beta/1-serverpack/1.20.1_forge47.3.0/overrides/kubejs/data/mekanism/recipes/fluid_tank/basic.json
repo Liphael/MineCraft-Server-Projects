@@ -1,0 +1,13 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "mob_grinding_utils:tank"},
+    "transitionalItem": {"item": "mob_grinding_utils:tank"},
+    "sequence": [
+      {"type": "create:deploying","ingredients": [{"item": "mob_grinding_utils:tank"}, {"item": "tfc:metal/double_sheet/blue_steel"}],"results": [{"item": "mob_grinding_utils:tank"}]},
+      {"type": "create:pressing","ingredients": [{"item": "mob_grinding_utils:tank"}, {"item": "tfc:metal/double_sheet/black_steel"}],"results": [{"item": "mob_grinding_utils:tank"}]},
+      {"type": "create:deploying","ingredients": [{"item": "mob_grinding_utils:tank"}, {"item": "tfc:metal/double_sheet/blue_steel"}],"results": [{"item": "mob_grinding_utils:tank"}]},
+      {"type": "create:pressing","ingredients": [{"item": "mob_grinding_utils:tank"}, {"item": "tfc:metal/double_sheet/black_steel"}],"results": [{"item": "mekanism:basic_fluid_tank"}]}
+    ],
+    "results": [{"item":"mekanism:basic_fluid_tank"}],
+    "loops": 1
+  }

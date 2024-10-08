@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"DND"
+	],
+	"key": {
+		"D": {
+			"tag": "forge:rods/black_steel"
+		},
+		"N": {
+			"item": "waterstrainer:obsidian_mesh"
+		}
+	},
+	"result": {
+		"item": "waterstrainer:strainer_survivalist_reinforced"
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:tomato_sauce"
+  },
+  "category": "vegetable",
+  "hunger": 2,
+  "saturation": 1,
+  "decay_modifier": 1.25,
+  "vegetables": 1
+}

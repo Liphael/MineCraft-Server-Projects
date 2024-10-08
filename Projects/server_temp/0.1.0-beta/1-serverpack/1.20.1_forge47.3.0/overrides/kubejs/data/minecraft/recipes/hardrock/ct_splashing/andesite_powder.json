@@ -1,0 +1,41 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "kubejs:andesite_rock_powder"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfcorewashing:dirty_pile_sphalerite",
+        "chance": 0.01
+      },
+      {
+        "item": "tfcorewashing:dirty_pile_gold",
+        "chance": 0.01
+      },
+      {
+        "item": "tfcorewashing:dirty_pile_silver",
+        "chance": 0.005
+      },
+      {
+        "item": "tfcorewashing:pile_black_sand",
+        "chance": 0.15
+      },
+      {
+        "item": "minecraft:flint",
+        "chance": 0.05
+      },
+      {
+        "item": "tfcorewashing:dirty_pile_copper",
+        "chance": 0.03
+      }
+    ],
+    "processingTime": 400
+}

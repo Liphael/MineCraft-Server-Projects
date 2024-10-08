@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:double_ingots/uranium"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_uranium",
+    "amount": 200
+  },
+  "temperature": 830,
+  "time": 91
+}

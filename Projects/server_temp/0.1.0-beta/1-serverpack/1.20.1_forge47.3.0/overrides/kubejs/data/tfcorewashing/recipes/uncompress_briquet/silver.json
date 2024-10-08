@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:briquet_silver"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:pellet_silver",
+    "count": 4
+  }
+}

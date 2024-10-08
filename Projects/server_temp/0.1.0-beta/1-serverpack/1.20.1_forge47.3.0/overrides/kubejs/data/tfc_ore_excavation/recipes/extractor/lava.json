@@ -1,0 +1,18 @@
+{
+  "type": "createoreexcavation:extracting",
+  "drill": {
+    "tag": "createoreexcavation:high_tier_drills"
+  },
+  "name": "{\"translate\":\"block.minecraft.lava\"}",
+  "weight": 20,
+  "ticks": 40,
+  "biomeWhitelist": "tfc:is_vein",
+  "stress": 512,
+  "neverFinite": false,
+  "amountMin": 1.0,
+  "amountMax": 4.0,
+  "output": {
+    "amount": 250,
+    "fluid": "minecraft:lava"
+  }
+}

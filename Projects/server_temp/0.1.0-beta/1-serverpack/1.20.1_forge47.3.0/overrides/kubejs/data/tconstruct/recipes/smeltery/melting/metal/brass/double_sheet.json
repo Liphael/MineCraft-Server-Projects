@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:double_sheets/brass"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_brass",
+    "amount": 400
+  },
+  "temperature": 605,
+  "time": 108
+}

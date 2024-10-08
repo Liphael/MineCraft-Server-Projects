@@ -1,0 +1,19 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "tfc:douglas_fir_logs"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:wood/support/douglas_fir",
+    "count": 3
+    },
+    {
+      "item": "immersiveengineering:dust_wood",
+    "count": 2
+    }
+  ],
+  "processingTime": 50
+}

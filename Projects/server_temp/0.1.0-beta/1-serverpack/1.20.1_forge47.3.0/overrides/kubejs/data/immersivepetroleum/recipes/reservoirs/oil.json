@@ -1,0 +1,20 @@
+{
+  "type": "immersivepetroleum:reservoirs",
+  "fluid": "immersivepetroleum:crudeoil",
+  "fluidminimum": 2500000,
+  "fluidcapacity": 32500000,
+  "fluidtrace": 6,
+  "weight": 40,
+  "dimensions": {
+    "isBlacklist": false,
+    "list": [
+      "minecraft:overworld",
+      "minecraft:nether"
+    ]
+  },
+  "biomes": {
+    "isBlacklist": true,
+    "list": []
+  },
+  "name": "oil"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:wires/compressed_iron"
+  },
+  "result": {
+    "fluid": "tfc:metal/wrought_iron",
+    "amount": 50
+  },
+  "temperature": 900,
+  "time": 40
+}

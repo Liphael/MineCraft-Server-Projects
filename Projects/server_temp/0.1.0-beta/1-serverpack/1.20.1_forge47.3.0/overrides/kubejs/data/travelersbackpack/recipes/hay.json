@@ -1,0 +1,29 @@
+{
+  "type": "travelersbackpack:backpack_shaped",
+
+  "pattern":
+  [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+
+  "key":
+  {
+    "A":
+    {
+      "tag": "forge:grain_crops"
+    },
+
+    "B":
+    {
+      "item": "travelersbackpack:standard"
+    }
+  },
+
+  "result":
+  {
+    "item": "travelersbackpack:hay",
+    "count": 1
+  }
+}

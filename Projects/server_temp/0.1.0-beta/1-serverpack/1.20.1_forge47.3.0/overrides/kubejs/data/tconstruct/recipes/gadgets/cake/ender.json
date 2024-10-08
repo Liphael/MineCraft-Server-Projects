@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "tfc:cake"
+    },
+    {
+      "fluidTag": "forge:ender",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:ender_cake"
+    }
+  ]
+}

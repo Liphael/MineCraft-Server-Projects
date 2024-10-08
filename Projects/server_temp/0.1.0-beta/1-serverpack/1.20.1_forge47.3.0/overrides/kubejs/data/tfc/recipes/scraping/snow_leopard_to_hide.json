@@ -1,0 +1,13 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:scraping",
+  "ingredient": {
+    "item": "untamedwilds:hide_bigcat_snow_leopard"
+  },
+  "input_texture": "untamedwilds:item/hide/big_cat_leopard",
+  "output_texture": "tfc:item/hide/large/scraped",
+  "result": {
+    "item": "tfc:large_raw_hide",
+    "count": 1
+  }
+}

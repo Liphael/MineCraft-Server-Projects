@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:rods/stainless_steel",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/rod"
+  },
+  "fluid": {
+    "tag": "firmalife:stainless_steel",
+    "amount": 50
+  },
+  "result": {
+    "tag": "forge:rods/stainless_steel"
+  },
+  "cooling_time": 35
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:slab_sheetmetal_lead"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_lead",
+    "amount": 200
+  },
+  "temperature": 330,
+  "time": 43
+}

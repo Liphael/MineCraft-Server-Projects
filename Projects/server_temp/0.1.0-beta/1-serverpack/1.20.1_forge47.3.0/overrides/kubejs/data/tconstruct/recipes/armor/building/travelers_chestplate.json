@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "scs",
+    "sds"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:leather_chestplate"
+    },
+    "s": {
+      "tag": "forge:sheets/copper"
+    },
+    "d": {
+      "tag": "forge:double_sheets/copper"
+    }
+  },
+  "result": {
+    "item": "tconstruct:travelers_chestplate"
+  }
+}

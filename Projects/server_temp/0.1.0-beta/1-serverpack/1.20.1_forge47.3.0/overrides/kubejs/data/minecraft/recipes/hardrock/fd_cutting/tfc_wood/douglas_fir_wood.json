@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:wood/wood/douglas_fir"
+    }
+  ],
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "axe_strip"
+  },
+  "result": [
+    {
+      "item": "tfc:wood/stripped_wood/douglas_fir"
+    },
+    {
+      "item": "farmersdelight:tree_bark"
+    }
+  ],
+  "sound": "minecraft:item.axe.strip"
+}

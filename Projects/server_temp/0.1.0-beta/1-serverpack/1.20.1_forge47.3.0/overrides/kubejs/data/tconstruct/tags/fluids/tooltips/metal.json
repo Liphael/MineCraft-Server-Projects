@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "values": [
+    "#forge:molten_cobalt",
+    "#tconstruct:molten_debris",
+    "#tconstruct:molten_slimesteel",
+    "#tconstruct:molten_amethyst_bronze",
+    "#forge:molten_manyullyn",
+    "#forge:molten_hepatizon",
+    "#tconstruct:molten_queens_slime",
+    "#forge:molten_netherite",
+    "#tconstruct:molten_soulsteel",
+    "#tconstruct:molten_knightslime",
+    "#forge:molten_platinum",
+    "#forge:molten_tungsten",
+    "#forge:molten_osmium",
+    "#forge:molten_invar",
+    "#forge:molten_pewter",
+    "#forge:molten_enderium",
+    "#forge:molten_lumium",
+    "#forge:molten_signalum",
+    "#forge:molten_refined_glowstone",
+    "#forge:molten_refined_obsidian"
+  ]
+}

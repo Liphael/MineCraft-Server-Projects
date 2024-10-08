@@ -1,0 +1,19 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "tfc:lumber"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:stick",
+    "count": 4
+    },
+    {
+      "item": "immersiveengineering:dust_wood",
+    "count": 1
+    }
+  ],
+  "processingTime": 50
+}

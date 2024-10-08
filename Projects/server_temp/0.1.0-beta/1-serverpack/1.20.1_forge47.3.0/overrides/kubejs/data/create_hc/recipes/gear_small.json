@@ -1,0 +1,10 @@
+{
+  "type": "choppingblock:chopping",
+  "ingredient": {
+    "tag": "minecraft:wooden_slabs"
+  },
+  "result": {
+    "item": "create_hc:gear_small",
+    "count": 1
+  }
+}

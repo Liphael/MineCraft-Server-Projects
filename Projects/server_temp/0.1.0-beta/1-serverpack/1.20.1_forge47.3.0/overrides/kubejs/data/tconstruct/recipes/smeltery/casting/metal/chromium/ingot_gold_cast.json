@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "fluid": {
+    "tag": "firmalife:chromium",
+    "amount": 100
+  },
+  "result": "firmalife:metal/ingot/chromium",
+  "cooling_time": 50
+}

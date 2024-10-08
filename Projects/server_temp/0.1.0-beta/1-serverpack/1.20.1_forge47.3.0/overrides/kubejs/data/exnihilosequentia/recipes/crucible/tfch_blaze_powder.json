@@ -1,0 +1,11 @@
+{
+    "type":"exnihilosequentia:crucible",
+    "input":{
+        "item":"minecraft:blaze_powder"
+        },
+    "amount":50,
+    "fluidResult":{
+        "fluid":"minecraft:lava"
+        },
+    "crucibleType":"fired"
+}

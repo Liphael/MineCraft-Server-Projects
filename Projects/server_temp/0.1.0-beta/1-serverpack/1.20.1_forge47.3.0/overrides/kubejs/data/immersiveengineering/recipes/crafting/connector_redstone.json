@@ -1,0 +1,10 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":["i","r","b"],
+    "key":{
+        "i":{"tag":"forge:rods/rose_gold"},
+        "b":{"tag":"immersiveengineering:connector_insulator"},
+        "r":{"tag":"forge:dusts/redstone"}
+    },
+    "result":{"item":"immersiveengineering:connector_redstone"}
+}

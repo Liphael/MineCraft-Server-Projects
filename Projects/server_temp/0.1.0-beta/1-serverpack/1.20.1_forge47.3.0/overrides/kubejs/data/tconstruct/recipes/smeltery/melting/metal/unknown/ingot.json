@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/unknown"
+  },
+  "result": {
+    "fluid": "tfc:metal/unknown",
+    "amount": 100
+  },
+  "temperature": 350,
+  "time": 40
+}

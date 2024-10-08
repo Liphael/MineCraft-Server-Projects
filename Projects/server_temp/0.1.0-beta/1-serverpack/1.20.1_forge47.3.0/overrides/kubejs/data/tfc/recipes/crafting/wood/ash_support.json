@@ -1,0 +1,10 @@
+{
+  "type": "choppingblock:chopping",
+  "ingredient": {
+    "tag": "tfc:ash_logs"
+  },
+  "result": {
+    "item": "tfc:wood/support/ash",
+    "count": 2
+  }
+}

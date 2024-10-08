@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:double_sheets/lead"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_lead",
+    "amount": 400
+  },
+  "temperature": 330,
+  "time": 86
+}

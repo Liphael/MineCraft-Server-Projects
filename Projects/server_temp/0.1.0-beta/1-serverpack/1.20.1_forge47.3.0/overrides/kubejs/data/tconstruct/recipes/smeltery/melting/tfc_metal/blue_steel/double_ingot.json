@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:double_ingots/blue_steel"
+    }
+  ],
+  "result": {
+    "fluid": "tfc:metal/blue_steel",
+    "amount": 200
+  },
+  "temperature": 950,
+  "time": 135
+}

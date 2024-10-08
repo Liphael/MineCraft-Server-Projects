@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "item": "immersiveengineering:wirecoil_copper"
+    },
+    {
+      "item": "immersiveengineering:wirecoil_copper_ins"
+    },
+    {
+      "item": "createaddition:copper_spool"
+    },
+    {
+      "item": "createaddition:festive_spool"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_copper",
+    "amount": 100
+  },
+  "temperature": 500,
+  "time": 35
+}

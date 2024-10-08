@@ -1,0 +1,10 @@
+{
+  "type": "choppingblock:chopping",
+  "ingredient": {
+    "tag": "tfc:hickory_logs"
+  },
+  "result": {
+    "item": "tfc:wood/support/hickory",
+    "count": 2
+  }
+}

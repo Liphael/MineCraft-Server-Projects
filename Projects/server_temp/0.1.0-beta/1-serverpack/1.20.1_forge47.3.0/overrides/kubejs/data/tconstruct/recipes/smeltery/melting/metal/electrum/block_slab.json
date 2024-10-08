@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:slab_storage_electrum"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_electrum",
+    "amount": 450
+  },
+  "temperature": 760,
+  "time": 135
+}

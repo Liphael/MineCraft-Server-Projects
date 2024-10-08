@@ -1,0 +1,14 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:double_sheets/bronze"
+  },
+  "result": {
+    "item": "steampowered:bronze_large_cogwheel"
+  },
+  "tier": 1,
+  "rules": [
+    "hit_last",
+    "draw_second_last"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+	id: "1C0CF5C66C7CAB72"
+	group: ""
+	order_index: 4
+	filename: "tips"
+	title: "=== TIPS ==="
+	icon: "minecraft:diamond"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [
+		{
+			x: -2.0d
+			y: -6.5d
+			width: 17.0d
+			height: 6.0d
+			rotation: 0.0d
+			image: "kubejs:textures/item/img_ores.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+			dependency: "68DC32CE4CE4B4F1"
+		}
+		{
+			x: -1.5d
+			y: -10.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "kubejs:textures/item/img_wiki.png"
+			hover: ["Click Link to full sheet"]
+			click: "https://docs.google.com/spreadsheets/d/1NUX6Mg_ox97DFeRzkZOfBgVDccnKpE2aV22bfoZRl_k/edit#gid=0"
+			dev: false
+			corner: false
+			dependency: "68DC32CE4CE4B4F1"
+		}
+	]
+	quests: [{
+		title: "Quick Search"
+		icon: {
+			id: "tfc:metal/pickaxe/copper"
+			Count: 1b
+			tag: {
+				Damage: 0
+			}
+			ForgeCaps: {
+				"tfc:item_heat": {
+					heat: 0.0f
+					ticks: 0L
+				}
+			}
+		}
+		x: -3.0d
+		y: -10.5d
+		shape: "gear"
+		description: [
+			""
+			"This table will help you quickly find metals in specific rock layers"
+			""
+			"The \"b\" key opens the geologist's map. on it you will see what stones you have met so far and what layers of rocks are under them"
+			""
+			""
+			"The \"n\" key allows you to plot your own waypoints on the geologist's map"
+		]
+		dependencies: ["68DC32CE4CE4B4F1"]
+		hide: true
+		size: 3.0d
+		id: "2C2C004C26DB9E93"
+	}]
+	quest_links: [ ]
+}

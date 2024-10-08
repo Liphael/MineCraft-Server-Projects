@@ -1,0 +1,18 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "immersiveengineering:squeezer",
+  "fluid": {
+    "fluid": "createaddition:seed_oil",
+    "amount": 125
+  },
+  "result":{
+    "item":"kubejs:seed_biomass"
+  },
+  "input": {
+    "type": "tfc:not_rotten",
+          "ingredient": {
+            "item": "tfc:food/olive"
+          }
+  },
+  "energy": 6400
+}

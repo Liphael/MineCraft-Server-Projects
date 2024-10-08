@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SRS",
+    "SIS"
+  ],
+  "key": {
+    "S": {
+      "item": "tfc:metal/double_sheet/black_steel"
+    },
+    "I": {
+      "item": "create_electric_stonks:reinforced_motor"
+    },
+    "R": {
+      "item": "create:encased_fan"
+    }
+  },
+  "result": {
+    "item": "mob_grinding_utils:fan"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:steel_slope"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_steel",
+    "amount": 100
+  },
+  "temperature": 950,
+  "time": 35
+}

@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:heavy_engineering"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_steel",
+    "amount": 600
+  },
+  "temperature": 900,
+  "time": 175,
+        "byproducts": [
+          {
+            "fluid": "tconstruct:molten_electrum",
+            "amount": 200
+          },
+          {
+            "fluid": "tconstruct:molten_brass",
+            "amount": 50
+          }
+        ]
+}

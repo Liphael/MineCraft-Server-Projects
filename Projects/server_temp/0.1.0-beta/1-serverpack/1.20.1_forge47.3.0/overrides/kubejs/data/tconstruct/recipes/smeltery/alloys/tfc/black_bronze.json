@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "tag": "forge:molten_copper",
+      "amount": 60
+    },
+    {
+      "tag": "forge:molten_gold",
+      "amount": 20
+    },
+    {
+      "tag": "forge:molten_silver",
+      "amount": 20
+    }
+  ],
+  "result": {
+    "fluid": "tfc:metal/black_bronze",
+    "amount": 100
+  },
+  "temperature": 800
+}

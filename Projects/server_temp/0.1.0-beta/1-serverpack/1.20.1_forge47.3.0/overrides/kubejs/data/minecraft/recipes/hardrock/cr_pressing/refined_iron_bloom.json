@@ -1,0 +1,15 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "tfc:refined_iron_bloom"},
+  "transitionalItem": {"item": "tfc:metal/ingot/cast_iron"},
+  "sequence": [
+    {"type": "create:filling","ingredients": [{"item": "tfc:refined_iron_bloom"},{"fluid": "minecraft:lava","nbt": {},"amount": 125}],"results": [{"item": "tfc:refined_iron_bloom"}]},
+    {"type": "create:pressing","ingredients": [{"item": "tfc:refined_iron_bloom"}],"results": [{"item": "tfc:metal/ingot/cast_iron"}]},
+    {"type": "create:pressing","ingredients": [{"item": "tfc:refined_iron_bloom"}],"results": [{"item": "tfc:metal/ingot/cast_iron"}]},
+    {"type": "create:pressing","ingredients": [{"item": "tfc:refined_iron_bloom"}],"results": [{"item": "tfc:metal/ingot/cast_iron"}]},
+    {"type": "create:pressing","ingredients": [{"item": "tfc:refined_iron_bloom"}],"results": [{"item": "tfc:metal/ingot/cast_iron"}]},
+    {"type": "create:pressing","ingredients": [{"item": "tfc:refined_iron_bloom"}],"results": [{"item": "tfc:metal/ingot/wrought_iron"}]}
+  ],
+  "results": [{"item": "tfc:metal/ingot/wrought_iron"}],
+  "loops": 2
+}

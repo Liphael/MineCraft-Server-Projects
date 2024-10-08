@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/rod"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "tfc:cast_iron",
+    "amount": 50
+  },
+  "result": "tfc:metal/rod/cast_iron",
+  "cooling_time": 45
+}

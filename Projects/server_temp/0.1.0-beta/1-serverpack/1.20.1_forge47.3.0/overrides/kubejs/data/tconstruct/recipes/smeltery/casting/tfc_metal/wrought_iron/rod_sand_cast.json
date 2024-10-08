@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/rod"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "forge:molten_wrought_iron",
+    "amount": 50
+  },
+  "result": {
+    "tag": "forge:rods/wrought_iron"
+  },
+  "cooling_time": 21
+}

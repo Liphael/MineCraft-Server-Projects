@@ -1,0 +1,18 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/andesite"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:andesite_rock_powder"
+    },
+    {
+      "item": "kubejs:andesite_rock_powder",
+      "chance": 0.3
+    }
+  ],
+  "processingTime": 400
+}

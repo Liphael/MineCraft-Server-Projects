@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "coffee_delight:quiche_side"
+  },
+  "hunger": 6,
+  "saturation": 0.5,
+  "decay_modifier": 1.2,
+  "grain": 2.0,
+  "vegetables": 1.0
+}

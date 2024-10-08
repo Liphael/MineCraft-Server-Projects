@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:rods/black_steel"
+  },
+  "result": {
+    "fluid": "tfc:metal/black_steel",
+    "amount": 50
+  },
+  "temperature": 900,
+  "time": 30
+}

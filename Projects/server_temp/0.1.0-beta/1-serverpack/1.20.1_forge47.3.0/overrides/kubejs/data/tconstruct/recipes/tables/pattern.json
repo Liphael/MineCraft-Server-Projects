@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "htm:plant_pulp"
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:pattern"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "kubejs:compressed_mesh"
+  },
+  "result": {
+    "fluid": "tfc:metal/wrought_iron",
+    "amount": 25
+  },
+  "temperature": 900,
+  "time": 20
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:slab_sheetmetal_nickel"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_nickel",
+    "amount": 200
+  },
+  "temperature": 950,
+  "time": 65
+}

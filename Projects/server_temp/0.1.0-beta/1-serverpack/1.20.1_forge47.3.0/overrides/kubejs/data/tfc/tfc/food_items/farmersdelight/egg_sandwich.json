@@ -1,0 +1,13 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:egg_sandwich"
+  },
+  "category": "grain",
+  "hunger": 5,
+  "saturation": 3,
+  "decay_modifier": 1.25,
+  "protein": 3,
+  "grain": 1.5,
+  "dairy": 0.6
+}

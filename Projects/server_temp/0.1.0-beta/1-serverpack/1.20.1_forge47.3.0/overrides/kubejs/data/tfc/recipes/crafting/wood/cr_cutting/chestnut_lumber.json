@@ -1,0 +1,19 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:wood/support/chestnut"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:wood/lumber/chestnut",
+    "count": 10
+    },
+    {
+      "item": "immersiveengineering:dust_wood",
+    "count": 2
+    }
+  ],
+  "processingTime": 50
+}

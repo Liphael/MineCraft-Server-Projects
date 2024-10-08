@@ -1,0 +1,31 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "twilightforest:mayapple"
+    },
+    {
+      "item": "twilightforest:moss_patch"
+    },
+    {
+      "item": "twilightforest:torchberry_plant"
+    },
+    {
+      "item": "twilightforest:liveroot"
+    },
+    {
+      "item": "twilightforest:fiddlehead"
+    },
+    {
+      "item": "twilightforest:root_strand"
+    }
+  ],
+  "result": {
+    "item": "twilightdelight:thousand_plant_stew"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

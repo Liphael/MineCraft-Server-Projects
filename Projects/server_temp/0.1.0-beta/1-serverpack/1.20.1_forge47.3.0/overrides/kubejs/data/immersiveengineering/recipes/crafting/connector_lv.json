@@ -1,0 +1,14 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "i",
+        "w",
+        "c"
+        ],
+    "key":{
+        "i":{"tag":"forge:ingots/copper"},
+        "w":{"tag":"forge:wires/copper"},
+        "c":{"tag":"immersiveengineering:connector_insulator"}
+        },
+    "result":{"item":"immersiveengineering:connector_lv"}
+}

@@ -1,0 +1,89 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/slideshows/tfch1.jpg
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 149
+  width = 342
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 5b5c6aef-b052-4423-9f0e-0e3cf6b8100e1676384067740
+  y = 129
+  height = 84
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = e596b28d-290f-4dbd-9338-e03a90098b061676384067751
+  y = -1000000
+  height = 0
+}
+
+customization {
+  custom_color_hex = #1a1a1a
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 149
+  width = 342
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = a7c488b2-ebe6-4530-ae2f-7464d44010c21676384067751
+  y = 280
+  height = 10
+}
+
+customization {
+  path = config/fancymenu/images/sr_presents.png
+  orientation = top-centered
+  x = -121
+  width = 126
+  action = addtexture
+  actionid = f91ae95b-ad4e-4601-97ef-fe98d4c1f0e91676385809060
+  y = 8
+  height = 9
+}
+
+customization {
+  path = config/fancymenu/images/mojangstudio.png
+  orientation = bottom-centered
+  x = -102
+  width = 201
+  action = addtexture
+  actionid = 5297fc0d-9ddb-4f7e-970e-a3bfa8e420ba1676385867044
+  y = -162
+  height = 157
+}
+
+customization {
+  path = config/fancymenu/images/logo-tfch-1182.png
+  orientation = top-centered
+  x = -187
+  width = 363
+  action = addtexture
+  actionid = ad458f09-f007-461c-9d07-77c30879f67b1699705011466
+  y = 19
+  height = 100
+}
+

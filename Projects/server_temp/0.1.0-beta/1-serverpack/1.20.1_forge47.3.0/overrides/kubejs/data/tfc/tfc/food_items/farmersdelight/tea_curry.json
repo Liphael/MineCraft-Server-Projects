@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersrespite:tea_curry"
+  },
+  "hunger": 10,
+  "saturation": 0.8,
+  "decay_modifier": 0.8,
+  "protein": 1.0,
+  "vegetables": 2.0
+}

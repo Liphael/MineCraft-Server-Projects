@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:rods/stainless_steel"
+  },
+  "result": {
+    "fluid": "firmalife:metal/stainless_steel",
+    "amount": 50
+  },
+  "temperature": 950,
+  "time": 20
+}

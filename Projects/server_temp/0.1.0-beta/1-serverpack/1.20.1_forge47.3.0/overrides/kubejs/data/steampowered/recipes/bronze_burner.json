@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SBS",
+    "CCC"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:double_sheets/bronze"
+    },
+    "B": {
+      "item": "immersiveengineering:metal_barrel"
+    },
+    "C": {
+      "item": "tfc:fire_bricks"
+    }
+  },
+  "result": {
+    "item": "steampowered:bronze_burner",
+    "count": 1
+  }
+}

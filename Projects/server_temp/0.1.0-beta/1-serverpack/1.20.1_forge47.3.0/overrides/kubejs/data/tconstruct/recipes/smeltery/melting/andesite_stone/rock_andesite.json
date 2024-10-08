@@ -1,0 +1,17 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "item": "tfc:rock/loose/andesite"
+    },
+    {
+      "item": "tfc:brick/andesite"
+    }
+  ],
+  "result": {
+    "fluid": "kubejs:andesite_stone",
+    "amount": 10
+  },
+  "temperature": 600,
+  "time": 53
+}

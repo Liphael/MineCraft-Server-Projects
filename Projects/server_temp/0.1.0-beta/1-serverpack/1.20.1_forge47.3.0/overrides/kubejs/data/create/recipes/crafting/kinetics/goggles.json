@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XSX",
+    "GPG"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:2panes"
+    },
+    "P": {
+      "tag": "forge:wires/gold"
+    },
+    "S": {
+      "tag": "forge:string"
+    },
+    "X": {
+      "item": "sewingkit:leather_strip"
+    }
+  },
+  "result": {
+    "item": "create:goggles"
+  }
+}

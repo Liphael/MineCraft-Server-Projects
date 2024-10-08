@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:radiator"
+  },
+  "result": {
+    "fluid": "tfc:metal/black_steel",
+    "amount": 400
+  },
+  "temperature": 900,
+  "time": 150,
+        "byproducts": [
+          {
+            "fluid": "tconstruct:molten_steel",
+            "amount": 400
+          },
+          {
+            "fluid": "tconstruct:molten_copper",
+            "amount": 100
+          }
+        ]
+}

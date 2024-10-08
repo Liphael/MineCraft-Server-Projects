@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfc:sand/brown"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:pile_brown_sand",
+    "count": 4
+  }
+}

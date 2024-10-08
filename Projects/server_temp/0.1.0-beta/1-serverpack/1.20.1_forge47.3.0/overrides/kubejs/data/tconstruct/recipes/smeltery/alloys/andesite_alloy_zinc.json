@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "tag": "tfc:andesite_stone",
+      "amount": 90
+    },
+    {
+      "tag": "forge:molten_zinc",
+      "amount": 10
+    }
+  ],
+  "result": {
+    "fluid": "kubejs:andesite_alloy",
+    "amount": 100
+  },
+  "temperature": 605
+}

@@ -1,0 +1,13 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:rice_roll_medley_block"
+  },
+  "category": "vegetable",
+  "hunger": 18,
+  "saturation": 4,
+  "decay_modifier": 1.0,
+  "vegetables": 4,
+  "protein": 3,
+  "dairy": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"tag": "forge:double_sheets/brass"},
+  "transitionalItem": {"item": "create:brass_ingot"},
+  "sequence": [
+    {"type": "createaddition:rolling","ingredients": [{"item": "create:brass_ingot"}],"results": [{"item": "create:brass_ingot"}]},
+    {"type": "create:deploying","ingredients": [{"item": "create:brass_ingot"},{"tag": "forge:nuggets/zinc"}],"results": [{"item": "create:brass_ingot"}]},
+    {"type": "create:pressing","ingredients": [{"item": "create:brass_ingot"}],"results": [{"item": "create:brass_ingot"}]},
+    {"type": "create:pressing","ingredients": [{"item": "create:brass_ingot"}],"results": [{"item": "create:brass_ingot"}]}
+    ],
+  "results": [{"item": "create:brass_hand","count":1}],
+  "loops": 2
+}

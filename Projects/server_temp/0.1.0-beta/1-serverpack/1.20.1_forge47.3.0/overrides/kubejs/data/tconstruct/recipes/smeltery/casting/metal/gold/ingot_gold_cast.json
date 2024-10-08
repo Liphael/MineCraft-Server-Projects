@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "fluid": {
+    "tag": "forge:molten_gold",
+    "amount": 100
+  },
+  "result": "tfc:metal/ingot/gold",
+  "cooling_time": 57
+}

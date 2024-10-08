@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/sulfur"
+    },
+    {
+      "item": "myrtrees:latex"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:vulcanized_rubber"
+    }
+  ],
+  "heatRequirement": "heated"
+}

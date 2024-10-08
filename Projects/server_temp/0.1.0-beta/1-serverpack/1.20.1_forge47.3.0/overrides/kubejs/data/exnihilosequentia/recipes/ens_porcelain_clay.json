@@ -1,0 +1,23 @@
+{
+    "__comment__":"This file was created by tfch",
+    "type":"firmalife:mixing_bowl",
+    "ingredients":[
+      {
+        "item":"minecraft:bone_meal"
+      },
+      {
+        "item":"tfc:powder/kaolinite"
+      },
+      {
+        "item":"tfc:fire_clay"
+      }
+    ],
+    "fluid_ingredient":{
+      "ingredient":"minecraft:water",
+      "amount":1000
+    },
+    "output_item":{
+      "item":"exnihilosequentia:porcelain_clay",
+      "count":2
+    }
+  }

@@ -1,0 +1,11 @@
+"Player jump" = 2
+"Player run" = 1
+"Player walking" = 0
+"Player destroy block" = 1
+"Player under water dirty or out of water dirty" = 15
+"Player under rain" = 15
+"Player under water or out of water" = 20
+"Player soap under rain" = 25
+"Player shower" = 30
+"Player shower and soap" = 50
+

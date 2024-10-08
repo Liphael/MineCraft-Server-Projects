@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xlx",
+    "xlx",
+    "sls"
+  ],
+  "key": {
+    "x": {
+      "item": "immersive_aircraft:sail"
+    },
+    "s": {
+      "item": "minecraft:lead"
+    },
+    "l": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result": {
+    "item": "smallships:sail"
+  }
+}

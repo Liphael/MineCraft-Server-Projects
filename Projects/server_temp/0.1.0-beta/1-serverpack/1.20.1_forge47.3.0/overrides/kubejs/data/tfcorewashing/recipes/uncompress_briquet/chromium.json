@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:briquet_chromium"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:pellet_chromium",
+    "count": 4
+  }
+}

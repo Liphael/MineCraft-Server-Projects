@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:storage_blocks/andesite_alloy"
+    }
+  ],
+  "result": {
+    "fluid": "kubejs:andesite_alloy",
+    "amount": 900
+  },
+  "temperature": 900,
+  "time": 194
+}

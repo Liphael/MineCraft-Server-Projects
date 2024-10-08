@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" B ",
+		"BNB",
+		" B "
+	],
+	"key": {
+		"B": {
+			"tag": "minecraft:leaves"
+		},
+		"N": {
+			"item": "waterstrainer:string_mesh"
+		}
+	},
+	"result": {
+		"item": "waterstrainer:strainer_fisherman"
+	}
+}

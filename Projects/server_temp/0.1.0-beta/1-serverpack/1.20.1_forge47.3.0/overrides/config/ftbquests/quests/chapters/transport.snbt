@@ -1,0 +1,322 @@
+{
+	id: "15BB1F9828561BF8"
+	group: ""
+	order_index: 3
+	filename: "transport"
+	title: "Transport"
+	icon: "astikorcarts:wheel/maple"
+	default_quest_shape: "pentagon"
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			icon: "toolbelt:pouch"
+			x: -4.0d
+			y: -2.5d
+			description: [
+				"{image:kubejs:textures/item/slot_pocket.png width:25 height:25 align:1}"
+				"Your inventory is reduced. To bolster your item transport capacity, you need to upgrade with belt pouches, build contraptions, or use other techniques. A small switch at the top right of the inventory GUI switches the view from the quick tool slots to the normal GUI. Tool slots automatically change the tool to the correct one for each block being broken. The normal GUI has tabs for crafting, calendar, nutrition, climate, and the TFC guide"
+			]
+			dependencies: ["43A3F6984C4136E3"]
+			hide: true
+			id: "1BC79A402028CFA7"
+			tasks: [{
+				id: "7759D9E0D328D964"
+				type: "checkmark"
+				title: "Inventory"
+			}]
+		}
+		{
+			title: "Animals"
+			icon: "minecraft:leather_horse_armor"
+			x: -1.0d
+			y: -3.5d
+			description: ["Mules, horses, donkeys, and dogs are your friends. When you tame them they can be used as a transport method for you and your items."]
+			dependencies: ["1BC79A402028CFA7"]
+			hide: true
+			id: "31DCBF3AF6418810"
+			tasks: [{
+				id: "35BB6D897F664C20"
+				type: "checkmark"
+				title: "First read"
+			}]
+		}
+		{
+			title: "Ships"
+			icon: "smallships:birch_cog"
+			x: -1.0d
+			y: -1.0d
+			description: [
+				"Ships can be used as a transport method through rivers and seas. They have a large carrying capacity."
+				"{image:smallships:textures/item/ship/acacia_dhow.png width:30 height:30 align:1}"
+			]
+			dependencies: ["1BC79A402028CFA7"]
+			hide: true
+			id: "37CD056FF732365B"
+			tasks: [{
+				id: "502964E676720338"
+				type: "checkmark"
+				title: "First read"
+			}]
+		}
+		{
+			title: "Carts"
+			icon: "astikorcarts:supply_cart/palm"
+			x: 0.0d
+			y: -4.5d
+			description: [
+				"Once you tame a beast of burden, you can use carts to transport even more items and over longer distances."
+				""
+				"Bring your horse to the cart and press ] to harness it."
+			]
+			dependencies: ["31DCBF3AF6418810"]
+			hide: true
+			id: "45AB456467F976C2"
+			tasks: [
+				{
+					id: "5A056BF8535BCE78"
+					type: "item"
+					title: "Any #astikorcarts:supply_cart"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "astikorcarts:supply_cart"
+						}
+					}
+				}
+				{
+					id: "302BA04367BA552F"
+					type: "item"
+					title: "Any #astikorcarts:animal_cart"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "astikorcarts:animal_cart"
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "Rails"
+			icon: "minecraft:rail"
+			x: -1.5d
+			y: -5.0d
+			description: ["Rail is the fastest ground transport. It requires a lot of materials, but the transport options it opens are very rewarding."]
+			dependencies: ["1BC79A402028CFA7"]
+			hide: true
+			id: "5C7A721FD94CE50F"
+			tasks: [
+				{
+					id: "43B38F6A0E6EC709"
+					type: "checkmark"
+					title: "First read"
+				}
+				{
+					id: "7EBF354B9B72770E"
+					type: "item"
+					item: "railways:track_dark_oak"
+				}
+			]
+		}
+		{
+			x: -4.0d
+			y: 0.5d
+			description: ["After crafting leather from animals, you can store excess tools in tool belts. It's a very useful belt."]
+			dependencies: ["1BC79A402028CFA7"]
+			hide: true
+			id: "31234FC686AB4822"
+			tasks: [{
+				id: "4D55D2EB19746340"
+				type: "item"
+				item: "toolbelt:belt"
+			}]
+		}
+		{
+			title: "Backpack"
+			icon: {
+				id: "travelersbackpack:standard"
+				Count: 1b
+				tag: { }
+			}
+			x: -3.5d
+			y: -5.0d
+			description: ["After making leather from animals, you can create a backpack. It will make survival and life much easier."]
+			dependencies: ["1BC79A402028CFA7"]
+			hide: true
+			id: "73382D488CFC8161"
+			tasks: [{
+				id: "3F3DB4B7D303745A"
+				type: "item"
+				item: {
+					id: "travelersbackpack:standard"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			icon: "kubejs:canoe"
+			x: -2.5d
+			y: 0.0d
+			description: [
+				"The canoe is an easy first boat. Press Shift on the canoe icon in JEI to see how to craft it."
+				"{image:kubejs:textures/item/canoe.png width:30 height:30 align:1}"
+			]
+			dependencies: ["1BC79A402028CFA7"]
+			hide: true
+			id: "6C628F5FDAC11AF2"
+			tasks: [{
+				id: "3BA729799559FE0D"
+				type: "checkmark"
+				title: "Canoe"
+			}]
+		}
+		{
+			title: "Vessel or backapck"
+			icon: "tfc:ceramic/large_vessel"
+			x: -5.0d
+			y: -4.5d
+			description: ["Large vessels can be carried on your back while still filled with items. It is heavy and has limited space, but it is something."]
+			dependencies: ["1BC79A402028CFA7"]
+			hide: true
+			id: "0097A064CA27BE6E"
+			tasks: [{
+				id: "4F9474932FF653A2"
+				type: "item"
+				item: "tfc:ceramic/large_vessel"
+			}]
+		}
+		{
+			x: -5.5d
+			y: 0.5d
+			description: ["You can cross long distances from great heights with a hang glider. It's a safer way to fall, and a fun way to move around. Be careful not to fly all the time, and don't fly for too long."]
+			dependencies: ["1BC79A402028CFA7"]
+			hide: true
+			id: "090C3A3C2A94774B"
+			tasks: [{
+				id: "58B9667D6A630E09"
+				type: "item"
+				item: "paraglider:paraglider"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -1.0d
+			description: ["With a full belly and strong legs, you can fly, but only in the age of steel. Dismount using your Dismount key."]
+			dependencies: ["1BC79A402028CFA7"]
+			hide: true
+			id: "25E7CA7A6DFC055D"
+			tasks: [{
+				id: "7132A48759C26118"
+				type: "item"
+				item: "immersive_aircraft:gyrodyne"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -1.5d
+			description: ["A slower, but smaller and more versatile version of the gyrodyne."]
+			dependencies: ["25E7CA7A6DFC055D"]
+			hide: true
+			id: "270C1C44FD95CA52"
+			tasks: [{
+				id: "0E20674CF6699C93"
+				type: "item"
+				item: "immersive_aircraft:quadrocopter"
+			}]
+		}
+		{
+			x: -8.5d
+			y: 0.0d
+			description: ["A large, fueled plane for traveling quickly between settlements."]
+			dependencies: ["25E7CA7A6DFC055D"]
+			hide: true
+			id: "711AA982FD452BDF"
+			tasks: [{
+				id: "1C61A33266F78EE5"
+				type: "item"
+				item: "immersive_aircraft:biplane"
+			}]
+		}
+		{
+			x: -7.5d
+			y: 1.5d
+			description: ["A cute craft that requires no runway."]
+			dependencies: ["25E7CA7A6DFC055D"]
+			hide: true
+			id: "1A7FA356B7A5606B"
+			tasks: [{
+				id: "7D0FE20FFB407427"
+				type: "item"
+				item: "immersive_aircraft:airship"
+			}]
+		}
+		{
+			title: "Hot air baloon"
+			icon: "simple_hot_air_balloons:white_hot_air_balloon_item"
+			x: -6.5d
+			y: -2.5d
+			description: [
+				"You can fly!"
+				"A hot air balloon will allow you to travel long distances and observe the surroundings from above, and it is both simple to build and available very early."
+				""
+			]
+			dependencies: ["1BC79A402028CFA7"]
+			hide: true
+			id: "7DBF4535296CCC2D"
+			tasks: [
+				{
+					id: "5F23723B5DFF28BB"
+					type: "item"
+					item: "simple_hot_air_balloons:white_hot_air_balloon_item"
+				}
+				{
+					id: "2E4DA7699C4F40D8"
+					type: "item"
+					item: "minecraft:charcoal"
+					count: 8L
+				}
+			]
+		}
+		{
+			title: "Spyglass"
+			icon: "minecraft:spyglass"
+			x: -6.0d
+			y: -3.5d
+			description: [
+				""
+				"The spyglass is a very useful instrument for observing distant terrain and features, especially from ships traversing sea or sky."
+			]
+			dependencies: ["1BC79A402028CFA7"]
+			hide: true
+			id: "4947E5D2E91CFAB4"
+			tasks: [{
+				id: "0468DB6132AC26E3"
+				type: "item"
+				item: "minecraft:spyglass"
+			}]
+		}
+		{
+			title: "Dog transports"
+			icon: "doggytalents:doggy_charm"
+			x: 0.0d
+			y: -2.5d
+			description: [
+				"Create a wolf egg and tame a wolf to gain a dog companion."
+				""
+				"Use treats to convert him or her to a trained dog for transport."
+			]
+			dependencies: ["31DCBF3AF6418810"]
+			hide: true
+			id: "31FA60BBCD41465E"
+			tasks: [{
+				id: "54C5B80E769E7944"
+				type: "item"
+				item: "doggytalents:training_treat"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

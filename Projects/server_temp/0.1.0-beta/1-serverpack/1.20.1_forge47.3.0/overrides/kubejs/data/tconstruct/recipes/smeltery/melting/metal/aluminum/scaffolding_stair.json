@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "immersiveengineering:scaffolding_stairs/aluminum"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_aluminum",
+    "amount": 150
+  },
+  "temperature": 425,
+  "time": 45
+}

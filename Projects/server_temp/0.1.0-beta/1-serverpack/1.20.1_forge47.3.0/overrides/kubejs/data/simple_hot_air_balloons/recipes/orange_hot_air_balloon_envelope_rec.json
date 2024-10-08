@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file created by tfch",
+  "type": "tfc:barrel_sealed",
+  "input_item": {
+    "ingredient": {
+      "item": "simple_hot_air_balloons:white_hot_air_balloon_envelope"
+    }
+  },
+  "input_fluid": {
+    "ingredient": "tfc:orange_dye",
+    "amount": 1000
+  },
+  "output_item": {
+    "item": "simple_hot_air_balloons:orange_hot_air_balloon_envelope"
+  },
+  "duration": 10000
+}

@@ -1,0 +1,12 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "minecraft:iron_bars"},
+  "transitionalItem": {"item": "securitycraft:reinforced_iron_bars"},
+  "sequence": [
+    {"type": "createaddition:rolling","ingredients": [{"item": "securitycraft:reinforced_iron_bars"}],"results": [{"item": "securitycraft:reinforced_iron_bars"}]},
+    {"type": "createaddition:rolling","ingredients": [{"item": "securitycraft:reinforced_iron_bars"}],"results": [{"item": "securitycraft:reinforced_iron_bars"}]},
+    {"type": "create:pressing","ingredients": [{"item": "securitycraft:reinforced_iron_bars"}],"results": [{"item": "securitycraft:reinforced_iron_bars"}]}
+    ],
+  "results": [{"item": "waterstrainer:iron_mesh","count":1}],
+  "loops": 2
+}

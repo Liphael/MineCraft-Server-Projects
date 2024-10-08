@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "immersiveengineering:plate_constantan"
+  },
+  "result_fluid": {
+    "fluid": "tfc_ie_addon:metal/constantan",
+    "amount": 400
+  },
+  "temperature": 750
+}

@@ -1,0 +1,37 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    {
+      "item": "exnihilosequentia:crushed_netherrack"
+    },
+    {
+      "item": "createsifter:brass_mesh"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:sand/red"
+    },
+    {
+      "item": "minecraft:redstone",
+      "chance": 0.15
+    },
+    {
+      "item": "tconstruct:debris_nugget",
+      "chance": 0.01
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "chance": 0.05
+    },
+    {
+      "item": "minecraft:ghast_tear",
+      "chance": 0.003
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.2
+    }
+  ],
+  "processingTime": 500
+}

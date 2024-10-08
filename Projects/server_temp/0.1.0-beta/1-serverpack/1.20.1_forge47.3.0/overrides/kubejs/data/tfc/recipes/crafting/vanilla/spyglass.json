@@ -1,0 +1,20 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  X",
+    " B ",
+    "Y  "
+  ],
+  "key": {
+    "Y": {"tag": "forge:sheets/copper"},
+    "B": {"item": "tfc:brass_mechanisms"},
+    "X": [
+      {"item": "kubejs:primitive_glass_pane"},
+      {"item": "tconstruct:clear_glass_pane"}
+    ]
+  },
+  "result": {
+    "item": "minecraft:spyglass"
+  }
+}

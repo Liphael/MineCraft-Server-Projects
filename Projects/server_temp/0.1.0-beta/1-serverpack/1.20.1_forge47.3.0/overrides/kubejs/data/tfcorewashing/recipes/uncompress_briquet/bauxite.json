@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:briquet_bauxite"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:pellet_bauxite",
+    "count": 4
+  }
+}

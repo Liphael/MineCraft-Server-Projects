@@ -1,0 +1,39 @@
+{
+  "type": "travelersbackpack:backpack_shaped",
+
+  "pattern":
+  [
+    "ABA",
+    "CDC",
+    "ACA"
+  ],
+
+  "key":
+  {
+    "A":
+    {
+      "item": "minecraft:leather"
+    },
+
+    "B":
+    {
+      "tag": "forge:apples"
+    },
+
+    "C":
+    {
+      "tag": "forge:grain_crops"
+    },
+
+    "D":
+    {
+      "item": "travelersbackpack:standard"
+    }
+  },
+
+  "result":
+  {
+    "item": "travelersbackpack:horse",
+    "count": 1
+  }
+}

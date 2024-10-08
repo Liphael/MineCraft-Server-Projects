@@ -1,0 +1,10 @@
+{
+  "type": "choppingblock:chopping",
+  "ingredient": {
+    "tag": "tfc:maple_logs"
+  },
+  "result": {
+    "item": "tfc:wood/support/maple",
+    "count": 2
+  }
+}

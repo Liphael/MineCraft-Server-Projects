@@ -1,0 +1,10 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "twilightdelight:hydra_piece"
+  },
+  "hunger": 8,
+  "saturation": 0.7,
+  "decay_modifier": 0.75,
+  "protein": 3.0
+}

@@ -1,0 +1,7 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "kubejs:andesite_rock_powder"
+  },
+  "loot_table": "tfc:sluices_gravel/deposits/andesite_rock_powder"
+}

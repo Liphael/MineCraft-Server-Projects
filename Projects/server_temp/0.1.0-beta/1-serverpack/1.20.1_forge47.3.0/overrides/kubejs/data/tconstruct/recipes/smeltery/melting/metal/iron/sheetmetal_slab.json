@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:slab_sheetmetal_iron"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_iron",
+    "amount": 200
+  },
+  "temperature": 800,
+  "time": 60
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:dirty_dust_gold"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:dirty_pile_gold",
+    "count": 4
+  }
+}

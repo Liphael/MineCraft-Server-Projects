@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:rods/chromium"
+  },
+  "result": {
+    "fluid": "firmalife:metal/chromium",
+    "amount": 50
+  },
+  "temperature": 950,
+  "time": 20
+}

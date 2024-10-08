@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "tfc:fire_clay"
+    },
+    {
+      "tag": "minecraft:sand"
+    },
+    {
+      "item": "tfc:powder/graphite"
+    },
+    {
+      "tag": "forge:gravel"
+    },
+    {
+      "item": "tfc:rock/gravel/basalt"
+    },
+    {
+      "item": "tfc:fire_clay"
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:grout",
+      "count": 4
+    }
+  ]
+}

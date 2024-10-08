@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "type": "tfc:not_rotten",
+    "ingredient": {
+      "item": "twilightdelight:raw_meef_slice"
+    }
+  },
+  "result": "twilightdelight:cooked_meef_slice"
+}

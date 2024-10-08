@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:pellet_uraninite"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:uraninite_powder",
+    "count": 4
+  }
+}

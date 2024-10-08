@@ -1,0 +1,44 @@
+
+["Welcome to the Better Punching mod server configuration file"]
+	#Set to false to disable the ''Punching Wood'' feature.
+	punchWoodEnabled = false
+	#Set to false to disable the ''Punching Glass'' feature.
+	punchGlassEnabled = false
+	#Set to false to disable the ''Punching Cactus'' feature.
+	punchCactusEnabled = true
+	#Set to false to disable the ''Invalid Punching'' feature.
+	invalidPunchEnabled = true
+	#Set how much damage should the player take from the Splinter effect
+	#Range: 0.0 ~ 3.4028234663852886E38
+	splinterDamage = 1.0
+	#Set how much damage should the player take from the Bleeding effect
+	#Range: 0.0 ~ 3.4028234663852886E38
+	bleedingDamage = 1.0
+	#Set how much damage should the player take from punching the wrong block.
+	#Range: 0.0 ~ 3.4028234663852886E38
+	invalidPunchDamage = 0.5
+	#Set how long should the Splinter effect last in seconds
+	#Range: 0 ~ 1000000
+	splinterDuration = 10
+	#Set how long should the Bleeding effect last in seconds
+	#Range: 0 ~ 1000000
+	bleedingDuration = 10
+	#Set how long should the Weakness effect last in seconds
+	#Range: 0 ~ 1000000
+	weaknessDuration = 10
+	#Set how long should the Mining Fatigue effect last in seconds
+	#Range: 0 ~ 1000000
+	miningFatigueDuration = 10
+	#Set the amplifier for the Splinter effect
+	#Range: 0 ~ 255
+	splinterAmplifier = 0
+	#Set the amplifier for the Bleeding effect
+	#Range: 0 ~ 255
+	bleedingAmplifier = 0
+	#Set the amplifier for the Weakness effect
+	#Range: 0 ~ 255
+	weaknessAmplifier = 0
+	#Set the amplifier for the Mining Fatigue effect
+	#Range: 0 ~ 255
+	miningFatigueAmplifier = 0
+

@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "twilightdelight:chocolate_wafer"
+  },
+  "hunger": 9,
+  "saturation": 10,
+  "decay_modifier": 0.8,
+  "diary": 2.0,
+  "grain": 1.0
+}

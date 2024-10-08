@@ -1,0 +1,1 @@
+{"type":"exnihilosequentia:sieve","rolls":[{"chance":0.01,"mesh":"iron"},{"chance":0.05,"mesh":"diamond"}],"input":{"tag":"minecraft:leaves"},"result":{"item":"tfc:wood/sapling/sequoia"}}

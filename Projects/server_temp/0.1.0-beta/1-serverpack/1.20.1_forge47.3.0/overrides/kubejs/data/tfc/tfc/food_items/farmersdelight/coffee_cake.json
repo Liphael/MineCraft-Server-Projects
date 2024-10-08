@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersrespite:coffee_cake"
+  },
+  "hunger": 6,
+  "saturation": 1,
+  "decay_modifier": 1.0,
+  "grain": 2.0,
+  "fruit": 2.0
+}

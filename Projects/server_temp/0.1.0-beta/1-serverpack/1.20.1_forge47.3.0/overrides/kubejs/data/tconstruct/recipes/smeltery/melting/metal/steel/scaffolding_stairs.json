@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "immersiveengineering:scaffolding_stairs/steel"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_steel",
+    "amount": 150
+  },
+  "temperature": 950,
+  "time": 65
+}

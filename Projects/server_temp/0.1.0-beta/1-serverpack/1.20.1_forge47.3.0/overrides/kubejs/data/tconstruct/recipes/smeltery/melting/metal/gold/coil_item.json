@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "createaddition:gold_spool"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_gold",
+    "amount": 100
+  },
+  "temperature": 700,
+  "time": 45
+}

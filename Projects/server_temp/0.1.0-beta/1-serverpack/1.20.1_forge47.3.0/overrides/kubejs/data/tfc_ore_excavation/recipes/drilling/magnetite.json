@@ -1,0 +1,24 @@
+{
+  "type": "createoreexcavation:drilling",
+  "name": "{\"translate\":\"Magnetite vein\"}",
+  "drill": {
+    "tag": "createoreexcavation:high_tier_drills"
+  },
+  "amountMax": 30.0,
+  "amountMin": 6.0,
+  "biomeWhitelist": "tfc:is_vein",
+  "weight": 4,
+  "ticks": 400,
+  "stress": 256,
+  "fluid": {
+    "amount": 250,
+    "fluid": "minecraft:water",
+    "nbt": {}
+  },
+  "output": [
+    {"chance": 0.80,"item": "tfc:rock/loose/andesite"},
+    {"chance": 0.70,"item": "tfc:ore/normal_magnetite"},
+    {"chance": 0.40,"item": "tfc:ore/poor_magnetite"},
+    {"chance": 0.20,"item": "tfc:ore/rich_magnetite"}
+  ]
+}

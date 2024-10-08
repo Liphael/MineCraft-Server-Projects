@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:bone_broth"
+  },
+  "hunger": 6,
+  "saturation": 4,
+  "decay_modifier": 1.0,
+  "protein": 1,
+  "vegetables": 0.5
+}

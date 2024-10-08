@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "forge:rods/compressed_iron"
+	},
+	"result": {
+		"item": "kubejs:compressed_wire",
+		"count": 2
+	}
+}

@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "type": "tfc:not_rotten","ingredient": {"item": "tfc:food/pork"}
+    }
+  ],
+  "tool": {
+    "item": "twilightdelight:fiery_knife"
+  },
+  "result": [
+    {
+      "item": "farmersdelight:cooked_bacon",
+      "count": 2
+    }
+  ]
+}

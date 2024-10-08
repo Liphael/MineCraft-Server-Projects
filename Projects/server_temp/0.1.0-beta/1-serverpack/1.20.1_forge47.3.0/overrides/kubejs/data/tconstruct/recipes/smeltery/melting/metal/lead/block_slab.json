@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:slab_storage_lead"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_lead",
+    "amount": 450
+  },
+  "temperature": 330,
+  "time": 90
+}

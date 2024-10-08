@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:collapse",
+  "ingredient": [
+    "exnihilosequentia:infesting_leaves",
+    "exnihilosequentia:infested_leaves"
+  ],
+  "copy_input": true
+}

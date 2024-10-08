@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "tag": "forge:sand_piles"
+  },
+  "result_fluid": {
+    "fluid": "tconstruct:molten_glass",
+    "amount": 25
+  },
+  "temperature": 400
+}

@@ -1,0 +1,10 @@
+{
+  "type": "choppingblock:chopping",
+  "ingredient": {
+    "tag": "tfc:spruce_logs"
+  },
+  "result": {
+    "item": "tfc:wood/support/spruce",
+    "count": 2
+  }
+}

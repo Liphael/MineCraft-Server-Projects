@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SDS",
+    "VRV",
+    "DID"
+  ],
+  "key": {
+    "S": {
+      "tag": "tfc:swords"
+    },
+    "D": {
+      "item": "immersiveengineering:rockcutter"
+    },
+    "V": {
+      "item": "mob_grinding_utils:spikes"
+    },
+    "R": {
+      "tag": "forge:storage_blocks/redstone"
+    },
+    "I": {
+      "item": "create_electric_stonks:reinforced_motor"
+    }
+  },
+  "result": {
+    "item": "mob_grinding_utils:saw"
+  }
+}

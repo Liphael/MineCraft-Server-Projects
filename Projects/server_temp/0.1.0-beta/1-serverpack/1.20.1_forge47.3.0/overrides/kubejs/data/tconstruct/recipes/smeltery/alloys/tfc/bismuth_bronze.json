@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "tag": "forge:molten_copper",
+      "amount": 60
+    },
+    {
+      "tag": "forge:molten_zinc",
+      "amount": 25
+    },
+    {
+      "tag": "forge:molten_bismuth",
+      "amount": 15
+    }
+  ],
+  "result": {
+    "fluid": "tfc:metal/bismuth_bronze",
+    "amount": 100
+  },
+  "temperature": 720
+}

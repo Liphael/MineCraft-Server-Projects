@@ -1,0 +1,10 @@
+{
+  "type": "choppingblock:chopping",
+  "ingredient": {
+    "tag": "tfc:palm_logs"
+  },
+  "result": {
+    "item": "tfc:wood/support/palm",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "tfc:metal/anvil/bismuth_bronze"
+  },
+  "result": {
+    "fluid": "tfc:metal/bismuth_bronze",
+    "amount": 1400
+  },
+  "temperature": 720,
+  "time": 420
+}

@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:sheets/black_bronze"
+    }
+  ],
+  "result": {
+    "fluid": "tfc:metal/black_bronze",
+    "amount": 200
+  },
+  "temperature": 800,
+  "time": 97
+}

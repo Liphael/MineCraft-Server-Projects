@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:fish_stew"
+  },
+  "hunger": 5,
+  "saturation": 3,
+  "decay_modifier": 1.25,
+  "protein": 2.5,
+  "vegetables": 2.0
+}

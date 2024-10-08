@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/brass"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_brass",
+    "amount": 100
+  },
+  "temperature": 605,
+  "time": 54
+}

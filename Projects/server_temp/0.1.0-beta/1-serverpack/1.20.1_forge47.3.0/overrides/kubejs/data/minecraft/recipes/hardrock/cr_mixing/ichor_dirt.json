@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:slimeball/ichor", "count": 4
+    },
+    {
+      "tag": "minecraft:dirt"
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:ichor_slime_dirt"
+    }
+  ],
+  "heatRequirement": "heated"
+}

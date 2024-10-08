@@ -1,0 +1,17 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "item": "immersiveengineering:wirecoil_steel"
+    },
+    {
+      "item": "immersiveengineering:wirecoil_structure_steel"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_steel",
+    "amount": 100
+  },
+  "temperature": 950,
+  "time": 47
+}

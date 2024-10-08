@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "tag": "forge:molten_iron",
+      "amount": 100
+    },
+    {
+      "tag": "tconstruct:molten_quartz",
+      "amount": 50
+    }
+  ],
+  "result": {
+    "fluid": "kubejs:molten_iron_quartz",
+    "amount": 90
+  },
+  "temperature": 950
+}

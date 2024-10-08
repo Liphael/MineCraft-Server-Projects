@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:double_sheets/stainless_steel"
+  },
+  "result": {
+    "fluid": "firmalife:metal/stainless_steel",
+    "amount": 400
+  },
+  "temperature": 950,
+  "time": 120
+}

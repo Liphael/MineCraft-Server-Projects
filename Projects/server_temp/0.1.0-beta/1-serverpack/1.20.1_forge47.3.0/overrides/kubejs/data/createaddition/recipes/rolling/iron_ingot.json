@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "forge:ingots/irons"
+	},
+	"result": {
+		"item": "tfc:metal/rod/wrought_iron",
+		"count": 2
+	}
+}

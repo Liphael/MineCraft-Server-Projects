@@ -1,0 +1,32 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "tfc:rock_knapping"
+    },
+    {
+      "tag": "tfc:rock_knapping"
+    },
+    {
+      "fluidTag": "tfc:salt_water",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:boiled_water",
+      "amount": 1000
+    },
+    {
+      "item": "kubejs:crumbled_rock"
+    },
+    {
+      "item": "tfc:powder/salt"
+    },
+    {
+      "item": "tfc:powder/salt"
+    }
+  ],
+  "heatRequirement": "heated"
+}

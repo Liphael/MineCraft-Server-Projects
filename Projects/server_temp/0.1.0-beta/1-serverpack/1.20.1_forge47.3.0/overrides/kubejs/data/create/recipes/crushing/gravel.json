@@ -1,0 +1,43 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:rock/gravel/granite",
+      "chance": 0.05
+    },
+    {
+      "item": "tfc:rock/gravel/diorite",
+      "chance": 0.05
+    },
+    {
+      "item": "tfc:rock/gravel/gabbro",
+      "chance": 0.05
+    },
+    {
+      "item": "tfc:rock/gravel/chalk",
+      "chance": 0.05
+    },
+    {
+      "item": "tfc:rock/gravel/dolomite",
+      "chance": 0.05
+    },
+    {
+      "item": "tfc:rock/gravel/basalt",
+      "chance": 0.05
+    },
+    {
+      "item": "tfc:rock/gravel/quartzite",
+      "chance": 0.05
+    },
+    {
+      "item": "tfc:rock/gravel/marble",
+      "chance": 0.05
+    }
+  ],
+  "processingTime": 250
+}

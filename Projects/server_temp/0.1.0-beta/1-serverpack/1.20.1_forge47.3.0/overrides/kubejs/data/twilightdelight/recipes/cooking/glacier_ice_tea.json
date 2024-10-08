@@ -1,0 +1,12 @@
+{
+  "type": "farmersrespite:brewing",
+  "ingredients": [
+    {"item": "twilightforest:ice_bomb"},
+    {"item": "firmalife:ice_shavings"}
+  ],
+  "result": {"item": "twilightdelight:glacier_ice_tea"},
+  "container": {"item": "minecraft:glass_bottle"},
+  "experience": 0.35,
+  "brewingtime": 800,
+  "needwater": true
+}

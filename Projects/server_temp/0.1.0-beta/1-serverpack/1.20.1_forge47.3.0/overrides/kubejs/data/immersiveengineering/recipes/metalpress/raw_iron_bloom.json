@@ -1,0 +1,7 @@
+{
+    "type":"immersiveengineering:metal_press",
+    "mold":"kubejs:hardened_press_head",
+    "result":{"item":"tfc:refined_iron_bloom"},
+    "input":{"item":"tfc:raw_iron_bloom"},
+    "energy":2400
+}

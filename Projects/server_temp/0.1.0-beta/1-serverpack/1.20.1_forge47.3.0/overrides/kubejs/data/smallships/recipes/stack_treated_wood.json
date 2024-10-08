@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    "bbb",
+    "bbb"
+  ],
+  "key": {
+    "b": {
+      "tag": "forge:treated_wood"
+    }
+  },
+  "result": {
+    "item": "kubejs:stack_treated_wood"
+  }
+}

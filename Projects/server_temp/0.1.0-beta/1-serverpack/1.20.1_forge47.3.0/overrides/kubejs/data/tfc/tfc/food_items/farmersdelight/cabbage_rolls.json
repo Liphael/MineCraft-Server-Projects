@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "farmersdelight:cabbage_rolls"
+  },
+  "category": "cooked_meat",
+  "hunger": 4,
+  "saturation": 2,
+  "decay_modifier": 1.5,
+  "vegetables": 1,
+  "protein": 1
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:slab_storage_nickel"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_nickel",
+    "amount": 450
+  },
+  "temperature": 950,
+  "time": 135
+}

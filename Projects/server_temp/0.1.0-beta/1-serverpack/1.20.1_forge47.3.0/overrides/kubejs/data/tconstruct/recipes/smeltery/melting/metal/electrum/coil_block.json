@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:coil_mv"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_electrum",
+    "amount": 550
+  },
+  "temperature": 760,
+  "time": 135
+}

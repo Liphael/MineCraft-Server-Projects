@@ -1,0 +1,10 @@
+{
+  "type": "choppingblock:chopping",
+  "ingredient": {
+    "tag": "tfc:white_cedar_logs"
+  },
+  "result": {
+    "item": "tfc:wood/support/white_cedar",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " s ",
+    "scs",
+    " s "
+  ],
+  "key": {
+    "c": {
+      "tag": "forge:fruits/apple"
+    },
+    "s": {
+      "item": "tfcorewashing:gold_powder"
+    }
+  },
+  "result": {
+    "item": "minecraft:golden_apple"
+  }
+}

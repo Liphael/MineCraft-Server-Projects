@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "coffee_delight:coffee_beans_cooked"
+  },
+  "result": {
+    "item": "coffee_delight:coffee_flour",
+    "count": 1
+  }
+}

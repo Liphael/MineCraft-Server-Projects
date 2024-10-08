@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:double_sheets/nickel"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_nickel",
+    "amount": 400
+  },
+  "temperature": 950,
+  "time": 130
+}

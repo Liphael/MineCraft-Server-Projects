@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "immersiveengineering:dynamo"
+  },
+  "result": {
+    "fluid": "tconstruct:molten_iron",
+    "amount": 400
+  },
+  "temperature": 900,
+  "time": 150,
+        "byproducts": [
+          {
+            "fluid": "tconstruct:molten_copper",
+            "amount": 550
+          }
+        ]
+}

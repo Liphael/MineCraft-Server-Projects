@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfcorewashing:pellet_copper"
+    }
+  ],
+  "result": {
+    "item": "tfcorewashing:copper_powder",
+    "count": 4
+  }
+}

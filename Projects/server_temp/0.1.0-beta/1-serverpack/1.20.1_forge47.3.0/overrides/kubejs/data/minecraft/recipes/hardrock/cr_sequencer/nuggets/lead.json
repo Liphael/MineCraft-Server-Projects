@@ -1,0 +1,17 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"tag": "forge:rods/lead"},
+  "transitionalItem": {"item": "immersiveposts:stick_lead"},
+  "sequence": [
+    {"type": "create:cutting","ingredients": [{"item": "immersiveposts:stick_lead"}],"results": [{"item": "immersiveposts:stick_lead"}]},
+    {"type": "create:cutting","ingredients": [{"item": "immersiveposts:stick_lead"}],"results": [{"item": "immersiveposts:stick_lead"}]},
+    {"type": "create:cutting","ingredients": [{"item": "immersiveposts:stick_lead"}],"results": [{"item": "immersiveposts:stick_lead"}]},
+    {"type": "create:cutting","ingredients": [{"item": "immersiveposts:stick_lead"}],"results": [{"item": "immersiveposts:stick_lead"}]},
+    {"type": "create:cutting","ingredients": [{"item": "immersiveposts:stick_lead"}],"results": [{"item": "immersiveposts:stick_lead"}]}
+  ],
+  "results": [
+    {"item": "immersiveengineering:nugget_lead","count": 5}    
+  ],
+  "loops": 1
+}
+

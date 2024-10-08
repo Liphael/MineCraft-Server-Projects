@@ -1,0 +1,63 @@
+
+#General Settings
+[general]
+	#How much the hardness of a block is multiplied when applied to damage
+	#Range: 0.0 ~ 1.7976931348623157E308
+	damageMultiplier = 0.0
+	#How much extra damage to apply when breaking any block with more than 0 hardness
+	#Range: > 0
+	baseDamageAddition = 0
+
+#Breaking Speed
+[break_speed]
+	#Multiply all block breaking speeds by this. Stacks with multipliers below.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	baseSpeedMultiplier = 0.5
+	#Multiply by this when breaking ground blocks with the wrong tool
+	#Range: 0.0 ~ 1.7976931348623157E308
+	noToolSpeedShovel = 1.0
+	#Multiply by this when breaking ground blocks with the right tool
+	#Range: 0.0 ~ 1.7976931348623157E308
+	toolSpeedShovel = 1.0
+	#Multiply by this when breaking wood blocks with the wrong tool
+	#Range: 0.0 ~ 1.7976931348623157E308
+	noToolSpeedAxe = 1.0
+	#Multiply by this when breaking wood blocks with the right tool
+	#Range: 0.0 ~ 1.7976931348623157E308
+	toolSpeedAxe = 1.0
+	#Multiply by this when breaking rock blocks with the wrong tool
+	#Range: 0.0 ~ 1.7976931348623157E308
+	noToolSpeedPickaxe = 1.0
+	#Multiply by this when breaking rock blocks with the right tool
+	#Range: 0.0 ~ 1.7976931348623157E308
+	toolSpeedPickaxe = 1.0
+
+#Hunger Cost
+#4 Exhaustion = Half-point of food
+#Keep in mind it uses up saturation first, which is invisible
+[hunger_cost]
+	#How much additional exhaustion is gained when breaking a block that requires a tool.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	breakExhaustionCost = 0.1
+	#How much additional exhaustion is gained when placing a block that requires a tool.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	placeExhaustionCost = 0.0
+	#Additional exhaustion cost for breaking a shovel block. Stacks with breakExhaustionCost.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	breakCostShovel = 0.1
+	#Additional exhaustion cost for breaking an axe block. Stacks with breakExhaustionCost.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	breakCostAxe = 0.1
+	#Additional exhaustion cost for breaking an pickaxe block. Stacks with breakExhaustionCost.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	breakCostPickaxe = 0.1
+	#Additional exhaustion cost for placing a shovel block. Stacks with placeExhaustionCost.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	placeCostShovel = 0.0
+	#Additional exhaustion cost for placing an axe block. Stacks with placeExhaustionCost.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	placeCostAxe = 0.0
+	#Additional exhaustion cost for placing a pickaxe block. Stacks with placeExhaustionCost.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	placeCostPickaxe = 0.0
+

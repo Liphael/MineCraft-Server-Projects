@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tconstruct:grout"
+  },
+  "result_fluid": {
+    "fluid": "tconstruct:seared_stone",
+    "amount": 200
+  },
+  "temperature": 600
+}

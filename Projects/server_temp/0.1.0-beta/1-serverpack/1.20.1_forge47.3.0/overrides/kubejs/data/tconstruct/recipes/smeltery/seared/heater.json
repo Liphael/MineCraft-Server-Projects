@@ -1,0 +1,12 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "minecraft:blast_furnace"},
+  "transitionalItem": {"item": "create:gantry_shaft"},
+  "sequence": [
+    {"type": "create:deploying","ingredients": [{"tag": "create:gantry_shaft"}, {"tag": "forge:ingots/seared_stone"}],"results": [{"item": "create:gantry_shaft"}]},
+    {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "tfc:fire_clay"}],"results": [{"item": "create:gantry_shaft"}]},
+    {"type": "create:deploying","ingredients": [{"tag": "create:gantry_shaft"}, {"tag": "forge:ingots/seared_stone"}],"results": [{"item": "create:gantry_shaft"}]}
+  ],
+  "results": [{"item": "tconstruct:seared_heater"}],
+  "loops": 5
+}
