@@ -11,6 +11,33 @@ Manifest文件被用来定义扩展或档案打包相关数据，是一个元数
 通常Manifest文件的文件名为MANIFEST.MF。<br>
 通常Manifest文件都与Java档案相关，其他的情况比较少见。<br>
 
+manifest.json文件中对于field具体定义格式如下：<br>
+{<br>
+  "minecraft": {<br>
+    "version": "1.18.2",<br>
+    "modLoaders": [<br>
+      {<br>
+        "id": "forge-40.2.21",<br>
+        "primary": true<br>
+      }<br>
+    ]<br>
+  },<br>
+  "manifestType": "minecraftModpack",<br>
+  "manifestVersion": 1,<br>
+  "name": "TFCH",<br>
+  "version": "1.4.9",<br>
+  "author": "",<br>
+  "files": [<br>
+    {<br>
+      "projectID": xxxxxx,<br>
+      "fileID": xxxxxxx,<br>
+      "required": true<br>
+    },<br>
+    {}<br>
+  ],<br>
+  "overrides": "overrides"<br>
+}<br>
+
 ### manifest文件规范
 JAR档案文件在规定位置包含META-INF/MANIFEST.MF [6]。
 在一个档案文件中，只能有一个Manifest文件，而且必须在规定的META-INF文件夹中。
