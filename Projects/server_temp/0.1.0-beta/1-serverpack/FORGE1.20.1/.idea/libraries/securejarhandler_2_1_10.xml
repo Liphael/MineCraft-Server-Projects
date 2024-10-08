@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="securejarhandler-2.1.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

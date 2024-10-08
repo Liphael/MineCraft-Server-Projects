@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="eventbus-6.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

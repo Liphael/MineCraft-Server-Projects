@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bootstraplauncher-1.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

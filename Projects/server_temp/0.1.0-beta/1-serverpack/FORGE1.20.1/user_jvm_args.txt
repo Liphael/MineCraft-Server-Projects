@@ -1,9 +1,8 @@
-# Xmx and Xms set the maximum and minimum RAM usage, respectively.
-# They can take any number, followed by an M or a G.
-# M means Megabyte, G means Gigabyte.
-# For example, to set the maximum to 32GB: -Xmx32G
-# To set the minimum to 2.5GB: -Xms32G
+# Xmx 和 Xms 设定服务器所用的最大/最小内存空间。
+# 可以填入如任何数字，以 M 或 G 来结尾，
+# M 代表 Megabyte, G 代表 Gigabyte.
+# 例如将最大服务器使用内存设定为 32GB: -Xmx32G
+# 将最小服务器使用内存设定为 2.5GB: -Xms32G
 
-# A good default for a modded server is 4GB.
-# Uncomment the next line to set it.
+# 在下一行修改此值，以配置内存空间。
 -Xms40G -Xmx40G

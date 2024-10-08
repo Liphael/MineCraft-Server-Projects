@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mergetool-1.1.5-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

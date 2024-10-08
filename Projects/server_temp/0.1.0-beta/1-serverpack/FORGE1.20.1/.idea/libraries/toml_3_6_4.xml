@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="toml-3.6.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

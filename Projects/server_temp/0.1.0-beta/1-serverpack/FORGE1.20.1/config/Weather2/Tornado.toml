@@ -16,7 +16,7 @@
 	#Grab villagers, overridden by Storm_Tornado_grabPlayersOnly
 	Storm_Tornado_grabVillagers = true
 	#Tear up blocks from the ground based on conditions defined
-	Storm_Tornado_grabBlocks = true
+	Storm_Tornado_grabBlocks = false
 	#Grab entity items, overridden by Storm_Tornado_grabPlayersOnly
 	Storm_Tornado_grabItems = false
 	#Grab blocks based on how well a diamond axe can mine the block, so mostly wooden blocks
@@ -32,12 +32,12 @@
 	Storm_Tornado_maxFlyingEntityBlocks = 200
 	#-
 	#Range: > -2147483648
-	Storm_Tornado_maxBlocksGrabbedPerTick = 5
+	Storm_Tornado_maxBlocksGrabbedPerTick = 3
 	#Make tornados initial heading aimed towards closest player
-	Storm_Tornado_aimAtPlayerOnSpawn = true
+	Storm_Tornado_aimAtPlayerOnSpawn = false
 	#Accuracy of tornado aimed at player
 	#Range: > -2147483648
-	Storm_Tornado_aimAtPlayerAngleVariance = 5
+	Storm_Tornado_aimAtPlayerAngleVariance = 20
 	#Extra bit of grab angle for the tornado, tweak for different grab shapes, higher = tigher grab, lower = wider grab, might toss them away
 	#Range: > -2147483648
 	Storm_Tornado_extraGrabAngle = 20
