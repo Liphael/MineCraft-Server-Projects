@@ -1,6 +1,6 @@
 # MC服务器项目总目录 & 指南文件
-包含运行中/构思中的MC服务器项目。Containing ongoing/upcoming MineCraft server projects.
-#### 声明 Statements
+MC服务器构建、管理模板，旨在给出一个有详细改写基础说明，且能拆分服务端、客户端的体系。<br>
+MC server construction and management template aims to provide a system with detailed rewrite basic instructions and the ability to split the server and client.<br>
 开发指南见下使用教程部分，结构、定义部分为文档收录结构分层使用。<br>
 The development guide can be found in the tutorial section below, and the structure section is the hierarchical use of the document collection structure.<br>
 
