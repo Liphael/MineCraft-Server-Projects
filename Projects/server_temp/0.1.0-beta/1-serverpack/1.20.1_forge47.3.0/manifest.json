@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1.0,
-  "name": "TFCH",
+  "name": "test",
   "version": "0.1.0",
   "author": "Lipu",
   "overrides": "overrides"
